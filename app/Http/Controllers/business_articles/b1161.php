@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>While On A Hunt For A Co-Working Space In India, This Entrepreneur Ended Up Creating One Himself</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="While On A Hunt For A Co-Working Space In India, This Entrepreneur Ended Up Creating One Himself" src="https://assets.entrepreneur.com/content/16x9/822/20160525112553-bee.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Real estate startups picked up late but looks like they are here to stay with co-working offices becoming most sought after workspaces in Indian metros where new startups are created every day.</p><p>When Shesh Rao Paplikar was hunting for office-space for a New York startup , where he worked as the chief technology officer, he sensed the need of a proper, functioning co-working space in India. Shesh, who had spent close to a decade abroad, was used to very quality of co-working spaces.  Despite a rigorous hunting process, Shesh could only fetch a very mediocre working space, where he himself as a CTO had to put in a lot of effort – from fixing the Wi-Fi, calling technicians and spending hours over the IVRs!</p><p>Shesh, who by then was contemplating the idea of starting something all by himself in the tech startup space, he found it difficult to find something that matched his expectations. This tussle inspired him to create a co-working space of his own, which he christened as the BHIVE Workspace.</p><p></p><p>Shesh and his co-founder Ravindra M.K were high-school classmates back in Mysore. Both of them go back in time where they had tried to give entrepreneurship a shot in 2003 during the final year of engineering. Though that venture failed to take shape, Shesh and Ravindran kept in touch with each other.</p><p>When Shesh moved back to India, Ravindran was initially helping Shesh put things together  for BHIVE and eventually decided to quit his SAP job and join BHIVE.</p><p>The Bengaluru-based co-working space, which raised $1 million in funds from Blume Ventures last week, operates across 4 locations in India’s Silicon Valley Bengaluru. Launched in 2014, the workspace is now catering to over 150+ ventures and the company plans to expand into cities outside in Bengaluru.</p><p>Shesh sees the potential of the co-working space domain to become a billion dollar market. He expects BHIVE to churn revenue of $70 million annual revenue in the next two years.</p><p></p><p>Through several events that are conducted by the workspace the founders are given a chance to interact with investors and mentors.  Elaborating on what investors visiting the space generally look for in a startup Shesh said, “Investors generally look for the quality of a team, product market fit and long-term revenue potential of the company.”</p><p>Shesh said that he has seen an exponential increase in the confidence level amongst startups.  “Indian startup ecosystem has matured over the last three years and I see a lot more experienced people entering this field these days,” he added. He has also witnessed the entry of entrepreneurs, who were earlier working abroad, returning to India to set up something of their own.</p><p>He believes that there is a lot of capital available today, as people who were investing in real estate and other industries are now turning angels for startups.</p><p></p><p>Greenbooks was the first company that enrolled themselves to the workspace. Emphasising on workspace’s checklist for enrolment, Shesh said, “We look for companies which are financially stable who can afford the basic enrolment fee.” However, considering early stage startups lack financial stability, there are special passes such as weekend offers, etc that enable these companies afford the workspace. Some of the biggest success stories that have emerged from this space include Roadrunnr, LetsService and Springboard, to name a few.</p><p>With New York-based office rental startup WeWork gearing for their India debut, there has been a lot of chatter around the sustainability of Indian workspaces. However, Shesh says he BHIVE is ready to compete with WeWork as we have a better understanding of the market!</p><p> </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

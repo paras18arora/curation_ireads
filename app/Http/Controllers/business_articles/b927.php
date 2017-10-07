@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How to Get Paid to Give Speeches</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How to Get Paid to Give Speeches" src="https://assets.entrepreneur.com/content/16x9/822/20160623194851-GettyImages-595346689.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Imagine yourself striding onto the stage with a big smile. You warmly shake the hand of the person who just introduced you by highlighting just a few of the most amazing things you've done so far in your life.  You turn and look out at the audience.  You see their smiling, expectant faces, eager to hear what you have to say.</p><p>Forty-five interesting, engaging, thrilling minutes later, those same people leap to their feet and give you a rousing standing ovation. You wave, you smile, you walk off the stage and someone from the company hands you a big, fat check to thank you for your time, your knowledge and your terrific presentation.  The accolades pour in for weeks after as the attendees tell you how great you are and how much you helped them.</p><p>Ahhh. <em> It feels so good! </em>This is part and parcel of the life of a professional speaker and you know in your heart this is the life you were born to live! </p><ul><li>Maybe you want to speak because it would add some zest and glamour to your existing career.  (It will!)</li><li>Maybe you want to speak because you know there's no better way to attract new clients. (There isn't!)</li><li>Maybe you want to speak because you are looking to share your knowledge and make some extra dough for retirement. (Done!)</li><li>Maybe you want to speak because you are an author and you want to sell caseloads of your precious book. (Perfect!)</li><li>Maybe you want to speak because you've got something precious to give to the world and this will be the best way to give it. (Yes!)</li></ul><p>Whatever your motivation, paid public speaking is an exciting, mentally stimulating way to make some cash.  Especially if you plan to speak on a subject of interest to corporations, you stand to make good money - maybe even very good money. How do you get started?</p><h2> </h2><p>Just like any job, if you know what's going on, how to work the systems and what it takes to excel, you'll be far, far ahead of the game.  (To find out more about the inner workings of this potentially lucrative, fun industry, <a>click here</a>).</p><h2></h2><p>If you do things in order, chances are high that you will succeed. That means you'll rather quickly reach the average of 20 engagements per year for at least $5,000 each.  That's $100,00 per year extra income. <a>More on how to get straight to this level is here</a>.  But if you are a single parent, have small kids at home or needy parents, can you put in that much time away from home?  Then again, if you were making that much extra money, could you hire the help you will need to allow you to be on the road? Figure on a minimum of 2-3 days away for every one speaking day.</p><h2></h2><p>Frankly, there are a lot of <a>steps to take before you start making good money</a>. Like everything else in life, if it was easy, everyone would be doing it.  This is going to take growth, effort and even some investment on your part.  Many begin and few succeed.  If this is what you really want, I and other experts can show you the sequential steps to success, but you'll have to take them.  You'll have to grow, stretch as a person and as a performer.  You'll want to be certain before you begin that you are willing to do what it takes to achieve your dream. </p><p>Professional speaking is certainly a glamorous career. It allows you the direct power to change people's lives for the better, live your destiny and leave a powerful legacy.  And best of all, you get paid for it!  Reflect on this article. Are you ready to start earning money by giving speeches? The outline of the path was just out for your consideration. </p><p>Sign up for my upcoming free webinar called “<a>How to Get Paid to Give Speeches</a>” for lots more ideas whether you plan to speak for free or for a fee. We’ll cover how to prepare a speech, how to successfully approach meeting planners, and how to know what to say to get people excited about what you’ve got to share.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

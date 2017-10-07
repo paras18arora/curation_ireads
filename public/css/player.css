@@ -1,0 +1,25 @@
+body{padding-top: 0px;overflow:hidden !important;}
+.item{background:#151516;min-height: 100vh;}
+.reader{height:100vh;overflow:scroll;padding:0px 80px;border-radius: 0px;}
+.post-image{margin-bottom: 20px}
+.player{position: relative;border-radius: 0px;z-index:1001;}
+.player-bar{position: absolute;z-index:1002;height:70px;width: 100%;display: none;}
+.top{top:0;background: linear-gradient(to top, rgba(0,0,0,0) 0, rgba(0,0,0,0.6) 100%);}
+.bottom{bottom:0;background: linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(0,0,0,0.6) 100%);}
+.pager{margin: 20px;}
+.pager.pager-bottom  li>a{background: #bc3527;color:#fff;border:1px solid #bc3527;transition: all 0.3s ease-in-out;border-radius:0px;}
+.pager.pager-bottom  li>a:hover{background: #fff;color:#bc3527;border:1px solid #fff;}
+.pager.pager-top li>a{background: transparent;color:#bc3527;border-color:transparent;transition: all 0.3s ease-in-out;border-radius:0px;}
+.pager.pager-top li>a:hover{background: transparent;color:#fff;border:1px solid #bc3527;}
+.pager.pager-bottom > .center{display: inline-block !important}
+.controls{background:rgba(255,255,255,0.5);width:200px;margin:0px;color:#151516;}
+i[class*=" fa-angle-"]{font-size:30px !important;}
+.sidenav {height: 100%;width: 0;position: fixed;z-index: 1006;top: 0;left: 0;background-color: #fff;overflow-x: hidden;padding-top: 60px;transition: 0.3s;}
+.sidenav a {padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: #818181;display: block;transition: 0.2s}
+.sidenav a:hover, .offcanvas a:focus{color: #f1f1f1;}
+.sidenav .closebtn {position: absolute;top: 0;right: 25px;font-size: 36px;margin-left: 50px;}
+img.center {
+    display: block;
+    margin: 0 auto;
+    width:800px !important;
+}

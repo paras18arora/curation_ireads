@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Listen to Warren Buffett: Your Reputation Is Worth Cold, Hard Cash.</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Listen to Warren Buffett: Your Reputation Is Worth Cold, Hard Cash." src="https://assets.entrepreneur.com/content/16x9/822/20160621181848-GettyImages-526927824.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Warren Buffett, chairman and chief executive officer of Berkshire Hathaway Inc.</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Warren Buffett is commonly hailed as the world’s greatest investor and for good reason. As chairman and CEO of Berkshire Hathaway, he’s worth more than $66 billion.</p><p>How exactly does someone become so successful? In his book "Berkshire Beyond Buffett: The Enduring Value of Values", Lawrence Cunningham argues that one of Berkshire Hathaway’s greatest assets is something intangible but powerful: reputation. </p><h2>Reputation and integrity have economic value.</h2><p>Research shows that a good reputation is worth real money -- in fact<a>, some studies indicate that a good reputation could replace a line of credit at the bank</a>. Like few other CEOs, Buffett understands this and he has stated repeatedly that he will happily pay a premium for reputation.</p><p>Not only is Buffett willing to pay more for companies he sees as having more integrity. He is also prepared to pay to maintain his own good reputation, as one takeover bid from the 1970s illustrates.</p><p></p><p>In 1972, Buffett wanted to acquire a company called Wesco. At the time, Wesco was about to buy another company -- at a price Buffett deemed too high. He convinced Wesco’s CEO to pull out of the merger, to pave the way for a takeover by Berkshire Hathaway. What happened next was extraordinary.</p><p>First, Wesco’s stock dropped “as typically happens in such a scenario to... $11.”</p><p>At that price, Wesco was a great deal. Buffett, however, didn’t think it would be fair to buy at this price, because it was his intervention that had lowered the stock price of Wesco. So he “ordered [his] brokers to acquire the stock at prices as high as $17 and subsequently made a formal tender offer at $15”. </p><p>Many people -- including the SEC -- were baffled by Buffett’s strategy. Why would a businessman ever pay more than he had to?</p><p>Buffett spent a year explaining to skeptics and regulators that he paid a higher price to show integrity. He argued that paying this premium had economic value, because integrity is a reputational advantage that others would consider in subsequent dealings.</p><h2>How much value? Quite a lot, actually.</h2><p>History would prove him right, by the way.</p><p>Berkshire Hathaway’s reputation is what attracts entrepreneurs when they go looking for an acquirer, resulting in a greater number of opportunities for Berkshire Hathaway:</p><p>“So valuable is Berkshire’s culture that sellers undeniably treat it as a valuable part of what they receive on the sale,” Cunningham claims. “This enables Berkshire to acquire companies at lower prices than rival bidders.”</p><p></p><p>That might sound too good to be true, but there’s at least one deal where there’s tangible proof. In 1995, a home furnishings company named RC Willey sold to Berkshire Hathaway for only $175 million, even though they had received several other offers for more than $200 million.</p><p>In other words, R.C. Willey effectively paid $25 million (one eighth of the total transaction value) to be acquired by Berkshire Hathaway.</p><h2>Buffett believes in a culture of trust.</h2><p>In the early 1990s, the investment bank Salomon Brothers was in the midst of a scandal. Buffett was an investor in the company, and was asked to step in to clean house. In doing so, he dispensed some valuable advice to the bankers:</p><p>“Do nothing that you would not be happy to have an unfriendly but intelligent reporter write about on the front page of a newspaper.”</p><p>He followed up that piece of friendly advice with a clear threat:</p><p>“Lose money for the firm, and I will be understanding. Lose a shred of reputation for the firm, and I will be ruthless.”</p><p>Buffett has repeated these admonitions regularly. Of course, this quote begs the question: How does a company like Berkshire Hathaway, with over 316,000 employees, maintain this standard?</p><p>It’s not by micromanaging or by installing a big compliance department. After all, as Buffett once remarked, "some organizations with the biggest compliance departments, like Wall Street, have the most scandals. It’s not so simple that you can make your behavior better automatically just by making the complicance department bigger.“</p><p></p><p>Berkshire Hathaway chooses the exact opposite approach, by evangelizing a company-wide culture of trust. As Buffetts longtime partner Charlie Munter summarized it at Berkshire Hathaway’s 2011 annual meeting: </p><p>“The best compliance cultures are the ones which have this attitude of trust. The greatest institutions select very trustworthy people, and they trust them a lot.”</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

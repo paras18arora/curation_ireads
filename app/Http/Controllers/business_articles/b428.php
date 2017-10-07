@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>5 Things to Look for in a PR Agency</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="5 Things to Look for in a PR Agency" src="https://assets.entrepreneur.com/content/16x9/822/20150128001457-press.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>PR agencies come in all shapes and sizes, and they don’t come cheap! It is definitely not a case of one size fits all when it comes to PR firms. So, finding the right PR firm to match your expectations, fit your culture and, most importantly, accomplish the PR objectives that will move your business forward, can be quite a task.</p><p></p><p>Many companies I have spoken with in my seven years since founding and leading my own PR firm have told me that they were burned or severely disappointed by one or multiple PR firms in the past. In an industry characterized by large retainer fees and less-than-scientific outcome measurement and subjectivity, be careful and cautious: Here are five things to look for when assessing which PR agency to hire:</p><h2></h2><p>Everyone talks a good game, especially in PR! But to weed out the talkers from the doers,check out what sort of track record the firm has. To get a feel for its level of experience and ability to produce results, ask which companies it's worked with and especially which case studies and sample work it can share with you.</p><p>If you are seeking media relations support, ask the PR firm for samples of clips it has secured in publications. If you are looking for speaking and award opportunities, request a list of conferences and awards the firm has successfully secured for clients. If social media assistance is your need, ask for several handles and case studies that point to results. A PR firm should also be able to provide you with references you can talk to.</p><h2></h2><p>Finding a PR firm that specializes in your industry is key. If you are a tech startup looking to get into business and tech publications in order to woo investors and customers, then hiring an entertainment-focused PR firm probably doesn’t make sense. On the other hand, if you are a celebrity looking to appear on morning shows and tabloids, hiring a tech-focused PR firm simply won't work.</p><p>Not only does specialization allow the firm to understand your offerings and ramp up more quickly, but equally importantly, it means that your account director and PR team will have relationships with reporters at the publications where you want to be featured.</p><h2></h2><p>The PR industry gets a bad rap, and often deserves it, for not being transparent enough. Just as with any business transaction, customers should know what they are getting for their money. Consequently, you should ask PR firms you are speaking to about what you will receive, and not accept generalities if you're not comfortable with them. A competent PR firm can and should be transparent.</p><p></p><h2></h2><p>You should expect positive results relatively quickly. Results will not happen overnight, but if many months go by and the firm is making excuses week after week, and month after month, then it is probably time to move on. Some PR firms have three- or six-month discovery processes -- which is absolutely absurd. You're paying big bucks, so the firm you select should be able to start delivering in a matter of weeks, and continue to deliver, if it is any good.</p><h2></h2><p>Don’t forget, the PR company works for you, not the other way round, so at the very least you should expect to be heard! Pay attention to how its reps treat you during the proposal process. If it's "their way or the highway," run to another firm. You want one that will be attentive to you and work to achieve your individualized objectives, not just manage your expectations and treat you as a cookie-cutter client.</p><p></p><p>A good PR company is worth its weight in gold, so it pays dividends to do your due diligence when it comes time to bring one on board.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

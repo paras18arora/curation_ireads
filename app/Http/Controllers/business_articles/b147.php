@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Birchbox Is Redefining the Future of Retail in More Ways Than One</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Birchbox Is Redefining the Future of Retail in More Ways Than One" src="https://assets.entrepreneur.com/content/16x9/822/20160525150258-birchbox.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>I first encountered <a>Birchbox</a> back in 2011. My wife Evelyn had subscribed, and I’m responsible for getting our mail. Each month, I would deliver to her a box full of beauty samples that she would excitedly open, sniff, touch and use. It was like a mini-holiday at random, complete with an element of surprise and, if a product really fit the bill, joy. </p><p>So I was very happy to meet Katia Beauchamp, the co-founder and CEO of Birchbox last year when we were on a <a>panel</a> together out West. </p><p></p><p>It turns out that Katia is an absolute boss (no surprise) -- but what really staggered me is that Birchbox is an incredibly important company that I, for one, didn’t properly appreciate. </p><p>Birchbox has addressed a massive customer need -- discovery of new products -- and consumers have responded at unprecedented levels. Katia laughs about how they surpassed their most aggressive five-year projections within the first seven months after their launch in 2010, but Birchbox today has over one million subscribers in six countries. For comparison, leading magazines like Allure and Vogue have similar-sized audiences, and only a small proportion of magazine readers try a featured product. With Birchbox, the trial rate is close to 100 percent -- because it’s in consumers’ hands. </p><p>Birchbox’s subscription base provides recurring revenue and also feeds a growing ecommerce business as consumers head to Birchbox to buy full-sized products, which already account for 35 pecent of revenue. Birchbox is up to over 800 product partners, as manufacturers have increasingly recognized the need to use Birchbox as a marketing and distribution channel. Their market dominance will only increase as department stores begin to <a>struggle</a> and contract. Birchbox has expanded into men’s grooming and lifestyle products and has even opened its own brick-and-mortar store. </p><p>Birchbox is more than a subscription service -- it’s reinventing how consumers experience products and defining the future of retail. Its last investment valued the company at upwards of $750 million. </p><p></p><p>So Birchbox is a big business and category killer. But of equal importance is the company’s significance and meaning. </p><p>In an era where <a>women</a> comprise 57 percent of college graduates but only 5.1 percent of Fortune 1,000 CEOs, Birchbox is an example of positive, inclusive leadership and building for the long-term. Katia, for one, sees it as her responsibility to be a role model for a different approach to building a company. </p><p>“It’s important to me that this company is the kind of place where people want to work," she says. "We’re here to build a ‘forever’ business. My hope is to continue building this company for the next 20 or 30 years. And culture is central to that.”</p><p>Katia’s approach is a refreshing change of pace from the “<a>quick flip</a>” mentality that many entrepreneurs bring to the table. And her emphasis on culture is natural, because she lives it every day. “Before I had my twin boys, I was happy to come in at 7 a.m. to take calls with Europe and then stay until late at night. But now, I prioritize getting home before the boys go to sleep and spending time with them when I wake up. I find it rejuvenating, and it makes me a more effective CEO and leader to have that time.”</p><p>Being a Mom has only strengthened Katia’s belief in the importance of her work. “I want to create a company that evolves and treats people well, the kind of company that I’d be glad to have my sons working at years from now.” </p><p>From meeting consumer needs and redefining retail to demonstrating a different mode of company-building and leadership, Birchbox represents the future in more ways than one. </p><p></p><p>To hear an in-depth interview with Katia, click <a>here</a>. You can also see her at Venture for America’s <a>Summer Celebration</a> on June 2!  </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

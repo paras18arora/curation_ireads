@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Watch Our 8-Episode Crash Course on Crowdfunding</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Watch Our 8-Episode Crash Course on Crowdfunding" src="https://assets.entrepreneur.com/content/16x9/822/20160623182123-20160322-1412341.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Cat Clifford, host of Crowdfund With Cat.</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Here are your <a><em>Crowdfund with Cat</em></a> Cliff's Notes!</p><p>The first season of <em>Entrepreneur</em>’s new web series covered topics such as what in the world equity crowdfunding means to what language is most effective in getting people to contribute to a crowdfunding campaign.</p><p>If you are interested in learning more about what it means to invest in a startup through equity crowdfunding or how to raise money through more traditional, donation-based crowdfunding, then welcome. This is your video-tutorial-introduction-to-crowdfunding crash course. Here’s a complete list of each episode we have published so far.  </p><p>If you have questions about crowdfunding that we haven’t answered yet, tweet at me! I am @CatClifford on twitter. Use the hashtag #CrowdfundwithCat and follow along with the conversation.</p><h2><a></a></h2><p>In this first episode of <em>Crowdfund with Cat</em>, Alon Hillel-Tuch, a co-founder of the crowdfunding platform <a>RocketHub</a>, walks us through what equity crowdfunding is and how it’s different from the more traditional donation-based crowdfunding.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/5f_v___rceA?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>In this second episode of <em>Crowdfund with Cat</em>, Alon Hillel-Tuch, a co-founder of the crowdfunding platform <a>RocketHub</a>, explains that as of May 16, a law change will mean that everyone can potentially be an investor in equity crowdfunding. Anyone with the cash and the interest will be able to invest in startups.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/FmJm1bBRUlw?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>Here we explore what kind of entrepreneurs would be best suited to raise money with equity crowdfunding and who should be considering investing in startups through equity crowdfunding.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/yQDPD27Fo5s?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>Even still, investors can indeed be rewarded handsomely for taking a savvy risk on the right startup. How does that work, though? We answer that in our fourth episode of <em>Crowdfund with Cat</em>. In particular, what needs to happen for an investor to make money on an equity crowdfunding investment?</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/g_i2y1DPQ5Q?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>In our fifth episode of <em>Crowdfund with Cat</em>, Brian Meece, the co-founder of crowdfunding platform <a>RocketHub</a>, walks us through the foundational principles of running a successful crowdfunding campaign.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/WYjTe9Ee5Mg?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe> <h2><a></a></h2><p>The co-founder of crowdfunding platform <a>RocketHub</a>, Brian Meece, talks to us in this sixth episode of <em>Crowdfund with Cat</em> about what an effective crowdfunding video should look like. He also lays out the framework for how to produce one with limited resources.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/WzY9bSJxICA?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>In the seventh episode of <em>Crowdfund with Cat</em>, Brian Meece, the co-founder of crowdfunding platform <a>RocketHub</a>, explains when and how crowdfunding campaign owners should be communicating with their crowdfunding backers.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/JhGJVlVZOrk?list=PLHl2hjtjevtz7DN7DVQcSb-CWqmMeCZo6" width="610"></iframe><h2><a></a></h2><p>Women raise more money with crowdfunding than men do, all other things being equal, according to a study of nearly 10,000 Indiegogo campaigns.That’s because women tend to use more positive and inclusive language and that builds community with potential investors, says <a>UC Berkeley Haas School of Business Assistant Professor Andreea Gorbatai</a>. In the eighth episode of <em>Crowdfund with Cat</em>, we take a closer look at the language that comes naturally to women that makes them successful crowdfunders.</p><iframe allowfullscreen="" frameborder="0" height="343" src="https://www.youtube.com/embed/0fcaP4i7icc" width="610"></iframe>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

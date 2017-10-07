@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>4 Steps to Maximizing Customer Referrals</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="4 Steps to Maximizing Customer Referrals" src="https://assets.entrepreneur.com/content/16x9/822/20160601160749-GettyImages-175138709.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>You can throw all the money you want at your marketing campaign -- spend tens of thousands of dollars on branding, landing pages, funnels, Facebook, sales letters and postcards -- but the single-best new customer is still a referred new customer. According to a study conducted by The New York Times, 65 percent of companies’ new business comes from referrals.</p><p>One of the best parts about getting a referral is that referred customers spend more than customers gained via cold media. A study done in 2011 by The American Marketing Association, involving over 10,000 customers at a well-known German bank, discovered that referred customers spend more on their first visit, stay customers longer, and have an overall 16 percent higher lifetime value than non-referred customers.</p><p></p><h2>How to generate more referrals.</h2><p>Referrals can come in a few different forms -- the two most popular forms of referrals are word-of-mouth referrals and partner referrals.</p><p>Word-of-mouth referrals are the most basic referrals, where one person simply tells another person about your business, product, or service. Partner referrals<em> </em>come when an entity with a list or audience promotes your business, product, or service. For the purposes of this article, let’s focus on word-of-mouth referrals. To successfully get a mass number of word-of-mouth referrals, you need to:</p><ul><li>Serve</li><li>Motivate</li><li>Recognize</li><li>Remind</li></ul><h2>1. Serve your customers.</h2><p>Referrals all start with how well you or your product <em>serve</em> the needs of your customers. This may seem obvious, but I can’t tell you how many times I’ve gotten great service from the owner, only to have Battle-Ax Bertha at the front desk ruin any chance of a referral from me.</p><h2>2. Motivate your customers.</h2><p>Step two is to motivate your customer to refer. Typically this is done via a monetary reward, but it has to make an impact. Companies fail at this when they don’t provide a reward with a high enough value to encourage their customers to sing their praises. If you want more referrals, now is not the time to be cheap.</p><p></p><p>I’m often amazed that companies will pay hundreds of dollars for new leads via cold traffic but want to offer a $25 gas gift card for a referral. That’s crazy. Contrary to popular belief, if you want to generate more referrals, it will require a significant investment of money on your part.</p><h2>3. Recognize your customers.</h2><p>If you really want to kick the referrals into overdrive, find ways to recognize publicly those customers who have sent you the most referrals. Facebook, the office, and your newsletter are all good places to start.</p><p>Write an article about how amazing this person is and thank them for their referrals in your newsletter. Give them an award at your next customer appreciation event. Giving your best referral sources a way to share their success with others while promoting you is a great way to get more referrals.</p><p></p><h2>4. Remind your customers.</h2><p>Finally, if you really want referrals, you have to remind people who you are, all that you do, and that you’re still in business. Studies have found you have no more than three days of top-of-mind awareness after a positive interaction with a customer, and that it is during those three days that customers are most likely to refer. Using an item like a newsletter, greeting card, or individual note to create an additional positive interaction with your customers will increase referrals.</p><p>If you want to know more about growing a business with referrals, download a free chapter of my book, “<a>The No B.S. Guide to Maximum Customer Referrals and Retention</a>” co-authored by myself and Dan Kennedy.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

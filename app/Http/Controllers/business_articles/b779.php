@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Here"s How to Attract Talent for Your Pre-Revenue Startup</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Here's How to Attract Talent for Your Pre-Revenue Startup" src="https://assets.entrepreneur.com/content/16x9/822/20151217174457-hiring-interview-man-woman-interviewer-office-job-career-employment-human-resources-employee-application.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>We're now accepting submissions for our 2016 Top Company Cultures list. Think your company should be on it? <a>Apply Now »</a></em></p>
+
+										
+					
+	
+	<p></p><p> I’m not going to sugar coat this response. When you’re pre-revenue and don’t have funding, you shouldn’t be trying to build out a big team. Instead, you need to focus on advancing your startup to the point where you can either start generating revenue, get funded, or both.</p><p>With this in mind, it’s time to get very clear on exactly what needs to happen in order for your startup to get to that funding or revenue milestone. For instance, do you have a business background with a great idea for a product, but lack the expertise to make a working prototype? Or, maybe you’ve developed an app, but lack the business experience to turn your product into a viable company. Whatever the case might be, write down the tasks that need to happen to move your business forward to the stage of revenue or funding. This “stage” varies depending on the industry you’re in, but at a base level, you’ll likely want to have a working prototype, and be able to demonstrate that there’s a market for the product or service you want to provide.</p><p></p><p>Once you’ve identified exactly what needs to happen, cross off any items that you know you can complete yourself. Now that you have a lean list of what you need help with, you can start looking for the talent that can help achieve these tasks. Here’s some advice on how to do this:</p><h2></h2><p>Before thinking about how you can attract talent to work for your company full-time, I’d look for ways to access advisors and other resources for free.</p><p>For students, many universities have some type of innovation or entrepreneurship center with staff that can either give you specific advice how to move your business forward, or put you in touch with mentors in your industry who can offer this guidance. If you’re not a student, similar resources could be available in your community. For instance, in Boston we have <a>Score Boston</a>, which offers free and low-cost mentoring to help people start and grow businesses.</p><p>Also, a quick online search for “free startups resources” will yield numerous well-organized lists of hundreds of tools that can help you develop, market and sell a variety of products and services.</p><p></p><h2></h2><p>Bringing on a co-founder with complementary skills can be an incredible asset in moving your business forward, and is also something you can do before your startup is making money or has funding. Last week I went into the details on <a>how to find a co-founder</a>, as well as what qualities you should look for beyond possessing the right skill-set.</p><p>When you do bring on a co-founder, make sure the equity split and corporate structure is ironed out very early on. Too often startups that don’t have revenue or funding think they can leave these conversations and contracts for a later date. Really, waiting does nothing but leave you open to potentially messy situations involving compensation when you get to the funding or revenue stage.</p><h2></h2><p>If you find that you still need extra help to complete tasks after bringing on a co-founder and taking advantage of free resources, you can start looking into low-cost ways of finding the right people to complete specific projects on a part-time or contractor basis. </p><p>Gig marketplaces are one place to start this search. <a>HourlyNerd</a>, one of the startups out of the Harvard Innovation Lab that focuses on MBAs for contract hire, could be helpful. For a site that offers a broad range of contractors, there’s always <a>Fiverr</a>. </p><p>Another option is partnering with universities that offer co-ops to bring on talented students. In Boston, some universities even offer grants to go along with their co-op programs, where the university will pay for part of a student’s salary to work at your startup.</p><p>In terms of how you’ll afford these contract or part-time workers without funding or revenue, you might have to dip into your personal savings, take some contract work yourself, or even consider selling items you own. It’s always worth noting that Steve Jobs sold his Volkswagen to start Apple. </p><p></p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>5 Ways to Overcome Cultural Barriers at Work</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="5 Ways to Overcome Cultural Barriers at Work" src="https://assets.entrepreneur.com/content/16x9/822/20151120151903-creating-culture-workplace-group-meeting-diversity-community-teamwork-startup-teaching-ideas-communication.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>We're now accepting submissions for our 2016 Top Company Cultures list. Think your company should be on it? <a>Apply Now »</a></em></p>
+
+										
+					
+	
+	<p>Nowadays, diversity is typical in most workplaces. With the advancement of technology, it’s not uncommon to deal with clients and customers from all over the world.</p><p>While this may be the new norm, the possible challenges of diversity cannot be ignored. Language barriers may make it difficult to communicate effectively, or cultural differences may inhibit internal and external customers from being comfortable enough to open up, socialize or bond.</p><p>These potential issues may hinder relationships in the workplace; therefore, if you plan to do business on a global level, you need to find solutions to break down any barriers. Here are some ways that will help.</p><p></p><h2>1. Learn a few key phrases.</h2><p>Because clear communication is essential for effective functioning, it is necessary that each of your employees understand what your clients and customers need. Depending upon the number of clients or customers with whom you work and the amount of diversity, it may not be possible for you to learn all the languages, but learning a few greetings and key phrases can go a long way.</p><p>You may want to consider a form of foreign language or <a>cross-cultural training</a> for employees who deal with clients of a specific culture. Compile a list of books and put them on a “recommended reading” list. One good one is "<a>Kiss, Bow or Shake Hands: The Bestselling Guide to Doing Business in More Than 60 Countries</a>" by Terri Morrison and Wayne A. Conaway.   </p><h2>2. Learn your client’s culture.</h2><p>Taking the time to research or inquire about another’s culture can go a long way to make them feel comfortable. Learn about the things your clients and customers like and value: their food, their customs and protocol, business practices and what they do for fun. Since there is a host of information available online, you can easily discover the basic tenets of their culture. Because of your extra effort, the people with whom you work will feel appreciated and will be more apt to recommend you and do business with you in the future.</p><p></p><h2>3. Promote appreciation of cultural differences.</h2><p>Set aside a special day where you ask a few employees or co-workers to share aspects of his or her culture or a client’s culture with everyone. Make it fun. Ask the employees to give a “Lunch-and Learn” presentation featuring the foods, ceremonies and other aspects of that culture. This will not only promote socialization, it will give each person the opportunity to learn about and appreciate one another’s culture. Also, you can invite your employees to write a feature article in your newsletter or internal communications about a particular culture.</p><h2>4. Be open to trying new things.</h2><p>While traveling to visit clients in other countries, be open to trying new things  -- like the food -- at least once. Even if you don’t like something, you will be appreciated for making the effort. If you are allergic or prefer not to partake in something (like drinking alcohol) do not compromise your own values, however, to accommodate theirs. You are permitted to respectfully decline. The idea is not to create boundaries, but to build bridges and open the door to cultural differences.</p><p></p><h2>5. Be accommodating.</h2><p>If your employees, clients or co-workers have cultural requirements, like prayer times or religious holidays, accommodate their needs into your work schedule. You would certainly want someone to respect your culture if the tables were turned.</p><p>Regardless of your business type, keep an open mind. Know that your way is not the only way. You don’t need to change your culture or convince others to change theirs, but rather, find common ground where everyone can understand each other and respect and embrace cultural differences.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

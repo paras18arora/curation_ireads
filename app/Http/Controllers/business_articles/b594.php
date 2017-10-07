@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>7 Companies You Probably Didn"t Know Were Canadian</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="7 Companies You Probably Didn't Know Were Canadian" src="https://assets.entrepreneur.com/content/16x9/822/20160701173050-GettyImages-479280794.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>Attend our free webinar July 12 and discover SEO, social media and content tactics to boost your brand’s online visibility. <a>Register Now  »</a></em></p>
+
+										
+					
+	
+	<p>That’s right folks, today is #CanadaDay2016. Thousands of people are expected to celebrate <a>Canada’s 149th birthday</a> with fireworks and other festivities.</p><p><a></a></p><p>To honor our neighbor to the north, here are seven successful companies that were born and raised in Canada:</p><h2></h2><p>Canada Goose started as an outerwear company for braving the cold -- but when CEO Dani Reiss was handed down the brand from his father and grandfather before him, it turned into a luxury arctic clothing line.</p><p>Canada Goose apparel is now sported by <a>celebrities</a> such as Jimmy Fallon, Emma Stone and Bradley Cooper.</p><p>The luxury jackets range in price from $400 to $1,000.</p><blockquote class="twitter-tweet" data-lang="en"><p>Nunavut to Newfoundland, every corner of this country is worth exploring. Where are you heading next? <a>#CanadaDay</a> <a>pic.twitter.com/URDsRtpjTy</a></p>— Canada Goose (@CanadaGooseInc) <a>July 1, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p></p><h2>Herschel</h2><p>Brothers Lyndon and Jamie Cormack grew up in Herschel, Canada -- an incredibly small town with only 30 people.</p><p>In 2009, the Canadian brothers found success in handbags and backpacks that are a cross between sporty and high-end -- naming the brand after their hometown.</p><p>The team has expanded to 72 countries in only six years.</p><p></p><h2></h2><p>You have likely heard of the massive entertainment technology company, IMAX, but did you know that the company is actually from Canada?</p><p>Since IMAX was founded in 1968, there are now more than 1,000 IMAX theaters across the globe and more than 450 million people have seen an IMAX movie, according to the company's <a>website</a>.</p><h2></h2><p><a>Lululemon</a> has become a wildly popular athletic clothing company across the globe but it’s beginnings are traced back to Vancouver.</p><p>Chip Wilson founded Lululemon in <a>1998</a> -- first as a yoga wear company for women -- but today has expanded the brand to include clothing for men and a wider variety of athletic wear.</p><blockquote class="twitter-tweet" data-lang="en"><p>Hockey, trail running, yoga on Parliament Hill—grateful for all the ways we live <a>#thesweatlife</a> in Canada. <a>#CanadaDay</a> <a>pic.twitter.com/VQEPWtASoV</a></p>— lululemon athletica (@lululemon) <a>July 1, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><h2></h2><p>Gilden was founded by the Chamandy family in 1984 in Montreal. The company first started as a fabric manufacturer and turned into an athletic wear brand.</p><p>Today, <a>Gildan</a> focuses on low-cost, high-volume, basic, unbranded apparel which other companies often put their logos on.</p><h2></h2><p>MEC, or Mountain Equipment Company, was <a>started by</a> a couple of mountaineers in 1971 because climbing gear was hard to find in Vancouver at the time.</p><p>According the company's <a>website</a>, climbers in Vancouver had to travel all the way to REI in Seattle to stock up on gear.</p><p>MEC now fills the void as Vancouver has become a popular climbing location.</p><blockquote class="twitter-tweet" data-lang="en"><p>Happy Canada Day! We will be open today from 10 am to 7 pm! <a>#CanadaDay</a> <a>pic.twitter.com/quokbJKxMz</a></p>— MEC Vancouver (@mec_vancouver) <a>July 1, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><h2></h2><p>David Segal and his cousin, Herschel Segal, opened up a tea shop in Toronto that has since grown to 160 locations. The company vends 150 different teas along with infusers, mugs and other tea related accessories.</p><p></p><p>Its <a>website</a> claims that the team has more organic teas than any other tea vendor in North America.  </p><blockquote class="twitter-tweet" data-lang="en"><p>Happy Canada Day! Until tonight, get 25% off site-wide when you spend $75. <a>https://t.co/y2UASvAAk9</a> <a>pic.twitter.com/kz2RvS5V9Z</a></p>— DAVIDsTEA (@DAVIDsTEA) <a>July 1, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

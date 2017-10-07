@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>True Financial Literacy Starts With Questioning Traditional Financial Advice</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="True Financial Literacy Starts With Questioning Traditional Financial Advice" src="https://assets.entrepreneur.com/content/16x9/822/20160526160310-GettyImages-97335848.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Robert Kiyosaki</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>April, when many people dread tax time, came and went with few noticing the month is is often referred to (with the best of intentions) as <a>Financial Literacy Month</a>. It's the time each year when we think about our finances and what we can do to get smarter with our money but now it's almost Memorial Day and, you know what they say about good intentions.</p><p>So often “financial education” focuses on managing your money -- rather than growing it. It focuses on income versus assets… and on saving versus investing.</p><p>It’s the financial industry’s playbook to assess your current financial situation, build a budget, cut expenses, pay down debt, create ‘saving for retirement’ goals, and prepare for the unexpected. In my book, that’s old -- obsolete -- advice and a recipe for financial disaster.</p><p>These two points of view were those of my rich dad and my poor dad, and the experiences that led me to write <em>Rich Dad Poor Dad</em>. My poor dad, my biological father, struggled financially his entire life playing by the old rules of money. My rich dad, my best friend's father, taught me a different way to approach money and investing. He didn't accept the conventional wisdom when it came to money, and for him <em>every day</em> was a financial literacy day. He grew to be very rich by learning to understand money,</p><p>So, as someone who’s been branded a contrarian, someone who’s been known to rock more than a few boats when it comes to the way we think about money and the role it plays in our daily lives, I propose an alternate course… a financial road less traveled. It’s not always easy, and it’s not for everyone. But if you know that you are meant for more than just sitting on the sidelines in the game of life… here’s what I suggest.</p><h2>.</h2><p>There are thousands financial planners who will "assist" you in creating a financial statement and your net worth. The problem is that <a>traditional balance sheets are net <em>worthless</em></a> -- for the average individual. They classify your home and car as assets based on a perceived market value, even though they cost you money each month and can depreciate each day you own them. This is often a confusing concept for the average person. Why? Because we’re taught so little about money in school. And because the rules of money have changed and continue to change as our world changes.</p><p>Rich dad had a very simple definition for an asset and a liability. An asset puts money in your pocket. A liability takes money out of your pocket. When I wrote <em>Rich Dad Poor Dad</em>, I used these simple definitions to state that your house is not an asset, but rather a liability. It takes money out of your pocket each month—because even if you own it free and clear you must still pay utilities, insurances, maintenance, taxes, etc. When <em>Rich Dad Poor Dad</em> was published, in 1997, the so-called experts revolted. But when the housing crash hit in 2008, many people learned, first-hand, that a house <em>can </em>be a liability. Investment property on the other hand is an asset -- if it cash flows and puts money in your pocket every month.</p><h2></h2><p>Most financial planners and money “experts” tell you to cut expenses. Live within (better yet: below) your means. I have a different philosophy… because I believe that living below our means kills our spirit. It dampens our ability to dream and create the future we deserve.</p><p>Rather than say, "I can't afford it," my rich dad taught me to ask, "How can I afford it?" That is a mindset of abundance that forces you to think and expands your horizons. Can you create an asset or income that will allow you to afford what you’d like to acquire? Maybe it’s starting a business. Or buying a new car. How <em>can </em>you afford it?</p><h2></h2><p>Most financial advisors will tell you to eliminate your debt. This is because most people don't understand the difference between good and bad debt. The average person has only bad debt, debt incurred by purchasing liabilities like vacations, TVs, cars, and houses.</p><p>Good debt uses other people's money to purchase cash-flowing assets. For instance, when I purchase investment property, I use the bank's money to pay for most of the asset. Other benefits of investments using debt include tax advantages and a higher return on my investment (ROI) because I’ve used less of my own money to purchase the asset.</p><p>Rather than look to reduce all debt, find ways to reduce your bad debt and grow your good debt to help buy or build assets.</p><p>I’ll close with some good news: You don't have to wait till April rolls around next year to start taking steps to get smarter with your money. Start today, and do it every day. Because every day should be <em>your</em> financial literacy day.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

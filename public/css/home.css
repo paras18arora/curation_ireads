@@ -1,0 +1,22 @@
+*{font-weight: 200 !important;letter-spacing: 0.03em;}
+a{color: #000;}
+a:hover{text-decoration: none;cursor: pointer;}
+body{padding-top: 0px}
+.nomargin-leftright{margin-right: 0px;margin-left: 0px}
+.jumbotron{padding-top: 75px;padding-bottom: 75px;background-color: #e1eef7;}
+.home-search{padding:25px !important;}
+.home-search-btn{padding:14px !important;}
+.home-btn{padding:8px 24px;font-size:16px;transition: all 0.25s ease-in-out;background: #fdfdfd;border:1px solid #eee;color:#bc3527;}
+.home-btn:hover{border:1px solid #bc3526;background: #bc3526;color:#fff;}
+.item{height: 20rem;background: #8bc34a;padding: 1rem;text-align: center;color:#fff;}
+.btn-show-all{background:none !important;}
+.btn-show-all:hover{border:1px solid #bc3527;color:#bc3527;transition: all 0.25s ease-in-out;}
+.newspaper{max-height:100px;overflow:scroll;}
+.newspaper .list-group{border:0px solid #fff;box-shadow: none !important}
+.newspaper .list-group-item{border-radius: 0px;border:0px solid #fff;border-bottom:1px solid #ddd;}
+.owl-controls{position: absolute;top:40%;width:100%;}
+.owl-nav .owl-prev{position:absolute;left:0;}
+.owl-nav .owl-next{position:absolute;right:0;}
+.owl-theme .owl-controls .owl-nav [class*=owl-]{border:1px solid transparent;background-color: transparent !important;color:#000 !important;transition: all 0.5s ease;}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover{border:1px solid #bc3527;background-color: transparent !important;color:#bc2527 !important;}
+.item-size{height:100px; width:100px;}

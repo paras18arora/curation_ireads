@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Don"t Make These 5 Risky Franchise Ownership Mistakes</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Don't Make These 5 Risky Franchise Ownership Mistakes" src="https://assets.entrepreneur.com/content/16x9/822/20160426193253-woman-working-home-office-thinking-agenda-reading-contracts-telecommuting-aerial.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>As a <a>franchise coach</a>, it’s my job to help people find the perfect franchise fit for their needs -- and help them successfully navigate the entire franchise buying and ownership process. Over the years, I have seen it all -- the wonderful successes as well as the horrible mistakes. As a coach, it’s my job to give people quality advice based on my experience and their skill set, But I cannot force them to follow it. Below are some of the most common mistakes I see as <a>a franchise coach</a>, and how you can avoid them when exploring franchise opportunities.</p><p></p><h2></h2><p>The franchise you choose must truly fit you in order for you to succeed as a franchisee. Your skills, lifestyle and location preferences, financial situation and personality are all things you must consider before buying a franchise. For instance, if you know you will be miserable in a location with cold weather, don’t buy a franchise up north. Or if the business model requires you to work nights and weekends and you’re looking to spend more time with your family, that’s probably a bad fit. Knowing yourself isn’t always as simple as that, but the better the franchise fit, the more comfortable -- and successful -- you will be running your business. </p><h2></h2><p>Some people don’t like to do the due diligence. They trust their instincts to make decisions for them. While trusting your gut may sound romantic to some, it is not a trait of successful business owners. The key to being a successful business owner lies in making informed decisions backed by research and hard work, not blindly following a “good feeling.” If you want to see success, you need to do your due diligence.</p><p></p><h2></h2><p>Some people tend to fall in love with an idea or a concept -- then they do the due diligence that only supports their preconceived ideas. They are blinded by their bias and their research ends up being one-sided instead of thorough and complete. I once worked with a man who was in love with the concept of solar and LED. It didn’t matter to him if the business model made sense. He was going to get into this area of business regardless. Thus, he only wanted to see the facts that would support his desire to enter this industry, without ever investigating the potential pitfalls. Again, this is not a trait of successful business owners.</p><h2></h2><p>It is vitally important to know the P&L -- profit and loss -- related to any business you are contemplating buying. You cannot shortcut this process. Do your research, speak with current and former franchisees, and understand the real income and expense categories before buying your business. You need to know the financials before getting into the business, as well as the cost it will take to achieve the break-even point and generate positive cash flow. In fact, this topic is so important we dedicated all of chapter 12 to this in <a><em>The Educated Franchisee</em></a>. Once you know this and your own financial resources, you minimize the risk of financial hardship.</p><p></p><h2></h2><p>Some folks think the franchisor will do it all for them -- that somehow a franchise is a silver bullet where you can work less and make more with no risk. In reality, the first year in any business is hard, franchise or not. When you buy a franchise, it is almost guaranteed that you will work harder and make less during that first year. The franchisor will do what they can to help you but, in the end, it is about you. You are in charge of building up your business to become profitable. You are responsible for your own success.</p><p>All successful business owners learn from their mistakes, but the very best always do their due diligence and avoid many potentially catastrophic mistakes in the first place. Which kind will you be?</p><p> </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

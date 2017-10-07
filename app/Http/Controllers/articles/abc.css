@@ -1,0 +1,40 @@
+
+article, aside, details, figcaption, figure, footer, header, nav, section {
+    display: block;
+    text-align: justify;
+}
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    }
+    .syntaxhighlighter table {
+    table-layout: auto !important;
+    width: 100% !important;
+}
+
+.site-content article {
+    border-bottom: 2px double #F3F3F3;
+    margin-bottom: 28px;
+    word-wrap: break-word;
+  }
+  body {
+    font-family: Open Sans,Helvetica, Arial, Verdana, sans-serif;
+    color: #000;
+    line-height: 2;
+  }
+
+pre {
+    display: block;
+    box-sizing: border-box;
+    white-space: pre;
+    word-wrap: normal;
+    overflow: auto!important;
+    padding: 13px 17px;
+    font-size: 14px;
+    margin: 28px 0;
+     background-color: rgba(0,0,0,.05);
+    border-radius: 3px;
+}

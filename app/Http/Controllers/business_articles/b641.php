@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How Do You Incentivize Kids to Do Better in School? Build a Social Network That Rewards Them.</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How Do You Incentivize Kids to Do Better in School? Build a Social Network That Rewards Them." src="https://assets.entrepreneur.com/content/16x9/822/20160621175241-logan-cohen-trevor-wilkins.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Logan Cohen and Trevor Wilkins.</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+											<p><em>Attend our free webinar July 12 and discover SEO, social media and content tactics to boost your brand’s online visibility. <a>Register Now  »</a></em></p>
+
+										
+					
+	
+	<p>Trevor Wilkins learned discipline early on, thanks to a simple system: His parents gave him $10 for every A and $5 for every B on his report cards, but they made him pay back $20 for every C he earned.</p><p>The Chicago native says that this approach was a major factor in his and his siblings' Ivy League educations. Studying sociology at Princeton, Wilkins says he saw firsthand the success students had when they had a supportive foundation at home. "I thought this might be able to help students all over the world," he tells <em>Entrepreneur</em>.</p><p>Now 26, Wilkins co-founded <a>Küdzoo</a>, a startup looking to excite students about learning by combining tech they can't live without -- smartphones -- with incentives such as gift cards, discounts, scholarship opportunities and shadowing experiences.</p><p></p><p>Wilkins and his co-founder, 25-year-old Logan Cohen, first met at a Phillies game when they were in college, and they have been working on the app for the last year and a half. Initially, the pair bootstrapped the company, until they received $75,000 in funding from the inaugural Princeton Alumni Entrepreneurs Fund.</p><p>Cohen says that even though it seems like kids (and let's be honest, some adults) are attached to their phones and reject everything else around them, they deserve a lot more credit. "With the technology that they have now, they are used to getting their information instantaneously," he says. "Why not have empowerment, recognition and reward as part of that social media generation? We believe Küdzoois filling that void."</p><p></p><p>While they were developing the app, the duo taught a class to high school students once a week at the Science Leadership Academy in West Philadelphia, an experience they say was invaluable to the end product that is available for iOS and Android users today.</p><p>"Half the class was teaching them that they can be their own boss, [things such as] what an elevator pitch was, and [the students] also served as a focus group for Küdzoo," Cohen says."What was cool was that they were brutally honest. We would be so excited about a certain design and they kids would say 'Oh, Ms. Logan, we would never use that.'"</p><p></p><p>In exchange for good grades, users receive Küdzoo Cash,which they can put towards rewards such as $10 Panera Bread gift cards, scholarship information and 30 percent off discounts at Levi's. The company had a soft launch in 2014 to test the technology, and about 5,000 students signed up for the service. The app officially launched at the start of the 2015-16 school year and now is approaching half a million active users.  </p><p>Wilkins explained that Küdzoo makes money by allowing brands to connect with students through ads, sponsorships and engagement opportunities on the platform. Küdzoo also sells Küdzoo Cash to schools and districts looking to reward their students.</p><p></p><p>He believes that the chance to take responsibility for their achievements is a message that resonates with users, and that sets Küdzoo apart from competitors. "Students are engaged with our brand. We go out of our way to engage students as much as possible to relate academic success with Küdzoo, not just rewards," he says. "They know they can get rewards with us, but they know we care about how they're doing as well."</p><p>It's this demonstration of care that paves the way to make Küdzoo successful with students, says Jeff Livingston, an associate professor of economics at Bentley University in Waltham, Mass. Livingston notes that a lot of research has shown that incentives for improving grades don’t have a significant effect, especially if students have to wait weeks or months to reap the rewards.</p><p></p><p>"Students these days communicate with each other and build communities through apps like Snapchat. These work because of the networks that form around the app,” Livingston told <em>Entrepreneur</em>. “The more people who use the app, the more successful it becomes. If incentives become more salient and exciting to students because they are all using the app, [Küdzoo] has the potential to be quite successful.”  </p><p>Ultimately, Wilkins and Cohen view the app as a tool that can help any kid. "We're looking to appeal to all students within the bell curve," Wilkins explains. "Students that are at the bottom of it that definitely need the extra incentive, and then students at the other end of the spectrum who love school and this is another form of quantifying that."</p><p></p><p>When asked what's next for Küdzoo, Wilkins responded, "the world," with a laugh. The duo say now is a prime time to cultivate an engaged user base. "We want to be a support system for students that may or may not have one," Cohen says.</p><p>While Küdzoostarted with grades as its main metric for success, Wilkins and Cohen plan to one day branch out and add extracurricular achievement as another barometer.</p><p>"If students thank us for a reward," Cohen says, "we say, ‘You earned this. This is your achievement.’"</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

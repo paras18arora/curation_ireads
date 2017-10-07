@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>3 Free Things Shark Tank"s Daymond John Says You Must Do to Help Your Startup Survive</h1>
+									<div class="pl pl-heroabove">
+													<div class="hero video-player informPlayer">
+								<div class="ndn_embed" data-config-widget-id="2" data-config-type="VideoPlayer/Single" data-config-tracking-group="91885" data-config-playlist-id="13434" data-config-video-id="30926358" data-config-site-section="entrepreneur">
+								</div>
+							</div>
+											</div>
+							
+								
+				
+				
+										
+					
+	
+	<p>A business launches in America every 60 seconds, according to the <a>Brookings Institution</a>. Every 80 seconds, one fails. Only about half of newly established companies last five years or more and about one-third survive 10 years or more, <a>the U.S. Bureau of Labor Statistics</a> reports.</p><p>The statistics are daunting, but don’t be discouraged by them, Daymond John says. Instead, put your time and energy into digging in and fighting for your startup’s survival right out of the gate.</p><p>“It’s OK to have a healthy sense of paranoia,” the FUBU founder told <em>Entrepreneur</em>, “but only enough to fuel the fire to keep going, get better and survive.”</p><p></p><p>We recently caught up with the multi-millionaire marketing mogul on the set of <em>Shark Tank</em> in Culver City, Calif., where he shared the top three basic steps you can take to help your business succeed in the sink-or-swim startup game.</p><h2></h2><p>“People have many individuals around them who they can barter and trade with at the beginning of their business that they don’t leverage to their advantage. We’re talking tapping into other people’s marketing, mind power and momentum, even other people’s manpower. Cross-promote with others’ in the industry you operate in. It goes both ways. You promote them and they promote you. It’s mutually beneficial and it doesn’t cost a thing.”</p><h2></h2><p>“Absolutely study and dominate social media. Make social media 99 percent of your priority. There are about 15 social platforms that you can go onto to acquire customers and/or see what they like and don’t like, or, more importantly, to know what your competition is doing and learn off of them. That’s an education that’s yours for the taking, for free. Social media marketing is really, really important. I even do it myself today, every single day. Be all over Twitter and Snapchat. Make it happen to build up your business.”</p><p></p><h2></h2><p>“All you need are one or two infectious advocates of your brand to take your startup over the top. Get your brand’s fans excited to be part of a movement and they’ll spread the word about you for free. Feed them. Give them information and even free product, if you can. Give them a special moment with you that they can snap a pic of and share all over social media. Once they’re part of your brand tribe, believe me, they’ll do the promoting for you. It’s amazing.”</p><blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"><div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"><div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"> </div></div><p><a style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;">Not sure what we're giggling about here. Press junket day = a blur. Thankful for my trusty recorder. #SharkTank</a></p><p>A photo posted by Kim Lachance Shandrow (@lashandrow) on Jun 20, 2016 at 10:22am PDT</p></div></blockquote><p> </p><p><script async defer src="//platform.instagram.com/en_US/embeds.js"></script></p><em>To glean more of John’s advice, check out Shark Tank’s Season Eight premiere on your local ABC station. It airs on Sept. 23 at 9 p.m. ET. </em>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

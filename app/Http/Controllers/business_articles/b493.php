@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Can Online Reviews Boost Your Sales?</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Can Online Reviews Boost Your Sales?" src="https://assets.entrepreneur.com/content/16x9/822/20151216143125-rubber-stamp-five-stars-rankings-reviews.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>When was the last time you purchased a product online, or even offline? Did reviews play a role in your decision?</p><p>Nowadays, reviews are more important than ever before. It’s so much easier to get feedback with social media playing a key role in decision making. Consumers leave reviews on eCommerce sites like Amazon and Flipkart, which can help a buyer make an informed choice.</p><p>Research suggests that 88 per cent of consumers trust reviews.</p><p></p><p>The words and the manner in which consumers speak about a brand can strongly influence buying decisions. Social media has made the process very democratic and given power to consumers.</p><p>Before the evolution of social media, a few media houses controlled the brand narrative, and it was possible for brands to manipulate their messaging. But now, almost everyone has the power to influence their peers with a little tweet, or a Facebook post.</p><p>Companies are beginning to offer incentives to help boost consumer experience. Some businesses are giving away products for free in exchange for an honest review.</p><p>Good customer service and responsiveness to negative comments can also enhance brand image thereby <a>driving more sales.</a></p><p></p><p>If a consumer searches for a product online, there is a high likelihood that a product with the most relevant reviews shows up higher on search rankings.  If it is a local business, Google’s local business directory shows businesses in the local area and most likely customers choose a business that has more positive reviews.</p><p></p><p>Businesses may think that getting a negative review is bad. This is not always the case. In some cases, it is just a situation where you can’t please everyone. Some consumers are just impossible to please, and society sees right through that. Some consumers will make a retaliation purchase and leave a review in response to another. This causes positive friction with your audience and may lead more consumers to want to prove the negative voice wrong.</p><p>In this case, negative reviews can actually help, because you have other people with positive experiences who are standing up for the brand.</p><p>Besides, not every product works for everyone. What works for one consumer may not necessarily work for the other. Consider <a>this exampl</a>e about health supplements.</p><p>Some consumers rave about good results with their prostate using this product, while others claim that they had zero success with the product. Everyone’s bodies react differently to supplements. In this case, both positive and negative reviews build curiosity and initiate a conversation with the brand.</p><p>Brand managers can get involved in the conversation, and get valuable feedback to enhance their product.</p><p></p><p>Brands need to let consumers speak their minds, regardless of how harsh their words might be. Whether negative reviews diminish a brand’s value or not, depends on how the brand reacts to these reviews.</p><p>Showing empathy, concern, and a willingness to fix problems can strongly enhance a brand’s reputation and turn that negative review into a positive one.</p><p></p><p>Well, if <a>a brand has more reviews,</a> it could mean that more people have bought the product. The perception is that it is popular, and tested by several consumers.</p><p></p><p>I’ve seen a lot of brands who do not ask consumers to leave a review. Sometimes, getting a review is as simple as asking for it. There are a lot of websites where consumers like to leave a review. Consciously focusing on reviews can greatly enhance the image of a brand, and increase sales.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Mark Cuban Has 3 Tips for Young Entrepreneurs</h1>
+									<div class="pl pl-heroabove">
+													<div class="hero video-player informPlayer">
+								<div class="ndn_embed" data-config-widget-id="2" data-config-type="VideoPlayer/Single" data-config-tracking-group="91885" data-config-playlist-id="13434" data-config-video-id="30385479" data-config-site-section="entrepreneur">
+								</div>
+							</div>
+											</div>
+							
+								
+				
+				
+										
+					
+	
+	<p>Mark Cuban, owner of the Dallas Mavericks and star of ABC’s <em>Shark Tank</em>, believes that kids should start learning about entrepreneurship from a young age. To get them excited about business, Cuban co-authored a book with Shaan Patel, the founder of test-prep company <a>Prep Expert</a>, and Ian McCue, the founder of <a>Spark Skill</a>, called <em>How Any Kid Can Start a Business</em>. The book will teach kids the fundamentals of entrepreneurship and hopes to inspire them to consider it as a career option.</p><p>Cuban has experienced first-hand that children, if given the chance, are interested in business.</p><p>“The responses from kids and their parents to <em>Shark Tank</em> has been amazing,” Cuban said in an interview. “I get more questions from kids or from parents about their kids and entrepreneurship than what I get directly from adults. The market is there.”</p><p>Cuban went on to share several pieces of advice for young entrepreneurs.</p><h2></h2><p>If you acquire the habits and skills required to start a business before starting college, you will be ahead of the competition.</p><p>“Kids don’t need to learn entrepreneurial skills, but they sure benefit from it when they do. And more importantly, there are far more kids than you might imagine that want to start businesses and are looking for guidance,” Cuban said. “There is a reason why all those Girl Scout cookies get sold and all those roadside lemonade stands get built.”</p><p></p><p>To succeed, you don’t need qualifications, money or a planet-sized brain. All you need is to create something that consistently makes money.</p><h2></h2><p>You have nothing to lose and everything to gain so don't worry about making mistakes.</p><p>Your product, business or service is never going to be perfect, and your business ideas are never going to come to you unblemished. But while big companies make big errors, children can’t fail on a macro scale—they simply don’t have the resources to do so.</p><p>“I don’t think [kids] can make mistakes. They aren’t running businesses with tens of thousands of dollars at stake. They are starting small, selling products they make or resell to their friends and neighbors. They can’t go wrong. They can only learn,” Cuban said.</p><p></p><p>He encourages young entrepreneurs to “react like you would to any disappointment, and bounce back.”</p><p>Cuban is speaking from experience. He knows firsthand the torment of failure and the power of bouncing back. As he writes in his book <a><em>How to Win at the Sport of Business</em></a>:  “I have been fired from more jobs than most people have had.”</p><h2></h2><p>Setting business goals positively affects your life.</p><p>“Starting a business as a child can impact the rest of your life,” Cuban said. “It ices a child’s confidence. It teaches them how business works. It teaches them that they can accomplish goals they set for themselves. All of which will benefit them later on," Cuban said.</p><p>He has evidence to back up his claim.</p><p></p><p>“I’ve invested in just a few [young entrepreneurs] so far, and 80 percent have succeeded to date. They set reasonable goals and go for it. Unlike adults who try to get rich and retire, [kids] are trying to make some money and learn,” he said.</p><p>In the business world, anyone, regardless of age, can assemble the resources, talent, finances and technology they have at hand. For example, Benjamin Stern, the 16-year-old founder of <a>Nohbo</a> Cuban invested in on <em>Shark Tank</em>, invented the “world’s first eco-friendly shampoo ball.”</p><p>His goal was to create a product that would help reduce plastic and waste. Although Stern had very few resources at his disposal, he still managed to do all the heavy lifting.</p><p>“Goals without deadlines are dreams; a business isn’t a dream,” Stern said.</p><p>He assigned himself deadlines and got a job to pay for a freelance chemist. Together they developed a prototype of a dissoluble ball wrapped in a biodegradable plant-based material.</p><p>As individuals like Stern and Cuban prove, what sets successful people apart is their determination, resilience and attitude. Choose to be a champion.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

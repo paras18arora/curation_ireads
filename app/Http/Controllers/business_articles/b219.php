@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How Should Entrepreneurs Scale Up Sales</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How Should Entrepreneurs Scale Up Sales" src="https://assets.entrepreneur.com/content/16x9/822/20151113142359-business-cards-networking-people-group-meeting-cold-calling.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Common sales wisdom dictates thoughts such as “does your product solve a problem” or “do you add value to a customer’s life”. In today’s competitive world, and abundance of social interactions, most entrepreneurs would have engineered their product or service around these questions and prototyped to a stage where they could confidently claim that their products do, indeed solve problems and add value.</p><p>The next stage in the entrepreneur’s life cycle emerges when she goes to the market to “sell” her offering. Decidedly, the commitment and passion result in the entrepreneur outdoing herself and emerging a winner when it comes to pitching and putting in the hours to convince the customers of the value of her products. Without her knowing it though, the process of selling the offering somehow becomes a unique part of her personality and when the time comes to scale, the message that the entrepreneur wants to transfer to her salespeople gets lost in translation.</p><p>There is a real danger of sales teams following basic sales principles instead of the process that the entrepreneur used to make the service/product a success, as a result, sales execution is not upto the mark and the “magic” the entrepreneur promised investors is missing.</p><p>There are some elementary steps that the entrepreneur can follow to ensure that the sales scale up is a smooth process:</p><p></p><p>Within the set of founders, identify the founder who will lead sales. Two people cannot do the same job and should not do the same job when scaling. If there is a single founder, hire a competent head of sales since other functions will require the founder’s attention.</p><p>Hire strong trainers and institute an excellent training program Training of sales is the most important part of scaling, an often un-utilized feature, especially in field sales. Hiring right trainers is an even more important part. Once trainers have been hired, sales training should focus on a few key aspects to ensure strong field performance. </p><p> The importance of a pitch is most effectively illustrated in luxury car sales. Entrepreneurs would be well served by a visit to vendors in this industry and try a comparison with economy car sales. The difference is very striking. On one hand, you have the luxury car salesman pulling out stops with crisp pitching, outlining problem statements, offering solutions and demonstrating performance and on the other hand you have very little pitching on key performance indicators from economy car salespeople.</p><p>Understand the root cause of objections: Fear, Uncertainty or Doubt and then build a training that shows how sales reps can overcome objections by addressing each of those emotions before moving to close a sale. It is also important to institute role plays for sales to understand real life situations before moving into the field.</p><p>Sales closure is another very important part of the sales cycle, and training effort needs to ensure sales reps understand the techniques used by modern sales industry to ensure the customer finally pays for the service/product.</p><h3>Build a process</h3><p>The magic needs to be recreated and replicated en masse. The end result needs to look like clones of the entrepreneur herself, as if she were representing the company on the field. The process building begins with the entrepreneur identifying each intervening step from opening a sale to closure in the sales cycle, which also includes delivering the service/product. This process needs to be drawn out and drilled into the minds and hearts of sales reps. Without a process, sales would be weak.</p><h3></h3><p>The process once built needs to be managed end to end. Each point in the pipeline should consist of some data collection, which should be analyzed.</p><p></p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

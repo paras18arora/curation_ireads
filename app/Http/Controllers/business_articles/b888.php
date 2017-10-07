@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How to Enjoy Time Off When You"re the Boss</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How to Enjoy Time Off When You're the Boss" src="https://assets.entrepreneur.com/content/16x9/822/1413230385-unlimited-paid-vacation-jedi-mind-trick-good-policy.jpg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>When I started my business,<a> The Protocol School of Palm Beach</a>, nearly 18 years ago, I was afraid to take any time off because I had too much to do and no one to help me do it. In fact, I worked for years without a true vacation. While I thought this strategy was profitable for my business, in the long run, it took a toll on my health and happiness.</p><p>We all need downtime in order to give our bodies and minds rest, relaxation and rejuvenation. When you run a business, you are in charge of everything, and it is difficult to shut down and take a week or two off. Your mind races with the “what ifs.” What if something goes wrong? Or what if a new client wants to contact me and I’m unavailable to take his call?</p><p>Over the years, I realized that I was on the fast track to burnout. When I finally took a few days off, my clients worked around my schedule, instead of me always working around theirs.</p><p>If you plan to take time off this summer, there are ways to make the transition easier. Here are some pre-planning tips.</p><h2></h2><p>It’s always a good practice to let your important clients know you will be on vacation. Give them the dates you will be away and how you can be reached for emergencies.</p><h2></h2><p>Use your email autoresponder to indicate the days that the office will be closed and when you will reopen. Let your clients and customers know you will have limited access to email or refer them to someone who can help in your absence. And don’t forget to change your voicemail on your phone to reflect the dates you will be out of the office.</p><h2></h2><p>If you simply can’t unplug during your vacation, designate one or two hours per day to check emails, return calls, and do business. Try to do this first thing in the morning so you can enjoy the rest of your day. When you are finished, shut down the computer, turn off email notifications and relax.</p><p></p><h2></h2><p>If possible, ask a capable and trusted friend or colleague to cover for you while you’re away. Ask this person to answer calls and field responses, and to contact you if they deem the issue needs your input. Set up a reciprocal relationship where you watch their company while they take time off.</p><h2></h2><p>If you have employees or contractors, tell them what you need to have done and give them the authority to handle day-to-day business on your behalf. Most often, larger issues can be postponed until you get back.</p><h2></h2><p>A virtual assistant (VA) can act as your secretary while you’re on vacation, answering phones and setting appointments for when you return. You can hire a VA through a local temp agency or an online resource.</p><p></p><h2></h2><p>In the weeks before you leave, practice being “out of the office” for an hour or two a day. This allows your staff to begin taking on responsibility and to see if the business will run smoothly in your absence.</p><h2></h2><p>Always have a contingency plan, and assign actions and contacts for what to do and whom to contact if something goes awry.</p><h2></h2><p>If you must conduct business while you’re away, arrange to hold virtual meetings with clients or staff. But try to avoid giving everyone your cell phone number unless you want to be bombarded with calls and text messages.</p><p></p><h2></h2><p>Once you return, check in with your team and ask for their feedback as to how to handle things better the next time. Also, see how things flowed in your absence; you will probably find that the world did not stop while you enjoyed your down time.</p><p>In <a>a study conducted by the Society for Human Resource Management</a>, researchers found that taking time off from work can boost your productivity, engagement, and overall happiness. All very compelling reasons to pamper yourself and savor the sand, sun and an occasional piña colada.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

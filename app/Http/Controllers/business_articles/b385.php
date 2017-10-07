@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How to Write Cold Emails a Lot Better Than You Do Right Now</h1>
+									<div class="pl pl-heroabove">
+																				<div id="objectplayer" data-ooy="BiZnBxMzE6lk7ScIf_hbYg-AlwKlIVAJ" data-autoplay="1" class="oovideo"></div>
+											</div>
+							
+								
+				
+				
+										
+					<p>Entrepreneur Network partner <a>Alex Berman</a> is a Chicago-based expert on business-to-business (B2B) sales, startups, entrepreneurship, digital nomad life and interviews with top business people.</p><p>In this video, the chief marketing sumo from <a>Inspirebeats</a> shows you how to do so much more with what-should-never-be-just-a-random cold email.</p><h2>OLD EMAIL:</h2><p>Subject: Dom & Tom & Perfect Search</p><p>Hi Alex,<br />We're a search and social-ad agency in Chicago, and we work with a lot of remarkable companies like yours, including 7 VC backed startups in Chicago. We also have clients in NYC such as Columbia University and NY Film Academy.</p><p>We've built a technology that increases traffic / conversions and decreases acquisition cost through sophisticated long-tail keyword strategies. Q1 is an ideal time to talk about digital marketing and I'd really like to connect on a phone call. Does next Thursday at noon work? Could you let me know a good time on Calendly?</p><h2>NEW EMAIL:</h2><p>Subject: Dom & Tom and Perfect Search</p><p>Hi Alex,</p><p>Came across Dom & Tom and love the branding -- awesome robot logo, and congrats on working with Power Rangers!</p><p>We're a search and social-ad agency in Chicago, and we work with agency partners like the Code + Design Academy and dozens of others in both NYC and Chicago.</p><p>Q1 is an ideal time to talk about digital marketing, and I'd really like to connect on a call to introduce ourselves as an agency, and explore potential partnership opportunities. </p><p>Does that sound interesting? Let me know and I can send over a few times!</p><p>Thanks,<br />Mindy</p><p><em>Check out more from Alex Berman at  if you need more leads for your SaaS startup or agency.</em></p><p></p><p><em><a style="text-decoration: underline; box-sizing: border-box; outline: 0px; position: relative;">Entrepreneur Network</a></em> <em>is a <a>premium video network</a> providing entertainment, education and inspiration from successful entrepreneurs and thought leaders. We provide expertise and opportunities to accelerate brand growth and effectively monetize video and audio content distributed across all digital platforms for the business genre.</em></p><p><em>EN is partnered with hundreds of top <a>YouTube channels</a> in the business vertical and provides partners with distribution on <a>Entrepreneur.com</a> as well as our apps on Amazon Prime, Roku and Apple TV.</em></p><p><em> to become a part of this growing video network.</em></p>				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

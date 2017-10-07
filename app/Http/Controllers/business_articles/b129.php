@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>You"re Too Busy? No, You"re Not. Here"s Why.</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="You're Too Busy? No, You're Not. Here's Why." src="https://assets.entrepreneur.com/content/16x9/822/1393544464-simplifying-work-life-balance-these-4-steps.jpg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>We're now accepting submissions for our 2016 Top Company Cultures list. Think your company should be on it? <a>Apply Now »</a></em></p>
+
+										
+					
+	
+	<p>The other day our air conditioning system went down and I called the company who services the unit. They’re a good company. The person who I spoke to promised to schedule a service call and get back to me within the hour. One hour passed. Two hours. Finally, I called her back. “Oh, so sorry,” she said. “Things have been crazy here. I’ve been soooooo busy!”</p><p>At that time, it was 85 degrees in my house.</p><p>We sometimes contract our software development. Last month, we gave a small job to a guy we use in Florida who does great work and is a “Silicon Valley” fan, so I like him. His due date was this past Friday. Yeah, you probably guessed what happened: no delivery. When we called him on Friday and asked him where he stood he profusely apologized. “I’ve been soooooo busy!” he said. "I promise to get it to you by the end of next week.”</p><p>Our client is still waiting. One more story? Okay.</p><p></p><p>I’m out to eat and the restaurant is crowded. The wait staff is running around like crazy. It takes forever for us to give our orders, then another forever for our food to come. Our waitress, very nice, very tattoed and very hardworking, apologized for the delay. “Our kitchen is sooooo busy today,” she said.</p><p>The food was good.</p><p>Were these people sooooo busy? Sure. Are you so busy? I’m sure you are. You’re going to meetings and taking phone calls. You’re working on a new project or putting together that important proposal. You’re following up on your emails and trying to squeeze in lunch. You’ve got to pick up your kids at daycare soon! You’re busy, busy, busy. Too busy to get to everything. Except you’re not. Neither is the air conditioning firm, the developer or the waitress. Here’s why.</p><p></p><p>Suppose I told the nice woman who promised to call me back in an hour that if she does call me back in time I’ll give her a million bucks. Cash. She’d be a millionaire just by making one little phone call. Think she’ll make that call in time?</p><p>How about if I told my developer that if he makes his deadline I’ll give him a million dollars, too, and he can spend all day watching “Silicon Valley.” And what if when I walked in the door of the restaurant I took the waitress aside and promised her a million bucks if she took our order and then brought our food right away? Think of all the tattoos!</p><p>These people were not “too busy.” Neither are your people, and neither are you. Everyone is just making choices. The woman at the air conditioning firm chose to do other tasks instead of calling me back as promised. The developer chose other projects to work on in lieu of mine. And the waitress chose to serve others instead of me first. All of them risked angering or even losing a customer, but it was their choice.</p><p>They’re not wrong. They’re doing their best. They’re trying their hardest. But “being too busy” isn’t the reason I was not a priority. I found myself on someone else’s to-do list who had a number of other things to do ahead of me. If I had given those people more of an incentive (a million bucks, perhaps?), they would’ve pushed me higher. Instead, they chose to ignore me.</p><p>Right now, your employees are “busy” prioritizing tasks that may not have the same priority to you. They may be “busy” filing paperwork or updating a database instead of responding to a more urgent customer request. They may be “busy” helping out a very small customer while a much larger one waits. They may be “busy” in a meeting that is taking them away from their core responsibilities. The only way you’re going to find this out is by managing better, supervising better and being more actively involved in their day.  Maybe now it’s time to equate your priorities with theirs. Being “busy” doesn’t cut it.</p><p></p><p>If you spend this time, you’ll likely find that both you and your people are not too “busy.” They are just making choices. And so are you. Are these the right choices? Just ask the million dollar question and you’ll soon discover the answer.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

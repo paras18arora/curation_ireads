@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>4 Ways for Startups to Attract VCs</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="4 Ways for Startups to Attract VCs" src="https://assets.entrepreneur.com/content/16x9/822/20160217051646-Untitled-2.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Each year, we receive thousands of cold emails and meeting requests from startup founders. While it isn’t possible to meet every entrepreneur, we do review every pitch we receive and provide feedback quickly.</p><p>Like most VCs, we strongly recommend you reach us through a referral from a trusted connection instead of sending a cold email. Even better, build a relationship with one of our team members.</p><p>In the current environment, even startups who are referred by a trusted connection may fail to secure funding, however, ventures that are world-class, coherent and have a great team can still raise money.</p><p>Here are four ways to make sure your startup stands out:</p><h2></h2><p>By focusing on your customer and a problem you can solve for them, you’ll quickly be on a path to success. But your solution shouldn’t just offer an improvement, it must be different from what currently exists<em> and ideally ten times better</em>.</p><p>Rarely are ideas completely original or perfect from the start, and rarely are they completely wrong. Startups that stand out have continually chipped away at the problem they are solving until the company’s product or service is the best and differentiated.</p><p></p><h2></h2><p>Businesses regularly fail because of untested assumptions. Start with a thesis and challenge your assumptions until you’ve proven it right.</p><p>From testing what people of different demographics think of your product or service -- to how big businesses will respond to identifying its best features -- assumptions must be proven or eliminated as fast as possible to uncover your value proposition.</p><p>You can learn a lot about your target customers from people already distributing to them and increase your chances of success. Could they help test your assumptions in a safe environment? You may even be able to develop a risk-shared, commission-style pathway to your customers.</p><p></p><h2></h2><p>Venture capitalists want to back people whose unique insights challenge the status quo. Their investment decisions are personal, so it’s best to think of a capital raise as a social movement. If you communicate clearly and have a unique insight people can get excited about, the money will follow.</p><p>Getting target investors involved in the journey in a real way is a great first step to successfully raising capital. An overarching mission that articulates why the startup was founded and a vision of the impact the startup will have in the future can make all the difference in securing the funding you need to thrive.</p><p>Many entrepreneurs are so caught up in essential, yet distracting operational detail or product development, that they only think about what the startup currently does and neglect thinking about its future.</p><p>Founders who can articulate a bold vision and back it up with evidence will attract strategic, aligned investors who back their long-term vision, engage a skilled and dedicated talent pool and attract early-adopters who evangelize the product.</p><p></p><h2></h2><p>Founders need to inspire meaningful contributions to the startup from people at all levels. You must have a mission that is big enough to stretch people from where they are to where the startup needs them to be. The entrepreneurial team needs to lead their wider team as well as customers, markets and investors to a better future. Hire people who lead with conviction, and with humility.</p><p>There is never enough time, data or resources in a startup to contemplate decisions for a long period of time. An entrepreneurial team, when empowered to make hard decisions quickly, will carry you through uncertain times.</p><p>Employees must be so heavily engaged in the business that they’d be willing to invest their own capital or take a significant pay cut in exchange for equity. It takes a team of exceptional people to build a better future.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

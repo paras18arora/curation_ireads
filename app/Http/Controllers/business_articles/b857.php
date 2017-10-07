@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How should startups operate under distressed macro environment?</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How should startups operate under distressed macro environment?" src="https://assets.entrepreneur.com/content/16x9/822/20150525044001-shutterstock-272326802.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>At a time when funds are running dry for the startup ecosystem, what should an entrepreneur do to keep calm and get things going? Is the macro environment going to improve anytime soon? These were some of the key questions answered by Alok Goel and Deepak Gaur, both partners at SAIF Partners, at a conference organized by the VC on Wednesday. The following are excerpts from the answers to some questions submitted by startups who had signed up for the event.</p><p></p><p>Deepak said that he is very often questioned by industry folks as to what the macro situation is going to be. "The honest answer to that would actually be that nobody has any clue to what the situation could look like. However, he also said that this was actually the best time to be an entrepreneur. The down round will make you realize that entrepreneurship is a really tough job. People have forgotten this fact over the past 20-24 months. It will also reduce the amount of competition for startups. Any investor who supports a startup in today’s environment, one can be assured that he will support you throughout the journey. The macro is very challenging, but if you are really building a problem solving problem and are passionate about entrepreneurship, then it’s a great time."</p><p>Alok said that there are three buckets of startups today; "one that’s desperately trying to raise money to sustain their burn rates, second are those who have cash stacked in their bank accounts are looking for new business ideas  and there is the third type that keep their head down and focus on what they are doing. The third category might not have a lot of money, they might be bootstrapped, but they are keeping their calm, executing their ideas. Bootstrapping for a few years will give them a lot of headway against the competition that when the world knows what they are doing, they will be much ahead of their competition. It’s your choice which bucket you want to belong to."</p><p></p><p>Alok, who has held senior leadership positions at RedBus and FreeCharge, said he was often asked at investor meetings compare themselves to an international company. Indian startups are still asked questions today like “are you the Uber of India?” Addressing the concern Deepak said that every market faces this challenge where they are asked to compare themselves to an idea that has worked internationally. "It is only when you get to the next level of investing, you start addressing problems that are specific that area." He believes India has reached that level where there are very interesting businesses which are focussed on solving problems related to India alone. Similarly there are also investors who are adopting a similar kind of focus and addressing India focussed problems.</p><p></p><p>According to Deepak, the best way to get feedback from an investor is to directly ask without shying away. However, an entrepreneur should never confront an investor as to why he decided to pass on the opportunity. The better approach should be to ask on areas for improvisations; which could include market size, product or design.</p><p>Adding to these points, Alok said that an entrepreneur should learn to respect an investor’s time and learn to be crisp and use fewer number of words. Sometimes investors are not clear whether they want to invest in the market or not, sometimes they are bullish about the founder and want him to make more progress, and once they make progress the investor gains more confidence on the market’s capability. At times the investor also checks at the market’s appetite for the product and awaits some traction. Overall, investors would all like to happily see more data coming out from the startup to be willing to change their minds. At the end of the day, the only incentive for an investor is to look for great companies. The moment they see signs of a great company they invest in the company.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

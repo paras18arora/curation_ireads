@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>You Can"t Succeed at Sales Working in Failure Mode</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="You Can't Succeed at Sales Working in Failure Mode" src="https://assets.entrepreneur.com/content/16x9/822/20160329172708-electronic-store-buying-consumer-purchasing-flat-tv-features-salesman.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>As an entrepreneur, time is your scarcest resource. You should try to spend each minute of your work life in the most effective way possible. This means reducing the time you spend on sales and increasing the time you spend on marketing. Marketing scales; sales doesn't.</p><p>Let's look at typical sales activities. You spend a good amount of time one-on-one with individual clients, explaining to them what your products or services are for and what the benefits are compared to the alternatives. You try to influence leads and prospects in a personal way, hoping to turn them into paying customers.</p><p>With typical marketing activities, you spend more time on one-to-many approaches -- reaching out to audiences with valuable ideas, offering entry-level products and services for free, presenting yourself and your business as authentic and handling any interactions with leads and prospects in a scalable way.</p><p>Using this distinction, it is clear that sales activities don't scale, but marketing activities do.</p><p></p><p>When you have to verbally explain to someone the differences between two versions of your product, you are wasting your time. You're doing sales. You should use that time to make it clear to potential clients -- using text, audio or video -- what you offer in which versions. That's marketing.</p><p>When you're physically on the road or in a store trying to convince leads and prospects that your products and services are great, you are doing sales. It would have been more effective to use that time making your products and services so awesome, that word gets around and clients are lining up to get a piece of the awesomeness. That's marketing.</p><p>When you are personally leading people around your store, showing them your wares and getting them to test some products, you're in sales. When you enable people to try things for themselves and use the internet for information, you're in marketing.</p><p></p><p>Your ultimate goal is to reduce the time you spend on sales to zero, and spend it all on marketing. Granted, it is unlikely that you will ever truly reach zero, but it's a useful goal. Part of the marketing job is prioritizing ideas and requests for development. The end goal is to make things awesome. The service department is also an area where marketing plays a role because all client contacts are opportunities for marketing.</p><p>When you have products and services that are great, people should be eager to be your customers. If that is not the case, you lack in marketing, not in sales.</p><p>Some people will argue that there are products and services that require a personal touch. Some would say, for example, that you cannot just have people test drive a Mercedes-Benz E-Class without a salesperson guiding them through the process. I disagree.</p><p>High-end products do require a personal touch, but that's not sales; that is a service people pay for. This service comes with the product. It starts before the actual purchase, and it extends far after. Thanks to great development, service and marketing, the customer should already have made up his or her mind. The "salesperson" is not spending any time selling anything to the client. Marketing should have already influenced and convinced the client. The salesperson just makes the purchasing process an enjoyable experience, which is the premium service the client pays for.</p><p></p><p>Don't waste time on sales because sales activities don't scale. You are operating in failure mode. It indicates that development, service and marketing were not able to make and communicate something that customers think is awesome. And it's only awesome for you when you can scale it, and when clients pay a premium price for personal service.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

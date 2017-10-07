@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>4 Ways to Transform Meetings From Run-of-the-Mill to High Impact</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="4 Ways to Transform Meetings From Run-of-the-Mill to High Impact" src="https://assets.entrepreneur.com/content/16x9/822/20160606172427-business-people-meeting-office-briefing-coworkers-colleagues.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Do you meet personally with everyone on your team roster to take stock of who directly reports to you? Do you have a regularly scheduled time to connect with each person? While being available for your team at a moment's notice and conducting frequent impromptu one-on-ones with them can be valuable, there's a lot to be gained from a properly executed and well planned session.</p><p></p><p>Spur of the moment meetings, although sometimes necessary, focus on putting out the fire of the moment versus achieving a long-range strategic goal. However, scheduling the meeting is only the first step. The true art comes in making sure these meetings aren't just updates or immediate problem-solving sessions, but also strategic and proactive exchanges of ideas. Here are four ways to improve your one-on-one meetings right now:</p><h2>1. When and where to schedule your meeting.</h2><p>Without slating a meeting in advance, it's far too easy to allow long periods of time to pass without having quality conversations with key team members. When establishing a regular meeting schedule, take into account the stage each person is at in their development. A rock-solid veteran may simply require a monthly meeting, whereas a junior team member may need a weekly session.  If you find conducting meetings at the office too distracting because of constant interruptions, think about doing this over coffee at a neighborhood shop. Or walk and talk on a local trail.</p><h2>2. Establish expectations for each meeting.</h2><p>While a portion of your time with each direct report may be dedicated to updates and issues of the moment, it's critical to allocate enough time to coach them on long-term leadership success skills. To get the most out of each conversation, I recommend asking your team members to come prepared with questions and ideas regarding strategy, as well as philosophical conversation material. Requiring them to put thought into what they want to gain from the meeting, in advance, will give them a better objective.</p><p></p><h2>3. Think like a doctor.</h2><p>Doctors can play different roles. There's the obvious, where a patient walks in with a list of symptoms and the physician diagnoses the issues and offers a corrective strategy -- rest, medicine, surgery, etc. The other important role any good doctor should play lies in preventative care. The best time to handle a problem is always before it arises. As leaders, it's all too easy to fall into the trap of writing "prescriptions" only for what's ailing today and to ignore what might become a problem tomorrow.</p><p>As an effective leader, it's imperative that you and your direct report have come to consensus on defining quarterly and long-term goals. Just as a doctor makes recommendations to a patient for proactive preventative care purposes, you should be helping to guide your team member to career objectives. If they need to stop doing "X" and start doing more of "Y," it's incumbent upon you to show them the way.</p><h2>4. Stay on track.</h2><p>Even the best meeting strategies can fall prey to the inevitable challenges of the real world. Sessions get canceled because there's too much to do; or agendas get tossed aside because there are too many urgent fires to discuss and extinguish. As the leader, part of your role is to act as a meeting moderator. That means pushing the pace when needed and skipping over some of the more mundane or personal topics of conversation. Focusing on important, long-range discussion points will be a better use of everyone's time.</p><p></p>Discipline and proactive thinking are the keys to higher-impact sessions. By establishing the right expectations on the front end and keeping your eyes on the objectives, you'll lead meetings that create positive growth on all fronts.
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

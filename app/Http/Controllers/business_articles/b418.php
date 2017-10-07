@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>You Shall Be Judged By the Company You Keep!</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="You Shall Be Judged By the Company You Keep!" src="https://assets.entrepreneur.com/content/16x9/822/20160225181142-dog-wrong-bad-mistake-paint.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Nothing exposes a company’s amateurish approach to sales and mawkish marketing than announcing (usually via its website) its lofty list of satisfied customers. On the other hand, potential clients can be nervous about sourcing work to new firms that may lack the requisite experience to deliver on the many promises they are likely to have made. So while it’s important to have references, it’s more important to have the <em>right</em> references; and that can be tricky. Many companies screw up what would seem to be a slam-dunk -- providing references; it’s easier, and more common, than you might think. Picking the appropriate references can literally mean the difference between winning life-changing contract and spending long hours on proposals that ultimately fall flat. When picking references make sure that you:</p><h2></h2><p>When you select a reference it’s better to have a company for whom you have done meaningful and successful projects and that can provide clear insights into your organization’s strengths than a well-known company for which you have done a handful of small projects on which you performed in mediocrity. Companies that know you well are also more likely to advocate on your behalf.</p><p></p><h2></h2><p>People tend to choose companies with whom they are comfortable without considering whether the projects represent the entrepreneur’s true talent. It’s not enough that a reference speak well of you, you also have to ask yourself how well the reference can articulate to others those things at which your organization truly excels.</p><h2></h2><p>In many cases people choose companies for whom they done repeated projects without considering how a potential customer might perceive the referencing company. BP was once a highly respected company that many entrepreneurs would kill to have on their client list, but after the Gulf of Mexico oil spill many BP vendors found themselves in the embarrassing position of having to distance themselves from the public backlash. Scandals aside, I have seen entrepreneurs proffer references from their prospects' most hated competitors.</p><p></p><h2></h2><p>Before selecting a company as your reference, don’t be afraid to ask them pointed questions about their assessment of your organization. Ask your potential references questions like: “What do you think is my company’s greatest weakness?” or “How might I have been more responsive to your needs?” If you aren’t happy with the answers your potential references provide you should reconsider providing them to a potential client.</p><h2></h2><p>I was once sourcing a video production and had to choose between three companies. When I read the proposals I noticed that one company had referred to a project from an organization I had recently left (which was a well-known large automotive supplier). Not only was this a clear violation of my former employer's policy against references and a violation of its signed nondisclosure agreement, the proposal insinuated that it had done a major video production for the company when in fact the project in question was the vendor making 500 copies of a DVD, what was worse for the customer was that I was the contact on that project.</p><p></p><h2></h2><p>Many organizations are forbidden by corporate policy or are barred by their legal department from providing a reference. Still others may simply feel as uncomfortable providing a reference as you feel about loaning your next door neighbor money. When you ask for a reference you are asking for a favor. You don’t have the right to get angry if the company doesn’t feel comfortable providing a reference, thank them for considering your request and move on without harboring ill feelings.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

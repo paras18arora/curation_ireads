@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The 5 Fundamentals for Growing Your Startup</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The 5 Fundamentals for Growing Your Startup" src="https://assets.entrepreneur.com/content/16x9/822/20160525141402-woman-credit-card-laptop-shopping-online-ordering-paying-ecommerce-banking.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>Attend our free webinar July 12 and discover SEO, social media and content tactics to boost your brand’s online visibility. <a>Register Now  »</a></em></p>
+
+										
+					
+	
+	<p>It can be an exciting thing, starting your own business. But like many others who have begun their own startup companies, it soon becomes apparent how daunting it can be to make the company a success, or even just to keep it going. For those that do have startup companies, it can be a tricky thing to market the business and make it grow. That can be said of any new business, but particularly of small startup businesses. To help, here are a few top tips in marketing and growth hacking to help you to grow your startup.</p><h2>1. Network.</h2><p>This should be one of the top things for anyone starting out to do. Build an online network with key influencers within your industry. It can be a really powerful thing to have people share your brand, especially because they want to. If you don't have a big network, get out there and “meet” people. Be socially active with influential people. Follow their blogs and on social networks and comment on their posts. Share their posts with your friends. Engage with them and make them notice you. But don't be a pest about it. Show them you care about them and their work, and that they should care about you, too. And remember to include a link to your site in your signature. There are tools online that can help you find influential networks and bloggers in your industry based on your product's keywords.</p><p></p><h2>2. Start small.</h2><p>Don't try to market to everyone at once. Start off targeting a small niche of consumers first. After a while, if that goes well, then you can consider expanding your range and start marketing to more people. But sometimes more isn't always better, and focusing on just a small niche might work out best for you.</p><h2>3. Content.</h2><p>Always remember that content is king. Wherever you post content -- website, blogs, social media -- make sure its viable. Publish your content regularly. It can be anything, but at least some of it should be related to your industry niche, and your content should also be relevant to your potential customers. Post things they'll be inclined to share with family and friends. Also make sure your posts contain keywords that SEO will pick up so your site ranks higher in searches. Remember, too, that your potential customers like more than just text content. Images and videos really catch their attention and help them feel like they're engaging with you. Publishing a “how to” guide is a great way to start off. People like guides to help them with things. Making it downloadable is even better. You can also add an “opt in” form to have them submit their email in order to download it. This way you'll be able to gain their e-mail address.</p><p></p><h2>4. Email.</h2><p>Build an email/subscriber list if you don't have one yet. This is as easy as placing an opt-in form on your website or landing page. Offer some sort on incentive for them to sign up for your newsletter or email automation workflow. Having contests is a great way to gather e-mail addresses. Once you have them, you can keep in touch with them, offer them periodic specials, etc, to keep them engaged with you.</p><h2>5. Social media.</h2><p>Social media is practically everything in today's world. But that doesn't mean every social networking site is for everyone. For example, Instagram may work well for someone in, say, the fashion industry, but it may not work as well for a technology company. That being said, start off by using social media to amplify your content. Find the networks that will work best for you. Start with just one or two at first, so you don't get overwhelmed. Post relevant content and content that people will want to share. Respond to comments and messages in a timely manner. Be active and engage with your followers. Like, share, and comment on their posts. Some of the more popular social sites are Facebook, Twitter, LinkedIn, Google+, Instagram, Pinterest, Tumblr, Flickr and Quora. Try a few and see which ones work best for you.</p><p></p><p>These are some of my top tips for helping you market and grow your startup. Put these to use and be persistent, and you should see some excellent results.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

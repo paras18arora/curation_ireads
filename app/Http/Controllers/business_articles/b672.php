@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How to Gracefully Handle an Online PR Crisis</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How to Gracefully Handle an Online PR Crisis" src="https://assets.entrepreneur.com/content/16x9/822/20160525142348-prince-dead-tabloids-newspapers.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Newspaper Front Pages following the Death of Prince at his Paisley Park home, Minneapolis.</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+											<p><em>Attend our free webinar July 12 and discover SEO, social media and content tactics to boost your brand’s online visibility. <a>Register Now  »</a></em></p>
+
+										
+					
+	
+	<p>It is undeniable that social media is an important PR tool. So, you’d think that businesses and public figures would be extremely careful with this tool. You’d think that there is a multi-step process in place with more than one couple of eyes reading the content bound to be online. Yet, companies of all sizes still manage to land themselves in hot waters on a daily basis. Some mishaps come from accidental leaks of information, some happen as a result of simple human error, or a plain joke that went wrong.</p><p>To make you feel better, I once accidentally shared a cat video on the company’s page I worked for at that time, only to be noticed by my boss. Yes, stupidity happens.</p><p>Kenneth Cole social media team learned it the hard way when they tried to tie in their spring collection and uproars in Cairo (which turned into revolution) with a humorous tweet. Needless to say, people were not amused and <a>the company had to apologize</a> for making inappropriate jokes about historical moments in the making. </p><p>While it seems that social media calamities come and go, they can prove really damaging to companies of all sizes. <a>Domino’s public perception dropped dramatically</a> in just two days following their distasteful disaster. </p><p>What do you do if you’ve already found yourself in the middle of the PR crisis online? Here are a few best practices.</p><h2>Before publishing any more posts, reevaluate.</h2><p>Think about what you want to say and whether the next comment will bring about an even bigger disaster. You cannot simply ignore what’s happening, so you have to comment on it either way. The best thing to post as a first reaction to crisis is to stir away from making any judgments or comments.</p><p>Publish a neutral statement showing you’re aware of the situation and that you’re investigating the matter. Do not go into details of what happened just yet, before you get the full picture, and don’t make any comments acknowledging or rejecting any fault.</p><p>Although it seems obvious, it is especially bad to go full blast on your critics. However, heat and stress can get in a way, creating all sorts of really <a>negative publicity and becoming an internet meme</a>.</p><p></p><h2>No comments until forming a clear message.</h2><p>Social media is notorious for trolls. Some people won’t find anything better than to trash a company further or go straight in for personal attacks. Do not -- I repeat, do not -- engage in these conversations.</p><p>You will not achieve anything, while also running a risk of worsening the situation even further. If posts and comments are clearly offensive, defamatory or threatening, simply flag and delete them.</p><p>Yet, if you’re up to the challenge and feel like you handle comments with grace, you can try to <a>follow the famous O2 arena example</a>. They did just the opposite by responding to individual tweets from frustrated visitors during its network outage. While it’s arguably not a huge PR crisis, the mishap was easily forgotten and forgiven thanks to nice and personal responses from the team.</p><p></p><h2>After an investigation, keep the public updated.</h2><p>Once you feel like you’ve got a hang of the situation and know the root cause of the crisis, it’s time to update your audience. An effective post consists of any necessary details that caused the uproar, a clear strategy of handling situation and getting back on track, as well as acknowledgement of the fault you had (you probably did do something wrong to cause an uproar, even if it was minor). If you’re sincere and honest in your update, it should improve the situation. Transparency builds trust.</p><h2>Work on mistakes.</h2><p>First things first, you’ve got to document the whole process of crisis handling if you don’t already have one in place. Be detailed in all the necessary steps for preventing future crises and handling them if they do happen. Finally, I cannot stress enough that you can only repair your public image if you follow through on your promises. Whether it’s monetary compensation or community involvement, get out of your way to show you care for your reputation. However, make sure it’s meaningful and not just another PR trick -- people can sense it.</p><p></p><p>Finally, it’s important to remember to stay human even under a lot of pressure. If it was in fact an honest mistake, apologize and handle it light-heartedly. People will appreciate the warmth and empathy.</p><p>In 2011 Netflix found itself in a big scandal involving its idea to unbundle video streaming and DVD services. Here is what <a>Netflix’s CEO Reed Hastings had to say</a> to unhappy customers: “I messed up. I owe everyone an explanation. Many members felt we lacked respect and humility…. That was certainly not our intent.”</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

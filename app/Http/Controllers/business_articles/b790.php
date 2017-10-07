@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>What Should You Look For In A Business Bank Account?</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="What Should You Look For In A Business Bank Account?" src="https://assets.entrepreneur.com/content/16x9/822/20150630180601-taxes-money-finance-cash-startup-funds-market-stats-graph.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Banking for business can be a bit different than banking for individuals. Although many of the needs are similar, they serve different purposes.</p><p>It is important to write down a list of must-haves that the banking institution must offer in order for you to do business with them. <em>Here are some things to consider.</em></p><p></p><p>Fraud protection is an absolute must. In the event of an account breach, theft or unauthorized charges, the bank must be able to act quickly.</p><p></p><p>If your business issues credit cards or linked debit cards to some employees, the business owner should have complete control over the spending on those cards.</p><p>Banks should <a>offer owner-controlled spending.</a> Employees know that not every business owner reviews every line of a bank statement, so there are times when unwanted purchases go through.</p><p>When unauthorized expenses occur, it is ideal to take possession of the card and stop the employee’s spending power.</p><p></p><p>The reputation of the banking institution holding your company’s funds matters more than you might think.</p><p>Banks have poor reputations for a reason. If a bank has recently had security breaches, then it might be wise to stay away from them. Select a financial institution that has impeccable security measures in place to keep your information absolutely safe.</p><p>Take the time to check out reviews of the bank online. Take into account positive, negative, and neutral reviews. Negative reviews do not mean it is an absolute no. Even the best companies have some negative reviews.  </p><p></p><p>Choosing a bank should be a onetime activity. As your business expands and you move to multiple locations, it makes sense to stay with the same bank, and leverage your relationship. I personally like banks that have locations in several different cities.</p><p></p><p>A competent and knowledgeable branch manager is always a great asset. This personal banker should understand the needs of your business and should alert the account holder during times of distress or concern. <a>If a business is nearing financial disaster</a>, reducing debt and working with a commercial debt reduction counselor may be ideal to help get spending back where it should be.</p><p>A personal banker should also be available via a direct telephone number or email address for emergency purposes.</p><p></p><p>Fees are the Achilles heel of business bank accounts. They exist in some fashion in every type of account setup. Some banks do waive these fees when other criteria are met. For instance, if a monthly account maintenance fee is $18, you can <a>avoid paying that account maintenance fee</a> by spending a specific dollar amount on a company debit card.</p><p>Every banking institution has a different fee schedule. Some banks do not offer any type of incentive or option to waive fees.</p><p></p><p>Do not open an account with the first bank you sit down with. Explore your options with both large and small financial institutions. Some smaller banks may offer more options and better incentives.</p><p>They may also have better safety protocols in-place. This is where your checklist comes into play. Take it with you to every meeting and star the items that the bank offers. If there are items that are not on your list, add them as additional information so that you can fully examine the available options from multiple banks.</p><p></p><p>Unless you are in a hurry to launch your business or have suffered a financial tragedy due to a bank-related issue, take your time deciding where to put your company’s money. Speak with other local business owners to get their opinions on local banking options.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

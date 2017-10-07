@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The 4 Mindsets That Will Make or Break Your Startup</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The 4 Mindsets That Will Make or Break Your Startup" src="https://assets.entrepreneur.com/content/16x9/822/20160129160153-man-thinking-voices-listening-confused-2.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>If being an entrepreneur were as easy as simply coming up with a great idea, we’d all be entrepreneurs. But those of us who have logged long hours and sacrificed financial security for passion know that it takes much more. Your startup may begin with one idea, but your mindset will be what makes or breaks it.</p><h2>1. Be self-aware.</h2><p>The first mindset to consider is self-awareness. Trust in your idea, but be aware of the pitfalls. Passion is essential for success, but it only gets you so far. I often see entrepreneurs who are so impassioned with their ideas that they’re blind to any shortcomings. Investors don’t want to put their hard-earned dollars into the hands of someone who fails to see a product’s weaknesses. Blindly passionate entrepreneurs may take uncalculated risks in the name of their product or service, and as a result, they may fall flat on their faces.</p><p></p><p>There’s nothing wrong with passion -- in fact, I encourage it. It’ll get you through the long nights and tough days, as long as it’s accompanied by a little self-awareness. Approach your product or service with a critical eye and sniff out its weak points. Addressing your idea’s vulnerabilities, both to yourself and to potential investors, will only make it stronger.</p><h2>2. Trust and accept help.</h2><p>We tend to see our businesses as our babies and slap other’s hands away from our inventions. Avoid the temptation to act like a toddler with a new toy. This way of thinking isn’t only short-sighted, but it’s also dangerous. It can mean early burnout, too. Owners and founding partners are particularly vulnerable to this mindset, as they’ve invested so much in their ideas that they’re loath to let others touch them.</p><p>Don’t feel like you have to go it alone. <a>Build a successful startup</a> with the help of employees, investors and valued partners. Assemble a group of self-starters with specialized knowledge. Be on the lookout for egotism, and weed out those who think in terms of “me, me, me.” It only takes one self-absorbed team member to sabotage everyone.</p><p></p><h2>3. More than a great idea.</h2><p>Too often, entrepreneurs buy into the “if you build it, they will come” philosophy: who needs a marketing strategy when you’re offering such a great product? But this is not “Field of Dreams,” and Hollywood magic won’t work for us. Relying on an idea alone is the final mindset that can make or break us. Customers don’t rally around a brand just because it’s a fantastic idea; if it were that simple, we’d all be Mark Zuckerbergs and Eric Schmidts.</p><p>Your product or service warrants a comprehensive marketing approach. A <a>recent meta-analysis</a> of 200 startup postmortems revealed that many companies attributed marketing snafus to their failure: seven percent reported poor marketing strategy, and nearly a quarter reported not listening to customers or developing customer relationships. A great idea might mean success is forthcoming, but only if you consider a starting point.</p><h2>4. Be wary of trusting only in positivity.</h2><p>What’s wrong with positivity, passion, or a sense of ownership? Nothing, but they aren’t the only ingredients to success. When applied in large doses to your startup, these mindsets create a novelty in which you think your product is amazing and without a doubt will change the world. Businesses are doomed to fail when entrepreneurs think there’s a market need when there isn’t one, when they fail to critically examine their ideas, and when they lack the flexibility to redirect their course when needed.</p><p></p><p>Confidence in your idea is essential when it comes to pitching and selling. Belief in your vision fuels the long days ahead. But true success comes with hard work, smart planning, a great team, and a comprehensive marketing strategy. Proceed with rose-colored glasses at your own peril.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

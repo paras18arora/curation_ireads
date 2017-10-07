@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Why You Should Start Early To Be A Successful Entrepreneur</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Why You Should Start Early To Be A Successful Entrepreneur" src="https://assets.entrepreneur.com/content/16x9/822/20160512055323-UnchartedBusiness.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Entrepreneurship isn't a career; it's a lifestyle. You can either choose to play safe & die unknown or try to build something bigger than yourself. Remember what Mark Twain once quoted-</p><p>"Twenty years from now, you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover."</p><p>So, if you want to take charge of your life and do something that gives you the liberty to tell your younger children after 15 years that "You Chose Your Life; You Didn't Settle For It," then this is the right time to get the show on the road. Here are a few points that justify why starting early as an entrepreneur is the best decision you'll ever make.</p><p></p><p>The best time to switch to entrepreneurship is when you're in the 20s and living a bachelor's life. This is the time when you can afford to fail over and over again without worrying much about family responsibilities. Initial few years as an entrepreneur are most challenging, and one thing you may not want during this period is someone else at home suffering along with you.</p><p></p><p>As you grow old, you realize that financial burden and family responsibilities build-up with the passage of time. Home loans, personal loans, household expenses, children's school fees, medical expenses, etc. can distract you from your mission to create a life on your own terms.</p><p>When you're young, you don't have to deal with these many financial commitments. Not all the ideas turn into successful ventures; in fact, most of them fail. So, rather than failing at a time when you can't afford to take a risk, it's always good to do it when you have fewer financial commitments.</p><p></p><p>The world is changing faster than you may realize. New technologies are being introduced every day. Gone are those days when you had to travel 20 miles a day to set up a business. Now, you can simply use the internet and build a million dollar business without moving even an inch from your desk.</p><p>Even if you don't come from a technical background, you can start a blog or even a YouTube channel. People are making tens of thousands of dollars every month. Why can't you? This is the time when you can learn new things and adapt technological changes, which won't happen so easily after 15 years.</p><p></p><p>When you're young, your risk appetite is high. You can afford to fail and start over again. Once you grow older and have a family to take care of, you'll want to choose a peaceful family life over your entrepreneurial dreams. So, risk everything now and figure out if it's worth a shot rather than give up your dreams and spend a compromised life at a later stage. </p><p></p><p>You may not find it in any book, but the truth is younger professionals have more motivation, energy, and enthusiasm as compared to elders. The latter may have more experience and knowledge of how things should work, but they can't beat youngsters in terms of motivation and energy level. It's the time when you can switch careers, start different businesses, fail often and rise again to see what works for you and what not.</p><p>All this can be done when you're young. As you mature, you'll tend to avoid starting something which you have no idea about. So, if you are still in your 20s and have a killer idea that you believe can change the world and solve a real-time problem, throw yourself into it and become an entrepreneur.</p><p>Remember one thing - “Society is going to judge you anyway, so do whatever you want to do.... No guts no glory.”</p><p>If you a young entrepreneur and have some tips for youngsters who are yet to take this path, share them in the comment section.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

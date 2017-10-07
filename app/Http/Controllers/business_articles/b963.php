@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>We Should Welcome Refugees. They Are Often Great Entrepreneurs.</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="We Should Welcome Refugees. They Are Often Great Entrepreneurs." src="https://assets.entrepreneur.com/content/16x9/822/20151118191230-syrian-refugees-help-sos.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Current world events have spotlighted refugees in a whole new – and often unflattering -- light. Governments are expressing concern that refugees will take up dwindling resources or be a security risk. While these may be valid concerns, there are plenty of positive reasons to take in refugees.</p><p>Much like the economic conditions in <a>Cuba</a> have made the population restless and ready for new opportunities, for many refugees, life-changing struggles help to fuel an entrepreneurial spirit. You don’t have to look very far to discover great <a>examples of refugees</a> who have had a positive impact on the world. (Google co-founder Sergey Brin is among them) Refugees have a strong inclination to not only survive, but to reach for something better.</p><p></p><p>‘Chicho’ Pelaez, from the Dominican Republic, is a great example. The hardest working guy I know, his building contracting business has provided well-built homes for three decades. If that wasn’t enough, he went on to create the <a>Utah Bounce Volleyball</a> training club, stemming from his success as a junior national standout in the DR. Utah Bounce has launched hundreds of players to collegiate success.</p><p>Necessity naturally drives people to come up with solutions to problems all around them, from starting a <a>pizza delivery</a> service in a displacement camp to <a>influencing global politics</a>. By bringing their unique perspectives and skill sets to a new country, refugees are more than capable of finding new ways of doing business. In Canada, Austrailia and Germany -- to name a few places -- immigrants and refugees have had a higher rate of successful entrepreneurial endeavors than the native population. In <a>2016</a> in the United States, more than one in six business owners are foreign born.</p><p></p><p>All this to say that, far from taking jobs or causing economic problems, many refugees are striving to create jobs and contribute to their host nations’ economies. That’s why initiatives like the <a>International Rescue Committee’s</a> microloan programs are so important. Rather than simply passing out necessities (which are absolutely essential at first), government and charitable agencies must be focused on long-term recovery options for refugees. Giving them access to financial support, a network of successful mentors and even <a>business coaching</a> can make a vast difference in the way their new lives play out. How many talented and driven people slip through the cracks because they just aren’t luckyaren’t in the right place at the right time? We need to do more to support and lift up fledgling business ideas among the refugee community. We should give them every opportunity -- training, networking, computer access and more -- to turn their native skills into creative businesses.</p><p></p><p>Of course, creating a business out of nothing is always an uphill battle. Hurdles such as startup capital, language barriers and lack of a strong support network are real problems to would-be refugee entrepreneurs. But the courage that brought them out of conflict-ridden countries, the risk-taking that brought them across dangerous borders, the determination that led them to start a new life and the resilience that keeps them going so far from everything they know are all of the traits that make for successful business owners. Taking a chance on the refugee population is just as god a bet as investing in college-founded businesses.</p><p>Entrepreneurism may not always be the quickest path to success for immigrants and refugees. But with their fresh outlook, the change that they bring both to our economy and culture is invaluable.</p><div><hr /></div>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

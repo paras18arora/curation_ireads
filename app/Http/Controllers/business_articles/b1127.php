@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>For Entrepreneurship, Age Is No Bar</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="For Entrepreneurship, Age Is No Bar" src="https://assets.entrepreneur.com/content/16x9/822/20160519094118-FirstGenerationEntrepreneur.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Not every startup idea is born inside a hostel dorm of an IIT or an IIM! At times an entrepreneur is born after years of hard work as an employee for mammoth-sized company. Entrepreneurship is also a result of years spent in yearning to be your own boss and to feel the pride of ownership. The Indian startup ecosystem has a number of “mature” entrepreneurs, who decided to wear the entrepreneur’s hat a little later in life.</p><p>These are entrepreneurs, who have come with years of experience in various domains and are now implementing that knowledge in nurturing their own baby.</p><p>We spoke to a couple entrepreneurs who have started out late but are competing with the young brigade of startups with the same amount of zeal and enthusiasm.</p><p>Nearing 60, when every professional would ideally think of retiring from work and focus on something less hectic,  decided to pursue a new venture. Madhavan decided to implement his 30 years of professional knowledge and experience into his own venture – Peps Industries Pvt Ltd, a spring mattress manufacturing company.  Madhavan chose to enter into the spring mattress sub-category which was being overlooked as Indian market was completely dominated by Coir, Cotton and Foam mattresses. “I had a great purpose in my life that I should establish a brand in the country and that segment should be a virgin segment.”</p><p><img alt="" src="https://assets.entrepreneur.com/images/misc/1465189848_Madhavan3.jpg" style="border-style:solid; border-width:2px; float:left; height:100px; margin:2px; width:150px" /></p><p></p><p>Investors have observed that entrepreneurs, who venture in late, have deeper understanding of how to tackle failures than younger entrepreneurs.  Deep domain knowledge, some amount of financial stability and substantial industry network are also some qualities that these entrepreneurs bring to the table.</p><p>After working with government organizations like UID Authority of India and MNCs like Vodafone and Intel Corp,   decided to form Novopay, which was incubated at Khosla Labs offers banking and payment solutions at retail points across India to enable financial inclusion and promote electronic transactions. Talking about investors’ behaviour, Sridhar said, “They (investors) certainly value experience and level headedness. And good ideas are always welcome irrespective of age, I guess!” Talking about comparison with younger entrepreneurs Srikanth said, “Experience counts for a lot, but also not knowing your bounds and charging at windmills is also a very useful quality when it comes to trying our new ideas - that comes more naturally when you are younger.”</p><p></p><p>Entrepreneur couple  and  Touchkin – a healthcare technology startup, both gave up cushy jobs at large MNCs, to become their own bosses. Jo said that for late entrants as entrepreneurs, it definitely helps in the B2B in getting partnerships, figuring out monetization, because you have professional credibility and networks. “It also helps with hiring people, managing them, sourcing, doing deals - all of which experience helps with. It also helps in getting the first introductions to VCs or angels,” she added.<br />However, while there is less financial pressure, there is a lot of pressure to be credible and responsible, to not lose the professional reputation for success that one has built over the last ten or twenty years, Jo added.</p><p></p><p>Startups founded by experienced professionals come with their own niche qualities and it’s always interesting to see them compete with the young brigade of entrepreneurs.  For the tenured folks it’s more like standing at the starting point of the race once again and drawing a new route all over again. More often, experienced professional tend to venture into the B2B space.</p><p>To sum up everything, every entrepreneurial journey is special in its own way, however the challenges borne everyday might wary. </p><p> </p><p> </p><p> </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Funding Roundup: These Innovative Startups Received Whooping Amounts From Investors</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Funding Roundup: These Innovative Startups Received Whooping Amounts From Investors" src="https://assets.entrepreneur.com/content/16x9/822/20160512135003-shutterstock-342332996.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Wondering which startups sailed across with funding in their pockets? Here’s your daily update.</p><h3>SoundCloud</h3><p>According to a report in Re/Code, Micro-blogging website Twitter has invested $70 million in popular music streaming service SoundCloud.</p><p>The news comes as a surprise as nearly two years ago rumour had it that the social networking site was planning to buy SoundCloud. The report in RE/Code said, “"Twitter has invested around $70 million in the music service, as part of a round that should end up in the $100 million-range."</p><p>According to media reports, a SoundCloud spokesperson was quoted as saying, “We can confirm that Twitter has made an investment in SoundCloud. Both companies facilitate and inspire contemporary culture to happen in real time while reaching millions of people around the world."</p><p>"This investment will enable SoundCloud to remain focused on building value for creators and listeners alike, and to continue the global rollout of many company initiatives such as our recently launched subscription service, SoundCloud Go," the spokesperson added.</p><p>Times are tough for Twitter with top executives leaving the company and the stall user growth which has gone from 307 million in the third quarter to 305 million in the fourth quarter. Also after Microsoft-Linked In acquisition, there are talks of Google acquiring Twitter, and Comcast to join the race as well.</p><h3>Elastifile</h3><p>Cisco Systems has invested $15 million in Israeli storage software start-up Elastifile, bringing total investment this year to $50 million, Elastifile said on Tuesday, according to reports in Reuters.</p><p>Elastifile, which helps enterprises scale out primary storage, has said the additional funds would enable it to aggressively market its technology that enables customers to expand the number of applications they can deploy on flash.</p><p>In January it raised $35 million in a second private funding round led by existing investors Battery Ventures and Lightspeed Venture Partners.</p><h3>IntelleGrow</h3><p>Mumbai based lending platform IntelleGrow has raised Rs 134 crore in equity and long term debt from Triodos, Developing World Markets, Omidyar Network, Calvert Foundation and Overseas Private Investment Corporation.</p><p>Launched in 2012, IntelleGrow is a venture debt financier primarily for small and medium social enterprises. It was founded with the support of  Shell Foundation and focuses on businesses which lack sufficient track record and collateral to secure sufficient debt from conventional formal sector lenders.</p><h3>Sminq</h3><p>Raising $1 million of funds if Queue management app Sminq, which recently held its seed funding round. The funding round was led by Saama Capital and Blume Ventures with participation from angel investor Vaibhav Domkundwar of micro-venture firm Better Inc.</p><p>As a result, managing director of Saama Capital, Suresh Shanmugham will be joining the board following this investment.</p><p>Founded by Shachin Bharadwaj in 2015 after leaving his first venture - Tasty Khana – behind, Smniq has taken the physical queues online by giving people an online substitute. Content to receive this funding, Shachin said, “We have been in the market for close to a year now, and see a very good product market fit for Sminq. We are already generating revenues and have seen great traction when it comes to user engagement with the app. We plan to use the funds to get more services on Sminq and also improve our technology offering.”</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>5 Lessons I Learned From My Father -- for Business and for Life</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="5 Lessons I Learned From My Father -- for Business and for Life" src="https://assets.entrepreneur.com/content/16x9/822/20141223230023-listening.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p><em>This article originally published June 19, 2015. </em></p><p>As I was coming up with ideas for my new wine brand, my mother had suggested I call it “Josh” -- my father’s nickname. Although she was half joking, I loved the idea because the name embodied everything the wine stood for; it was bold and complex, yet approachable, just like dad. Although my father never got to see my dreams come to a reality, his support and advice played an important role in the success of my business today.</p><p>Much of my passion and drive stems from the life and business lessons I learned from my father, but there were 5 distinct pillars which have influenced my life.</p><h2>1. Teach by example.</h2><p>I learned at a very early age that you can tell people what to do until you are blue in the face, but you have to set the tone with your actions. People will not only respect that, they will rise to it. My dad was the first one on the job, and the last one to leave. If there was a tough job to be done, he made sure that he was the first one to volunteer and pitch in to help.</p><p></p><h2>2. Be on time.</h2><p>My dad emphasized it almost daily and taught me that it’s a sign of respect for other people and of their time. One time I was running behind to meet a client and arrived 20 minutes late. The meeting went well, but I didn’t walk away with what I thought was going to be a done deal. What I later found out was that this client had chosen to meet me and miss his son’s baseball game. It took years to win him back and many appointments, arriving 30 minutes early, to show him the respect he deserved.</p><h2>3. Don’t make a tough decision based upon emotions.</h2><p>It’s easy to get upset and clear the deck. It’s harder to step back, take a breath and look at the situation again. I once had a troubling negotiation with a grower over a grape contract when I was producing a varietal of wine. He asked for too much money and I was angry and ready to walk away. It was then I realized he was a man of pride, and remembered my dad telling me to sit on a problem for a while before figuring out how to resolve it. I set the financials aside for a brief moment and reflected on the situation as a long term relationship I would need to nurture, and we finally settled on a price we both agreed upon.</p><p></p><h2>4.Tell a good story.</h2><p>When building a brand, people are interested in the person behind that brand not just what the business is about or selling. My father spent a great deal of time sitting around a kitchen table telling stories and listening to others – the topics always varied: politics, the weather, family issues, etc. By doing this, the people my father was working with felt that he was a caring and authentic person and if he was like that in his personal life, it was how he would be in business as well.</p><h2>5. Balance your life.</h2><p>If you don’t have balance in both your business and personal life, you will be empty. A few years ago, I was at the top of my game, making great money, and traveling the world. I came home one day, and my dog, Max, just kept barking at me. I realized that if Max was missing me that much, then surely my wife and daughter were too. I cut back my schedule and started to balance work and life better, putting my family first. That's when the real success came to be.</p><p>I’m so grateful for my dad who showed me the amount of hard work and passion that a business requires. Although I can’t share my successes with my father today, it doesn’t mean that I don’t thank him every day for the gifts he has given me. As I sit here now, opening a bottle of Josh Cellars, I raise a glass and toast to the man that I call my hero.</p><p></p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

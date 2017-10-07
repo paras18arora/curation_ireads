@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>To Succeed as an Entrepreneur Integrate These 5 Habits Into Your Routine</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="To Succeed as an Entrepreneur Integrate These 5 Habits Into Your Routine" src="https://assets.entrepreneur.com/content/16x9/822/20160526163834-good-habits-reading-kids-children-park-books-relaxation.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Building a successful business, despite what some get-rich-quick schemes might tell you, doesn't happen overnight. It takes years of hard work, dedication and passion to start reaping the benefits of your labor. However, it's not just about the hours that you clock in. To find true prosperity in your craft, you must integrate meaningful habits into your daily routine.</p><p>Kick start your journey to being a successful entrepreneur with these five daily habits:</p><h2></h2><p>Attitudes are highly contagious, so surrounding yourself with aspirational people will be a factor in your success. Your inner circle, whether it consists of family, friends, co-workers or business partners, should be individuals that support and encourage you. When it comes to business relationships, it’s important that you work with people who have long-term goals and a positive outlook on both life and business. Regularly meet with and get advice from a mentor, coach or “do-ru.” A “do-ru” is a positive person who is where you want to be, and they got there by doing what you want to do. You can rely on them to help you turn your expectations into appreciation while providing a clear path to your goals. It’s always helpful to have someone like that on your side!</p><p></p><h2></h2><p>Keeping yourself educated is a must. Stay on top of the latest news by subscribing to newsletters that summarize local, national and international news, like <em>The New York Times</em>, <em>BBC America</em> or your local paper. Also, take the time to read industry-related publications to stay up to date on the latest advancements. Don’t let your self-education stop with reading news updates in magazines or on websites. Check out the latest real estate transactions. You can learn a lot by looking at the deals others are making.</p><h2></h2><p>Nobody likes making mistakes, but when you do, it’s best to acknowledge your wrongdoings in a timely manner. Take ownership early on to get the gorilla off your back. Remember, when you mess up, fess up!</p><h2></h2><p>In negotiations, being respectful is of the utmost importance. Linda Kaplan Thaler and Robin Koval co-authored “The Power of Nice,” a book about the value of being kind to others. The book demonstrates that being nice gets you further in your professional and personal life.</p><p>Being polite is a key rule for everyone -- not just investors. As entrepreneurs, we rely on our team to keep our businesses running smoothly, so it’s important to make their contributions feel appreciated. No matter how big or small the task at hand, always say “please” and “thank you.” Remember, efficacy is directly correlated to timelessness, so say “please” and “thank you” often.</p><p></p><h2></h2><p>Being a small business owner can seem like an uphill battle. In fact, 80 percent of new businesses fail in the first 12 months. Keep from falling into this category by creating a business plan. Having a definite plan gives you a better chance of building a successful business, because it requires you to set both short and long-term goals.<br />Keep in mind -- a dream that’s written is now a goal. Start by writing down one long-term goal (ex. Invest in two multimillion dollar properties by 2018) and three or four short-term goals (ex. Increase capital by investing in two half-million dollar properties by the end of 2016) that will help you reach that long-term goal. Now you have something specific to work towards.</p><p></p><p>Entrepreneurship takes a lot of hard work and dedication. No two days are the same, so having some consistency in your day-to-day operations is of the utmost importance. By incorporating these five habits into your daily routine, you’ll be setting yourself and your business up for success. </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

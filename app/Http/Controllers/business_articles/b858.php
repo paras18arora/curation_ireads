@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>5 Things I Learnt From My Journey As An Entrepreneur</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="5 Things I Learnt From My Journey As An Entrepreneur" src="https://assets.entrepreneur.com/content/16x9/822/20151229042423-Untitled-1.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>There are countless experiences one can come across during his entrepreneurial journey. Every journey has its own lessons, Mustafa Nadeem, co-founder and CEO of Epic Research, shares his learnings.</p><p></p><p>The very thought of markets, brokers and traders can bring vivid thoughts to the mind of an outsider (and to many insiders too!). For some, markets are full of opportunities, for some these are places of gamble and for many these are simply fraudulent. For a startup that is right there in the middle of the market and tasked with advising clients about investing in these markets, the task is no cakewalk. Our relationship with customers usually goes through a complex phase of emotions starting from fear and distrust, then turning into some trust and interest and finally converting into trust and excitement. Most customers perceive market intermediaries as thriving on commissions from the trades they make and apathy to how well their trades do. While this may be true for most brokers and agents, we, as investment advisers, are on the side of the traders by the virtue of us being fee based advisers. We make money with the flat fee we charge to customers regardless of the trade volume. This is one of the most difficult things to make a customer understand. </p><p></p><p>I have been a market enthusiast since my college days and am avid reader of finance and market related literature. This has helped me transform my passion of the markets into a business and keeps me motivated even in the toughest times. I believe that skills can be earned and resources can be gathered by anyone over time, but the passion has to come from within. That is the energy which acts like a glue for my employees, vendors and customers alike.</p><p></p><p>There are thousands of big and small investment advisers in India. From my experience and from the first-hand accounts from customers, I can say that a majority of the advisers do not do a good job at protecting and enhancing their customers’ trades. They are narrowly focused on sales tactics and that has earned a bad reputation for the industry as a whole. While many of these scrupulous advisers make good money in the beginning, most do not survive beyond a year or so. A service business cannot run in the long term if the focus is not on the service itself.</p><p></p><p>When we started in 2010, there were no regulations in the investment advice industry. When SEBI brought the IA regulation in 2013 we thought that the good days of the industry are behind us. We were wrong. The IA regulation actually helped the industry in multiple ways. Because of the powers vested in SEBI and the strong penalties imposed for any wrong doing, many faulty companies were either forced to shut down or improve their methods. This helped the ethical players like us to gain customer trust and to put together processes (because of the compliance) which ultimately worked in favor of the customer. Although this has increased our operational cost widely, this has also increased our business volume and has been a win-win regulation for customers and the industry.</p><p></p>The hype around start-up funding scene in India has made many aspiring entrepreneurs assume that a start-up cannot graduate into a successful business without multiple funding rounds with investors. Although investor cash can fuel a start-up to grow exponentially in less time, a startup that can bootstrap and turn profitable on its own can deliver phenomenal results than one which is dependent on external funding to burn cash. My experience with organic growth and focus on profitability has given me tremendous confidence and the energy to do even better. Organic growth should not be underplayed and there are businesses where profits count more than the number of customers acquired. If yours is such a business or industry, go ahead and bootstrap.
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

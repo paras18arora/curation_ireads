@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>3 Signs Your Team Dreads Working For You</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="3 Signs Your Team Dreads Working For You" src="https://assets.entrepreneur.com/content/16x9/822/20160606154448-unhappy-coworkers-sad-colleagues-speaking-office-executives.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+											<p><em>We're now accepting submissions for our 2016 Top Company Cultures list. Think your company should be on it? <a>Apply Now »</a></em></p>
+
+										
+					
+	
+	<p>If you've worked more than one job in your life, chances are you've had an experience with a horrible boss. But if you're running a business with employees or contractors working for you, here's a thought you may want to consider: How do you know you're not the horrible boss everyone's talking about?</p><p>Think about it.</p><p>We all know the common complaints about bosses. They micromanage, lose their temper, force their team to sacrifice their personal life for their work life, etc. Those are the biggies, and unless you're completely oblivious, then you probably avoid those like the plague.</p><p>But what about the not-so-obvious things? What if you're already doing things that make your team resent you and you don't even know it?</p><p>You could be doing things that frustrate your team on a regular basis, and while they're not blatant acts of horrible-boss-ness, they eventually cause your team to dread working for you. Eventually you make work unpleasant, drive away great team members, and become the anonymous dream-sucking boss being talked about in your ex-employee's career self-help book. You don't want that.</p><p></p><p>So here are three signs to help you realize when you're adding friction and driving your team crazy:</p><h2>1. You over-complicate things.</h2><p>Simplicity is a beautiful thing. When things are simple, they're easy to understand and easy to attack every single day. Most people's brains love simplicity. The problem is, sometimes we convince ourselves that complexity is actually better, and the more complex we can make things, the more we'll understand it.</p><p>Wrong.</p><p>Want a sure-fire way to frustrate your team? Try making everything as complicated as possible, that'll ensure they dread coming to work.</p><p>Here's a hint: If you come up with a new spreadsheet every week, or even every month, you're probably frustrating your team.</p><p>Stop making everything so complicated.</p><p>The truly difficult thing to do, and the thing worth doing, is to simplify the complex. It's not easy to weed through all the data and information and pull out only the necessary points. It's tough to simplify. But if you want to keep your team happy, it's a necessity.</p><p></p><h2>2. Your expectations are constantly rising.</h2><p>Innovative companies grow, and to grow you have to set expectations high. But in order to grow consistently, your team has to stay motivated. Want to know how to kill their motivation instantly? Keep raising the bar on them no matter how well they do.</p><p>That means when your team exceeds their monthly goal by 25 percent, you don't expect them to hit and exceed that number next month. That turns success into a thing to be dreaded, and it drains motivation.</p><p>Set monthly goals, and celebrate when your team exceeds them, but don't keep raising the bar on them every time they do well. Instead, set goals months in advance and hold them to those. If they far exceed them, good for them. They'll be all the more motivated when they're actually winning every month.</p><p></p><h2>3. You're not intently focused.</h2><p>There are two basic ways to lose focus.</p><p>One is to lose focus on what's most important for your organization. You have to know what you're best at and what got you to where you are, and stay focused on getting better at that first and foremost.</p><p>When you get sidetracked and start working on things that distract from your central mission, your team can lose focus very quickly.</p><p>Whenever you're thinking of pursuing a new opportunity, ask yourself if it's beneficial to your central mission. If not, it's probably best to let it go.</p><p>It also never hurts to restate the company's mission on a regular basis in order to refocus your entire team regularly. Doing so prevents confusion and makes sure everyone is on the same page.</p><p>The second way to lose focus is to stop intently growing and breaking new ground.</p><p>Getting complacent is no way to keep your team engaged, assuming your team is made up of high-performers, so make sure you're always looking to try new things and get better no matter how comfortable you may be.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>3 Tips for Giving Your Small Business a Financial Spring Cleaning</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="3 Tips for Giving Your Small Business a Financial Spring Cleaning" src="https://assets.entrepreneur.com/content/16x9/822/20160112165104-cleaning-kitchen-wiping-countertop-chores-gloves-housework-washing.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Spring cleaning season is upon us and it’s not just time to declutter your office or take inventory, it’s also the right time of year for small business owners to get organized financially. From reviewing business expenses, to managing cash flow and revising business plans, every business owner can benefit from a financial refresh. Below are three financial tips to help you stay on track this season:</p><h2>Restore your business expenses.</h2><p>As a small business owner, you’re likely responsible for filing your taxes on a <a>quarterly basis</a>. If you don’t already do this, establish a separate bank account dedicated to your taxes and use it to set aside a monthly amount toward estimated taxes. Also, keeping business checking and credit accounts separate from personal accounts can help you maintain accurate and complete records of all business-related income and expenses, and can help you plan accordingly for when tax payments are due.</p><p></p><p>If you’re unsure about your estimated tax obligations, it’s wise to consult a tax specialist who can advise you on the best calculation method for your business. They can also help you to properly track and record your earnings and deductions.</p><h2>Stay in the green.</h2><p>Business owners know there are two essentials to keep a business running: profits and available cash. As spring can be a great time for growth, take action to ensure you are both profitable and maintaining a healthy cash flow.</p><p>One best practice is to check your business cash flow every week. You may be profitable, but the profits may be stuck in accounts receivable. Focus on the timing of income and expenses to identify potential gaps and plan ahead to determine how much cash you'll need to cover potential challenges.</p><p></p><p>Nearly every small business will face a time when it needs more cash than it has on hand. During spring cleaning, you may want to consider if a business line of credit would help bridge any gaps your business encounters in cash flow. For instance, when taxes are due, you may want to use a line of credit to help keep your cash flow constant and cover ongoing expenses, while paying down your tax debts.</p><p>Consider making time to meet with your banker for a spring financial review that includes an assessment of your credit needs. A banker can walk you through the available options, including some you might not know about, and help you choose the right <a>credit options</a> that make sense. Remember, the more you talk about your business, your needs and your goals, the better guidance you’ll receive.</p><p></p><h2>Dust off your business plan.</h2><p>Every small business should have a formal written <a>business plan</a> to help with business decisions and strategic planning. If you have one already, now is the time to do a quick review and consider updates to reflect your current business needs and goals. If you don’t have one, set aside time to draft this important document.</p><p>From start-up to succession planning, a business plan serves as a guide through the entire lifecycle of a business. An effective plan can help business owners prioritize how to spend their time and money, and set measurable goals. It also can help identify current or future obstacles so you can better anticipate and avoid potential risks. In addition, a business plan may help you obtain business financing. For example, for an <a>SBA</a> loan and some larger business <a>loans and lines of credit</a>, lenders may require a formal business plan before extending credit.</p><p>Giving your small business a good spring cleaning is not only refreshing, but it’s also a productive and strategic task. By updating your business plan, managing cash flow and organizing your finances, you’ll find that your small business is ready to head into spring better prepared to grow and succeed. </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

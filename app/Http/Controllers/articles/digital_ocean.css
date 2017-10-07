@@ -1,0 +1,31 @@
+p+pre {
+    margin-top: 0;
+}
+pre {
+    display: block;
+    box-sizing: border-box;
+    white-space: pre;
+    word-wrap: normal;
+    overflow: auto!important;
+    padding: 13px 17px;
+    font-size: 14px;
+    margin: 28px 0;
+}
+code, pre {
+    background-color: rgba(0,0,0,.05);
+    border-radius: 3px;
+}
+code, kbd, pre, samp {
+    font-family: monospace,monospace;
+    font-size: 1em;
+}
+pre {
+    overflow: auto;
+}
+user agent stylesheet
+pre, xmp, plaintext, listing {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px 1em;
+}

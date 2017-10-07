@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>5 Things Jeff Bezos Does Other Than Work</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="5 Things Jeff Bezos Does Other Than Work" src="https://assets.entrepreneur.com/content/16x9/822/20160523191845-GettyImages-532206876.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Jeff Bezos</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Jeff Bezos, founder of Amazon, is no stranger to making headlines for his bizarre, sometimes controversial business practices. Whether it’s <a>innovating the publishing world</a> or <a>making his employees pay for parking</a>, he is certainly not a boring man.</p><p>Love him or loathe him, it’s hard to ignore Bezos’ success as a businessman. He was recently <a>named no. 5 on Forbes’ Richest People on the Planet list</a> with a staggering net worth of $45.2 billion.</p><p>But what does this billionaire entrepreneur do when he’s not working? What are his hobbies, passions and interests outside of dominating the American online retail market? And what can we learn from this hyper-successful man?</p><h2 dir="ltr" style="line-height: 1.38; margin-top: 16pt; margin-bottom: 4pt;">1. He sleeps... a lot.      </h2><p>In an interview with the Wall Street Journal, Bezos talked about the importance of sleep. This is in sharp contrast to <a>the majority of CEOs who only sleep around four hours a night</a>. Not Bezos. <a>He makes sure to get a solid eight</a><a> hours of shut-eye every night</a>. He believes sleep is the best counter to stress and overworking. There are even stories of him bringing a sleeping bag into the office, to pound out quick naps during those extra-difficult days.</p><p>And he doesn’t use an alarm clock, citing the advantages of waking up naturally. <a>Quite a few sleep scientists agree with his way of thinking</a>.</p><p></p><h2 dir="ltr" style="line-height: 1.38; margin-top: 16pt; margin-bottom: 4pt;">2. He has an amazing hobby.</h2><p>Bezos’ hobby is so elite, expensive and niche that it makes sense only he’s known for it. When given the opportunity, he spends time <a>combing the oceans for discarded NASA rocket ships.</a></p><p>Because most of the rocket ship detaches from space shuttles mid-flight, there’s no safe place to discard the rocket boosters, except over the ocean. Bezos has turned this into his hobby, working with teams in submarines (sometimes bringing along his family) to retrieve these historic relics. He once spent three weeks on a single underwater rocket hunt.</p><p>If you want to see what that looks like, <a>here’s a video</a>.</p><h2 dir="ltr" style="line-height: 1.38; margin-top: 16pt; margin-bottom: 4pt;">3. He creates side projects for himself.</h2><p>Because running Amazon isn’t demanding enough on its own, Bezos has taken up a few side gigs. For instance, he bought <a><em>The Washington Post</em></a><em>, </em>one of America’s most prestigious newspapers. He hasn’t changed much about it, except its online loading times.</p><p>And before Elon Musk made it cutting edge, <a>Bezos started a space company back in 2000 called Blue Origin LLC</a>. His goal? Give everyone the opportunity to travel into outer space.</p><p>He’s also trying to <a>streamline Amazon further by delivering packages via drones</a>. That is, if the government will allow it.</p><p> </p><p><a style="font-weight: bold;">Another Successful Rocket Launch and Land for Jeff Bezos' Blue Origin</a></p><h2 dir="ltr" style="line-height: 1.38; margin-top: 16pt; margin-bottom: 4pt;">4. He spends his mornings doing whatever he wants.</h2><p>Unlike Steve Jobs, who would eat the same thing for breakfast everyday <a>in order to “pare down decisions,”</a> Bezos has made an effort to keep it fresh. There is one story of Bezos <a>ordering Mediterranean octopus with bacon and garlic yogurt</a> for breakfast in order to better understand another CEO, who he eventually bought out.</p><p>Regimented morning routines aren’t for everyone, and Bezos is a strong supporter of letting the morning come naturally. That’s <a>why he doesn’t schedule early-morning meetings</a> and prefers to spend time with his loved ones.</p><p></p><h2 dir="ltr" style="line-height: 1.38; margin-top: 16pt; margin-bottom: 4pt;">5. He’s a family man.</h2><p>Ironically, Bezos’s biological father <a>didn’t even know that he was alive</a> until just recently. Fortunately, Bezos himself is a much better father. He prioritizes family, and (like Elon Musk), he’s got a big one, so he sort of has to.</p><p>As you’ve read, he always makes time for family during breakfast, takes his wife and four adopted kids on submarine excursions and does his best to be involved, even with his intense and insane schedule.</p><p>It’s safe to say that Bezos does pretty much everything that he wants to. But if there’s one thing we can learn from his personal life, it’s that even the world’s most successful people are still only human. During a typical day, Bezos puts his family and health <em>literally </em>ahead of his business. What about you?</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

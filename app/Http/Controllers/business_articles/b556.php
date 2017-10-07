@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The Product "Craftsman" - Leading Design Innovation</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The Product 'Craftsman' - Leading Design Innovation" src="https://assets.entrepreneur.com/content/16x9/822/20160611124145-AmitDas.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Product design - one of the basic instruments on which large organizations are built is more than just a tool to make a product look cool or a website page swanky. Product design of companies like Apple, Microsoft, Facebook, Intel, Amazon, Airbnb, and Uber is what other businesses are envious of. It is a state of mind with a creative approach to solving a problem. Amit Das, former Design Head at Housing.com and current Vice President, Design at UrbanClap helps Entrepreneur design the structure of a great product for start-ups. </p><h3>Do you refer product designing only to designing different pages of a website or an app?</h3><p>No. In fact, product designing which revolves around creating digital products is about the product designer crafting the customer’s journey right from the first touch point where he comes across the company or its product whether offline through newspaper or TV ads, hoardings. etc., or online till he/she uses the product or service and gives feedback in terms of ratings or reviews as the final touch point. This is followed by identifying points and instances by the designer where start-up can push its digital products. For e.g. for a customer looking for services of a yoga trainer on UrbanClap, the touch points can be first, start-up can push more professionals into the customer’s area of interest if he/she has shown interest in getting a yoga trainer earlier, but couldn’t find it. </p><p>Second, requesting live comments on the service quality and third, asking for postservice feedback. This helps with more qualitative data.</p><h3>Does product design includes a company’s logo as well?</h3><p>Yes and no both. Yes, because after a certain time when brand remembrance comes into play for someone who wants to reuse the product, then logo becomes very important. However, designing the logo has to do more with the concept of brand establishment. So, product designers do not need to get involved in the branding exercise but they certainly need to leverage on top of it.</p><h3>What’s the most critical thing to look at while hiring a product designer?</h3><p>The product designer or the entire design team must be very well versed with the user experience design and must look at the product holistically. So, the designer must understand company’s target customers and how he/she can leverage the design to  attract those customers. Unlike graphic designers whose designs don’t need to satisfy business goals, product or user experience designers must have a reason of putting everything on the page. For e.g., even if they put a button or a list on the homepage then that should make business sense. </p><h3>So the approach of hiring also differs with business models?</h3><p>Yes. For a B2B model startup hiring a designer who is very user-research driven and spends weeks to create even the first wireframe of the website or the app will work because B2B’s sales cycle is very long. For a B2C company where things move rapidly, a product designer who is fast in implementation, right from conceptualizing the idea to creating the first wireframe within few weeks would be well suited.</p><h3>How frequently can start-ups do design iterations if they have to?</h3><p>Large companies make minor changes incrementally. For e.g. if you look at Amazon’s website you can’t figure out  design difference between today and tomorrow, but if you remember how the website looked last year then you would find marked difference as large companies are heavily data driven. Start-ups cannot do changes that quickly because it takes time for them to build good brand remembrance among people.</p><p>(First published in Entrepreneur India magazine's June 2016 edition)</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

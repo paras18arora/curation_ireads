@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The PR Costs of a Legal Fight</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The PR Costs of a Legal Fight" src="https://assets.entrepreneur.com/content/16x9/822/20160603162128-GettyImages-514540106.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Terry Bollea, aka Hulk Hogan, arrives in court for day two of his case against the website Gawker.</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Legal decisions for businesses are usually driven by lawyers, i.e., corporate counsel. And for good reason: Few sane people would argue that decisions about how, where and when to initiate or defend a legal challenge -- or settle one -- shouldn't include at least one person who went to law school.</p><p></p><p>But lawyers don’t always make all those decisions on their own. It's actually the company founders or CEO who often decide strategy when confronted with legal obstacles or opportunities. It’s their call because those decisions can impact the life or death of a company as few decisions can.</p><p>And because legal scuffles can impact public sentiment as well as the financial bottom line, it’s time that a third group push its way to the decison-making table: public relations and media experts. Those of us in those professions who spend our time watching, listening to and trying to influence public opinion know that it's easy to win a legal battle but still lose the public relations war -- which can be far more expensive in the long run.</p><p>One example: When the new football league, the USFL, <a>sued the dominant league</a>, the NFL, in 1986, it technically won the case. But the jury award of just $1 was a public relations disaster from which the league never recovered; and it folded just weeks later. In a more recent example, media website Gawker <a>lost both the suit and the public relations war</a> when it was slapped with a $140 million verdict in a suit brought by former wrestler Hulk Hogan.  </p><p>Those examples are why, if we PR pros weren’t united in this already, we should be telling our corporate clients and startup founders: Mediate.  Here are six reasons why getting a mediation is a PR win almost every time.</p><h2>1. The public likes mediation.</h2><p>They may not deeply understand it but they generally think that lawsuits take too long, cost too much and can become distractions. And they get appealed, anyway (see: Gawker, above). The public isn’t wrong. Being for mediation equates to being for resolution which, both in terms of perception and reality, is really necessary.</p><h2>2. Legal cases are public.</h2><p>Especially in high-profile cases, jurors give interviews. Pundits can spend weeks picking apart your case and your company in some very public places. Reporters meanwhile usually attend the trial -- reporting blow by blow, in agonizing detail. In media circles, this is called a drumbeat and it’s deadly and uncontrollable.</p><p></p><p>Mediations, by contrast, are closed affairs where evidence is presented to a certified, trained mediator so you don’t air your company’s mistakes or arguments in public.</p><h2>3. The outcomes are public too.</h2><p>In almost every trail, there’s an outcome that everyone will talk about, separating the parties into winners and losers. Even if you appeal, the public will remember that you lost and assume you’re guilty of something.</p><p>“Like the process, the outcomes in mediations are also usually confidential -- just like an out-of-court settlement may be,” <a>Kevin J. Chroman</a>, a mediator and professor who teaches mediation at Loyola Law School, told me. “That can be a real advantage for everyone involved, by keeping the focus on a good outcome instead of picking public winners and losers.”</p><h2>4. Mediation isn’t settling.</h2><p>Public relations folks will tell you that entering into a settlement before trial -- even a confidential one -- isn’t necessarily a win. Even though the lawyers may have ironclad reasons to settle, the public often assumes that your company wouldn’t settle a legal issue unless it thought the other side's charges had merit.</p><h2>5. Mediations cost less.</h2><p>Granted, the price tag isn’t often a top concern of the media team. But mediations are, on average, far less expensive than protracted legal battles, and that may be a good talking point with your company leaders when it comes to pushing a mediation solution.</p><h2>6. Offers are good PR.</h2><p>If your lawyers allow it, simply offering a mediation can be a big PR win. Being able to say, "Hey, we offered to mediate this and the other side wanted a public circus" is a nice shield to carry into a public relations fight around any legal challenge.</p><p>The next time I’m given a choice on how to structure a legal arrangement for a company -- something that has never happened and likely never will -- I’m pushing for mediation. And although I likely won’t be asked to decide, I will make sure I’m at the table.</p><p></p><p>Because, while the legal specifics may be on one side or another, getting to a mediation is almost always a public relations win. </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

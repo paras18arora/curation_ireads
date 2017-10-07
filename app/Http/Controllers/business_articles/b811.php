@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>What Made A Netherlands-Based Entrepreneur Invest In An Indian Farming Venture</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="What Made A Netherlands-Based Entrepreneur Invest In An Indian Farming Venture" src="https://assets.entrepreneur.com/content/16x9/822/20150429171123-start-up-growing-seed.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>What made an entrepreneur, sitting in the maritime climate of Netherlands, jump into the robust and overwhelming world of Indian startups? Wil Huijben, who himself owns an internet company back home, decided to invest in a farming venture based out of India. Wil told Entrepreneur Media want was the main reason that he chose to invest in this particular sector in India.</p><p></p><p>“For me, the most important element for any startup in India or in any other place in the world, is a good, solid, well thought-through business plan. I have seen a lot of people starting a new company with great enthusiasm, but with poor understanding of the environment they are going to operate in and total lack of setting short and long term, achievable goals. Without that, some will succeed, but most of them will get lost because they lose focus and start running around in circles,” Wil said.</p><p></p><p>Wil and Kumar Ramachandran, CEO of Farm Taaza, got to know each other in the second half of the nineties at Applied Materials, a US based company, manufacturing equipment for silicon wafer processing. In 2001 we worked closely together to lay out that company’s off-shore equipment engineering strategy.</p><p>“ At that time I made my first of several trips to India. In 2005 both of us decided to leave Applied Materials and during our final months there, Kumar and I had many discussions on the business plan for a start-up in equipment engineering, which later became Vignani Technologies. I was one of the angel investors to get that company started,”</p><p>Vignani was sold in 2014 and late that year Kumar came up with a new idea of starting a company that would have an impact on the rural agricultural sector in India. A few months later the business plan was ready for what became Farm Taaza.</p><p>“The decision to also invest in this new endeavor was not very difficult. The opportunity to be part of a company that really can make an impact to the economy was exciting. And the business plan was simple and scalable,” Will said</p><p></p><p>“Apart from the prerequisite business plan, it is very important that local people are involved to build and execute the operation. It is difficult for foreigners to understand the fine nuances of a culture and gain confidence of the local people, which is indispensable for a social startup. There must be an unconditional believe in the cause and determination to overcome problems that inevitably will cross the road to success. It requires an unlimited creativity and out of the box thinking to solve these problems one way or the other. It helps to have somebody running the show with a proven track record in starting a company. Last but not least, the financials have to make sense. Angel investors generally invest with their heart and have belief in the cause. They know the startup can fail and the investment can be lost. Professional investment companies much less take that perspective and eventually are just interested in a healthy financial return on their investment. Therefore, the financial plan, projected P&L statement and balance sheet, and cash flow plan need to be convincing,” Will said</p><p>Being a tech geek, Wil never saw himself investing in the vegetable and fruit business. “… the idea is great, the chance to be part of something that can change people’s life is exciting and worthwhile taking the risk.” He said. Adding to that Will feels that in future if an interesting opportunity arises, he would definitely like to be a part of it and would not like to restrict himself to any particular domain.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

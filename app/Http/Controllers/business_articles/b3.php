@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Capt. Sully: 5 Tips for Making Decisions Under Fire</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Capt. Sully: 5 Tips for Making Decisions Under Fire" src="https://assets.entrepreneur.com/content/16x9/822/20160701172932-GettyImages-133325081.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p><em>This story was originally published on April 2, 2015.</em></p><p>When both engines failed on U.S. Airways Flight 1549 on January 15, 2009, as the result of a bird strike, my crew and I had just 208 seconds to do something we had never trained for, and to get it right the first time: an emergency landing of a commercial airliner on water -- in this case, the Hudson River.</p><p></p><p>What allowed us to manage this crisis successfully, saving the lives of all 155 people aboard? There are, of course, many technical answers. But there are also five important human skills that anyone can learn and apply when facing decisions under fire in business.</p><h2></h2><p>When our plane lost thrust in both engines, the "startle factor" was huge, and my body reacted in normal physiological ways. I could feel my blood pressure shoot up and my pulse spike. But I had the discipline to compartmentalize these reactions and focus on the task at hand. In any high-stakes situation, it helps to create an oasis of calm in your mind and environment, so high performance can occur. Turn down the volume by lowering your voice, taking a deep breath and mentally hitting the reset button.</p><h2></h2><p>When dealing with imperfect information, high workloads and extreme time pressure, it is important to keep in mind the shared values of your organization that define not only what you do, but why you do it and for whom. Thinking about doing the right thing at the right time for the right reasons provides a sense of direction and establishes the guardrails to protect you and your organization<em> </em>from making an egregious mistake.</p><h2></h2><p>While ego can be a powerful driving force, giving it too much free rein can isolate you from the communication, collaboration and innovation you may need to avert disaster. Gene Kranz, the NASA flight director famous for leading the Mission Control efforts that safely guided <em>Apollo 13 </em>home after its service module exploded, told me once that his proudest moment was when his team brought him the solution to a problem he had not yet even asked about. A leader builds leaders, he said.</p><p></p><h2></h2><p>Facing a life-or-death moment over the Hudson, I didn’t have the time to say much about what was happening. But because my crew and I knew our roles and responsibilities so well, I didn’t need to. First Officer Jeff Skiles and I collaborated <em>wordlessly</em>. And before I made the most important announcement of my career to the crew and passengers, I took a few seconds to choose words that would be concise yet effective. I said, “This is the captain. Brace for impact.” That told the flight attendants that an emergency landing was imminent and that they should shout, “Brace, brace! Heads down, stay down!” to help the passengers avoid injury on landing. The simple message worked because effective communication was hard-wired into our organization.</p><h2></h2><p>Many people think about accountability in terms of a boss holding an employee accountable. But what works in my world is mutual accountability. I learned this as a fighter pilot for the U.S. Air Force, where success and failure, life and death, are measured in seconds and feet. There is a disciplined culture of mutual accountability because any lapse can be catastrophic. And this mutual accountability is a powerful force for good because it creates a shared sense of responsibility for the outcome.</p><p>Thankfully, we do not face crises -- in aviation or business -- every day, but we frequently face sudden challenges and opportunities. Practicing these skills when you are not under fire helps make them second nature when you really need them.</p><p></p><p> </p><p><br /><br /> </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Fortune Favors the Prepared Mind</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Fortune Favors the Prepared Mind" src="https://assets.entrepreneur.com/content/16x9/822/20150327221922-success-winning-inspirational.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>It is no secret that risk is going to be a factor in any entrepreneurial endeavor. Depending on the market, risk could be so high that it deters entrepreneurs from entering. Risk is always going to be present, but there are ways to work around it.</p><p>If you are planning on entering a new market, there is going to be a degree of luck (or unending, focused dedication) necessary to succeed. However, proper preparation will trump luck any day. We can minimize the threat of risk by preparing ourselves for our big entrepreneurial moves.</p><p>One major cause of failure for entrepreneurs is that their businesses can’t adapt. There are plenty of examples of failed start-ups due to their inability to grow or continue growing. While early growth may come naturally for some businesses, sustaining any level of growth can be difficult.</p><h2></h2><p>Understand that consumer tastes are going to change. Blackberry was once the giant of the cell phone world, and now an iPhone can be found in almost every other pocket. Your business may have a culture that it was built upon, but if tastes are changing then your marketing strategy could be a waste of time, money and resources. Preparing for these changes can prevent your business from failing after the first few years.</p><p></p><div class="rt-elem-show" style="box-sizing: border-box; margin: 0px; padding: 0px; float: right; width: 300px; color: rgb(37, 37, 37); font-family: Lato, arial, sans-serif; line-height: normal;"><div class="rt-elem-np" style="box-sizing: border-box; margin: 0px; padding: 0px; clear: both; float: right; width: 300px;"> </div></div><h2></h2><p>Another area that’s a source of risk is your employees. Too often entrepreneurs will hire low-quality employees. Employees are going to represent your brand, image and business even when they aren’t on the clock. How your employees act around potential and returning clients can have a huge impact on business.</p><p>If your business is dependent on a certain client or dependent on growth from a specific target area, you’ll be taking a major risk by employing the wrong person. However, hiring the right people could help your business beyond the value they add in the office. Study up on strategies on finding the right employees prior to beginning the hiring process. It could save your business from a lot of grief.</p><p></p><div class="rt-elem-show" style="box-sizing: border-box; margin: 0px; padding: 0px; float: right; width: 300px; color: rgb(37, 37, 37); font-family: Lato, arial, sans-serif; line-height: normal;"><div class="rt-elem-np" style="box-sizing: border-box; margin: 0px; padding: 0px; clear: both; float: right; width: 300px;"> </div></div><h2></h2><p>Entrepreneurs should also be aware that there are risks in making mistakes, and how those problems are fixed. However, it is critical to understand that mistakes will be made. A successful entrepreneur is going to be able to prepare themselves for mistakes rather than following the break-fix approach.</p><p>Before you start your business, be mindful of where mistakes could be made. They could be made by employees, the equipment you use or even by you, the founder. Don’t let mistakes bog down the success of your business. Prepare for mistakes, have a model in place to address them and move forward. You’ll be happy you’ve spent less time fixing problems and more time growing your business.</p><p></p><div> </div><div class="clearfix" color:="" display:="" font-family:="" line-height:="" style="box-sizing: border-box; margin: 0px; padding: 0px; clear: both; content: "> </div><div class="rt-elem-show" style="box-sizing: border-box; margin: 0px; padding: 0px; float: right; width: 300px; color: rgb(37, 37, 37); font-family: Lato, arial, sans-serif; line-height: normal;"><div class="rt-elem-np" style="box-sizing: border-box; margin: 0px; padding: 0px; clear: both; float: right; width: 300px;"> </div></div>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

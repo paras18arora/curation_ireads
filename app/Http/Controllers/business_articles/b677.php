@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>4 Ways Richard Branson Does Social Media Better Than You</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="4 Ways Richard Branson Does Social Media Better Than You" src="https://assets.entrepreneur.com/content/16x9/822/20150319160740-richard-branson-success-secret.jpeg" rel="share" />
+
+											<div class="caption info">
+							<div class="toggle-caption fa fa-info"></div>
+							<div class="caption-text">
+								<p><i class="fa fa-times toggle-close"></i>Richard Branson</p>
+							</div>
+						</div>
+					
+							
+								
+				
+				
+											<p><em>Attend our free webinar July 12 and discover SEO, social media and content tactics to boost your brand’s online visibility. <a>Register Now  »</a></em></p>
+
+										
+					
+	
+	<p>When asked to name some of the most successful entrepreneurs on social media, many lists rank Richard Branson near the top. With more than seven million Twitter followers, nine million followers on LinkedIn and nearly three million Facebook likes, Branson joins Mark Cuban and Elon Musk as one of the most prominent executives on social media. But success on social media goes well beyond likes and follows. Branson follows several social media best practices that elevate him to the top of the pack. Follow these four to establish thought leadership, drive leads and nurture relationships on social media.</p><p> <a class="gs-title" data-ctorig="https://www.entrepreneur.com/video/271380" data-cturl="https://www.google.com/url?q=https://www.entrepreneur.com/video/271380&sa=U&ved=0ahUKEwjVksv2wIjNAhUK7yYKHciQAVYQFggHMAE&client=internal-uds-cse&usg=AFQjCNHHj1Z7qd8O4lr7Mq13S9MShJD-fg" dir="ltr">'Screw It, Just Do It': Exclusive Video Interview With Richard Branson</a></p><h2></h2><p>Branson successfully uses the platform to tell stories and naturally build engagement, creating a personal feeling among an extremely large following. Today’s social media users are more savvy than ever. While standard marketing messages may have organically generated engagement or clicks a few years ago, social media followers now expect real connections.</p><p>Despite the sheer volume of followers Branson engages every day, Branson is able to respond to some tweets on a nearly daily basis. Further adding a personal touch to his tweets, Branson often includes personal pictures and images with his content. There’s an especially important element to note here: Branson typically posts to social media himself. It can be difficult to build and nurture real relationships on social media when an outside resource is posting to your accounts. Socially-savvy connections can often tell when posts are coming from a marketing team. Branson realizes that social success requires authenticity, and makes social media a priority during his day.</p><p>When asked recently by a follower how much time Branson devotes daily to blogging and social media, <a style="color: rgb(17, 85, 204);">Branson responded directly to the follower:</a><em> It depends what else I’m doing and where I am, but I make sure to check in at least a couple of times a day.</em></p><p></p><h2></h2><p>While you hope to earn leads and build stronger relationships on social media, every business is ultimately engaging in social media and other marketing to increase sales. Posting “feel good” content may help drive engagement and clicks, but content that sends traffic to your website is what converts followers and likes into leads and ultimately, sales. Facebook and Google are continually switching off as the number one driver of website referral traffic.</p><p>Branson understands the importance of original blog content to his social media strategy, writing new blog posts on a nearly daily basis. He sends traffic to those blog posts on the Virgin website by posting the links in engaging tweets to his seven million followers.</p><h2></h2><p>In his book <em>Jab, Jab, Jab, Right Hook</em>, <a style="color: rgb(17, 85, 204);">leading social media expert and New York Times bestselling author Gary Vaynerchuk </a>recommends offering fun, valuable content several times before ever “asking” for something from your social media followers. Whether it’s a cute animal picture, a funny meme or a personal story, Branson shares things he enjoys on Twitter. More importantly, he shares content that he knows his followers will enjoy.</p><p>While sending traffic back to your website is essential to growing your business, sharing content your followers will enjoy offers some balance to business-oriented content, simultaneously increasing the likelihood followers will trust the quality of your “hook” content.</p><p></p><h2></h2><p>Branson understands that being active on social media -- and reaping the potential rewards of a strong social presence -- means becoming vulnerable to negative input or comments from customers. Rather than avoid this type of social feedback, <a style="color: rgb(17, 85, 204);">Branson welcomes it,</a> stating:</p><p><em>I enjoy reading through my social media feeds. It’s a great way to get feedback about our goods and services, and a wonderful way to find inspiration for new ideas.</em></p><p>Through his #AskRichard live Twitter Q&A’s and through daily interaction, Branson engages his followers in open conversations about a range of topics. Branson takes a community approach to his Twitter followers instead of an adversarial one, leading to a highly engaged community of followers. </p><p>Social media success is not reserved for globally-recognized entrepreneurs with millions of followers. Make a commitment to social media and follow the lead of Richard Branson to make an impact.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

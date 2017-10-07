@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The Big New Crowdfunding Vehicle for Startups Is a Bit of a Flop So Far</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The Big New Crowdfunding Vehicle for Startups Is a Bit of a Flop So Far" src="https://assets.entrepreneur.com/content/16x9/822/1412036206-crowd-wisdom.jpg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>On May 16, the latest stage of the 2012 JOBS Act took effect, but the expected gusher proved to be only a trickle: Only ten portals were approved, for crowdfunding for small investors.</p><p></p><p>The JOBS Act was created during the Great Recession to help capital-starved entrepreneurs. This latest rule, called Reg CF or Title III, allows private companies to crowdfund from non-accredited investors up to $1 million, in exchange for equity.</p><p>It’s the first time mom and pop investors may easily buy stakes in startups, and the Act's use of online portals was supposed to make such transactions easier. However, investors who went looking for those online portals on May 16 likely had a hard time finding many that were operational.</p><p>The SEC has said that it expected at least 50 platforms to register in advance of May 16. However, only about 30 platforms applied to the SEC to operate as a funding portal, and fewer than two dozen completed the Financial Industry Regulatory Authority's (FINRA) paperwork by the April deadline. With the portals grappling with red tape, few online platforms were operational on the big day.</p><p>Still, even if this form of financing is hitting a slow start, it could yet become an important mechanism for fundraising. Indeed, many nascent companies are already lining up for this type of equity crowdfunding.</p><p>Crowdfunding may have begun with a fund-my-movie, I’ll-mail-you-a-T-shirt ambiance (think Kickstarter), but it has evolved into a genuine financing vehicle for innovative startups. For many smaller entrepreneurs, raising capital through crowdfunding beats a bank loan -- or maxing out credit cards, or desperately seeking an angel investor.</p><p>Under various regulations of the JOBS Act, crowdfunding in fact may now be used to raise anything from tens of thousands of dollars to tens of millions. Already, millionaire investors have had investing access to equity crowdfunding for a little over two years.</p><p>Crowdfunding rules also allow entrepreneurs to offer debt, which in fields such as real estate can be more attractive to investors, who can receive interest and principal payments as a project take-off.</p><p></p><p>However, for the next couple of years, crowdfunding will effectively be in a trial phase, as regulators seek to limit the risk to individual investors. Under the new rule, individuals may invest up to 5 percent of their annual income if they earn less than $100,000 a year, and 10 percent if they make more than $100,000. The number of investors allowed in a deal is limited to 500. With deals limited to $1 million, that suggests that many deals will be offered in shares of $2,000.</p><p>Since online portals are not as closely regulated as broker-dealers, regulators will want a go-slow approach as the market establishes itself. That’s especially important since the new rule lacks any enforcement mechanism. Just as gamblers can bet at multiple casinos, investors in theory may likewise invest in any number of deals on various online portals.</p><p>Still, there was that problem of few if any portals available on May 16. Therefore, investors wanting to buy pre-IPO shares in a company developing the next killer iPhone app, or to invest -- in a disruptive tech firm, for instance, seeking $250,000 to get its idea off the ground -- might find it easier to work with a broker-dealer.</p><p>Established broker-dealers, which are already accredited, only have to file with FINRA an intent to participate. So, under the new rule, they will have an easier time facilitating crowdfunding.</p><p></p><p>Some broker-dealers may also offer access to pooled investment vehicles, where individual investors can invest in a variety of startups, thereby diversifying their investments. Still, stay tuned: Those online portals will be finishing up the federal paperwork soon. Then . . . let the investing begin.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

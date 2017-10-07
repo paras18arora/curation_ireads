@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>The Road To Financial Independence Is The Road Less Traveled</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="The Road To Financial Independence Is The Road Less Traveled" src="https://assets.entrepreneur.com/content/16x9/822/20150819160637-money-in-hand-success-bills.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>April - the month when many people dread tax time is often referred (with the best of intentions) as Financial Literacy Month. It’s the time when we think about our finances and what we can do to get smarter with our money.</p><p>So, often “financial education” focuses on managing your money rather than growing it. It focuses on income versus assets and saving versus investing. It’s the financial industry’s playbook to assess your current financial situation, build a budget, cut expenses, pay down debt, and prepare for the unexpected.</p><p>These two points of view were of my rich dad and poor dad - the two father figures (one is rich and another one is poor) that I put in my 1997 book Rich Dad Poor Dad. My “poor dad” who was my biological father struggled financially his entire life playing by the old rules of money whereas my “rich dad” who was my best friend’s father taught me a different way to approach money and invest.</p><p>He didn’t accept the conventional wisdom when it came to money, and for him every day was a ‘financial literacy’ day. So, as someone who has been branded as a contrarian when it comes to the way we think about money and the role it plays in our daily lives, I propose an alternate course that is not always easy, and certainly not for everyone.</p><p></p><p>There are many financial planners who will “assist” you in creating your financial statement and net worth. The problem is that traditional balance sheets are worthless for an average individual. They classify your home and car as assets even though they cost you money each month and depreciates from the day you own them. This is often a confusing concept for the average person. Why? Because we are taught very little about money in school. And because the rules of money have changed and continue to change as our world changes.</p><p>“Rich dad” had a very simple definition for an asset and a liability - an asset puts money in your pocket while a liability takes money out of your pocket. When I wrote Rich Dad Poor Dad, I used these simple definitions to state that your house is not an asset, but rather a liability because even if you own it for free, you must still pay for utilities, insurances, maintenance, taxes, etc. When the book was published, the so-called experts revolted but when the housing crash hit in 2008, many people learned, firsthand, that a house is a liability. On the other hand, investment property is an asset.</p><p></p><p>Most financial planners tell you to cut expenses and live within your means. I don’t believe that because living within or below our means kills our spirit. It dampens our ability to dream and create the future we deserve.</p><p>Rather than say, “I can’t afford it,” my “rich dad” taught me to ask, “How can I afford it?” That is the mindset of abundance that forces you to think and expand your horizons. For e.g., how can you create an asset or income that will allow you to afford what you’d like to acquire?</p><p></p><p>Most financial advisors will advise you to eliminate your debt. This is because most people don’t understand the difference between good debt and bad debt. The average person has only bad debt incurred by purchasing liabilities like vacations, TVs, cars, and houses. Good debt uses other people’s money to purchase cash-flowing assets. For instance, when I purchase investment property, I use the bank’s money to pay for most of the asset.</p><p>Other benefits of investments using debt include tax advantages and a higher return on my investment (ROI) because I’ve used less of my money to buy the asset. Rather than looking to reduce all debt, find ways to reduce your bad debt and grow your good debt to help buy or build assets. I’ll close with some good news: You don’t have to wait till April next year to get smarter with your money. Start today, and do it every day. Because every day should be your financial literacy day.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

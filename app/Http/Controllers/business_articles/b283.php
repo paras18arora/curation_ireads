@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>2 Things That Can Help You Change Faster And Sustain – Part 2</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="2 Things That Can Help You Change Faster And Sustain – Part 2" src="https://assets.entrepreneur.com/content/16x9/822/20160324164929-shutterstock-256950151.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Can the New Year resolution, this time, last longer than it ever did? Can the weight management program sustain till the time the desired weight is achieved? Can the financial savings and investments discipline be better than ever before?</p><p>Can we make these changes? Can we sustain the decisions or resolutions?  </p><p>We are figuring out whether changes are possible. Whether we can break old habits and form new ones that will elevate us to the level we desire and deserve.</p><p>In the previous article<em></em> I wrote about three powerful steps for forming new habits. If you missed reading that blog please follow the link.</p><p>There is a famous dialogue in the Hindi movie ‘Wanted’. The dialogue goes something like this. “Ek bar jo maine commitment kar di, uske baad main apne aapki bhi nahi sunta’ (Once I make any commitment then I don’t listen even to myself).</p><p>I think our brain has many characteristics of this dialogue. That is where breaking old habits and forming new habits become challenging.</p><p>Every habit starts with the psychological pattern called as ‘Habit Loop’. This is a three part process. </p><p></p><p>This part of the habit loop tells our brain to go into automatic mode and let a behaviour unfold.</p><p></p><p>This is the behaviour itself. When we talk about habits, we are generally talking about this part of the habit loop.</p><p></p><p>Something that our brain likes about the behaviour that help it in remembering the ‘habit loop’ in future. </p><p>Now the question is if this is how habits are formed is it possible to break unwanted habits and acquire or inculcate the desired habits? </p><p>I am sure we all have seen sometime or the other our friend transform completely. Be it weight loss, more energy, more passion for the purpose, new and efficient habits et al. And we wonder just little less than a year when I saw her, she was not like this. I am seeing a completely different person. How did this person make it possible, we wonder? </p><p>My friend Tony who is a pilot with a private airline company is one such person I have seen. He says he has been using ‘rocket philosophy’ to form new habits. A rocket requires tremendous energy while taking off and reach the  lower orbit of the earth.</p><p>Habits are like that. We need maximum energy to form new habits initially. Two important questions still remain to be answered.</p><p>1. How many days of deliberate efforts are required before the habit gets into a routine?</p><p>2. What is the guarantee that we will not come back to the earlier habit? </p><p>Many experts have suggested repeating the new behaviour for 21 days. It’s painful to get up early morning. It requires lots of effort to go to the gym and take that first step. We all have tried these things. And we all have reverted to the earlier habit.</p><p>Tony says it’s not a straight line thing. It’s not a cookie-cutter kind of a solution. You will have a tendency to come back to the earlier pattern. That is not just easy for the brain. It’s Effortless.</p><p>He says he uses another method called as ‘flight height’. At lower altitudes you need more power to run an aircraft and vice versa. Whenever you see the new habits losing steam, you apply more mental thrust and sustain the habit.</p><p>A combination of ‘’ and ‘’ will help improve the chances of acquiring and sustaining new habits.</p><p>So as an entrepreneur or as a professional if we follow these 5 methods, it will certainly help us build the required or desired habits and enhance our circle of influence.</p><ol><li>Switch</li><li>Pain and Pleasure principle</li><li>Golden rules of habit change</li><li>Rocket philosophy</li><li>Flight height</li></ol>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

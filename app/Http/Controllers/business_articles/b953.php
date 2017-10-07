@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Steve Harvey"s Top 10 Rules for Success</h1>
+									<div class="pl pl-heroabove">
+																				<div id="objectplayer" data-ooy="IzcjM3NDE6A3Q56CG2jCxAyz5qHkey5N" data-autoplay="1" class="oovideo"></div>
+											</div>
+							
+								
+				
+				
+										
+					<p>He's an American comedian, television host, radio personality, actor and author. He hosts <em>The Steve Harvey Morning Show</em>, <em>Steve Harvey</em>, <em>Family Feud</em> and <em>Little Big Shots</em>. He is a three-time Daytime Emmy Award winner.</p><p>He's Steve Harvey, and here are his top 10 rules for success.</p><h2>1. Find your gift.</h2><p>Shortly after high school, he attended Kent State University and West Virginia University.</p><h2>2. Embrace failure.</h2><p>He has been a boxer, an autoworker, an insurance salesman, a carpet cleaner and a mailman.</p><h2>3. Push through the dirt.</h2><p>He first performed stand-up comedy in 1985 at the Hilarities Comedy Club in Cleveland, Ohio.</p><h2>4. Multiply your effort.</h2><p>In the late 1980s, he was homeless for multiple years.</p><h2>5. Surround yourself with like-minded people.</h2><p>He slept in his 1976 Ford when not performing gigs that provided a hotel, and he showered at gas stations.</p><h2>6. Manage your strengths.</h2><p>He was a finalist in the Second Annual Johnnie Walker National Comedy Search.</p><h2>7. Balance between flexibility and focus.</h2><p>His success as a stand-up comedian led to a starring role on the ABC show <em>Me and the Boys</em> in 1994.</p><h2>8. Jump.</h2><p>He would later star on the WB network show, <em>The Steve Harvey Show</em>, which ran from 1996 to 2002.</p><h2>9. Dream big.</h2><p>In 2012, he performed his final stand-up act in Las Vegas, ending a 27-year career as a stand-up comedian.</p><p>10. Show emotion.</p><p>He is the author of <em>Act Like a Lady, Think Like a Man, and Straight Talk, No Chaser: How to Find and Keep a Man.</em></p><p><em></em><br />Ask for what you want.<br />Never be afraid to reinvent yourself.<br />Use outside observers.</p><p><em>Watch more videos from <a>Evan Carmichael on his YouTube channel here.</a> </em></p><p></p><p><a><em>Entrepreneur Network</em></a> <em>is a </em><a><em>premium video network</em></a><em> providing entertainment, education and inspiration from successful entrepreneurs and thought leaders. We provide expertise and opportunities to accelerate brand growth and effectively monetize video and audio content distributed across all digital platforms for the business genre.</em></p><p><em>EN is partnered with hundreds of top </em><a><em>YouTube channels</em></a><em> in the business vertical and provides partners with distribution on </em><a><em>Entrepreneur.com</em></a><em> as well as our apps on </em><a><em>Amazon Fire</em></a><em>, </em><a><em>Roku</em></a><em> and </em><a><em>Apple TV</em></a><em>.</em></p><p></p>				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

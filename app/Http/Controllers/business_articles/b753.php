@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How SAIF Is Contributing To The Success Of YourDost</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How SAIF Is Contributing To The Success Of YourDost" src="https://assets.entrepreneur.com/content/16x9/822/20160628055923-YourDOST-Team-Pic-Modified-1.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Access and awareness towards mental and emotional wellbeing are very restricted in India. Moreover, several taboos are associated with it as Indians are not ready to talk about it in open. Richa Singh, who had personally gone thrown with this emotional trauma, decided to bridge this gap and started her own venture, YourDOST.</p><p>The Bangalore-based venture offers online counselling and emotional wellness support to users to bolster their mental health.</p><p>It is an online emotional wellness platform to get support from experts consisting of life coaches, psychologists, and other experienced individuals.</p><h3></h3><p>Today, startup has announced that it has raised $ 1 million from SAIF Partners in a pre-series A round of funding. YourDOST has raised a total of $1.2 million in the round with the repeat participation of seven angel investors- Venk Krishnan of NuVentures, Subbarao Telidevara of NuVentures, Redbus Phanindra Sama , Aprameya of Taxi4Sure, Seedfund’s Paula Mariwala, Vibhu Garg of Unicommerce, Flipkart’s  Gaurav Bhalotia.</p><p>Prior to this, startup has raised close to $400,000 in seed funding round from bunch of well-known angel investors.</p><p>The startup plans to utilize the funds to rope in senior professionals from the industry in key leadership positions, to expand the scope of its operations and to reach out to more people.</p><p>Speaking on the recent investment, Mridul Arora, Principal, SAIF Partners said, “We are impressed by the refreshing approach YourDOST team has adopted to address an increasingly relevant issue of emotional and mental wellbeing. While still in early stages, we believe YourDOST is at the forefront of creating a new space in India which has extremely strong latent demand. With its strong focus on quality supply and maintaining user anonymity, YourDOST presents a unique proposition for consumers to overcome the prevailing hesitation associated with openly talking about mental issues. With this investment SAIF continues to identify and nurture businesses, right from seed stage/pre-Series A to beyond.”</p><p>Launched in December 2014, YourDOST is available to people via its web platform and also on mobile through it’s recently launched a mobile app on android platform and IOS platform.</p><p>Available as a free service both through a web portal and mobile app, users can choose to get into a live chat, find answers over email or book an appointment with the expert of their choice. It has over 300 experts on its platforms who conduct roughly 800 one-on-one sessions every day.</p><p>“We have spent the last 1.5 years strengthening our product, creating awareness and understanding the needs of users. The entire team is now excited to enter into the next level of our evolution with support from a valuable partner like SAIF which has believed in our work and has invested in us. With the experience of SAIF Partners backing us and the funds we have raised, we are ready to accelerate our growth, expand the team and operations and reach out to more and more people with their emotional wellness coach – YourDOST,” said Richa Singh, CEO, YourDOST.</p><h3></h3><p>According to government estimates, 1 in 5 people in India needs counselling, either psychological or psychiatric. For an estimated over 70 million people living with psychosocial problems and disabilities, there are less than 50 government mental health establishments.</p><p>And if we go by the figures stated in a report by WHO in 2011, 1 out of 7 people in India i.e. 15 per cent of the Indian population was suffering from depression in 2015, this has seen an alarming rise with 20 per cent of Indian population being depressed today.</p><p>Richa Singh with its startup is reducing this chronic problem with the help of mental wellness in our country and by using technology.</p><p>Her startup is helping people to overcome their depression with the help of expert’s guidance.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

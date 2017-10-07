@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Events Cost Money. Here Are 3 Ways to Secure Sponsorship.</h1>
+									<div class="pl pl-heroabove">
+																				<div id="objectplayer" data-ooy="YybGNvMzE6ECA7Ut2rQRtOk--0SFVaJC" data-autoplay="1" class="oovideo"></div>
+											</div>
+							
+								
+				
+				
+										
+					<p>Events are an amazing way to connect with your customers and community and to build your network and pipeline -- but they cost money! Especially the good ones that are worth going to.</p><p>Sponsorship is a great way to combat the hit to your wallet while still being able to keep the quality of your event high. So, how do you go about engaging sponsors and securing dollars in time to cover your costs?</p><p></p><h2>1. Plan ahead.</h2><p>I know, the last thing you want to hear is that planning in advance is better, because everyone knows that, but with events, planning ahead of time, getting on people’s radar, securing your spot on someone’s calendar and raising your flag will enable you the opportunity to connect with potential sponsors.  In purchasing sponsorship of events, buyers review the exposure opportunities, how long they will be marketed, how many eyeballs they will be in front of, and the synergies with their respective mission and target clients.</p><p>The more information you have in front of them, the easier it is for them to get value out of supporting your event.</p><h2>2. Understand your event's return on investment.</h2><p>Ask yourself -- what’s in it for the sponsors? Why should they support your event? How will they see and present their return on investment internally? It’s important to understand sponsorship buyers / marketing teams have people to answer to internally to justify why they are dedicating a portion of their budget to your event, the better you understand and outline your goals, identify their goals, and detail how they connect, the more likely they will be happy, they will look good to their superiors, and they will be coming back for more in the future!</p><h2>3. Ask questions.</h2><p>What’s your budget? What fiscal year does your company operate on? When do you plan your sponsorship dollars and review event opportunities for the year? The more you know about internal decision making, the more power you have to get in front of people at the right time to increase the likelihood of a "yes, we’d love to participate and support your event."</p><p>Events allow opportunities for companies to get in front of their target audience in a curated format and create real relationships in this increasingly digital world!</p><p></p><p><em>The <a>Entrepreneur Network</a> is a global movement of creative, energetic and inspired video creators sharing their ideas, experience and vision for the next generation of business founders and owners. We provide expertise and opportunities to accelerate brand growth and effectively monetize video and audio content distributed across all digital platforms for the business genre.</em></p><p><em> to become a part of this growing video network.</em></p>				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>What To Expect When You Turn Social Entrepreneur</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="What To Expect When You Turn Social Entrepreneur" src="https://assets.entrepreneur.com/content/16x9/822/20160620103410-shutterstock-364914206.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>What is the inspiration behind entrepreneurship? Is it the fame, the money, both, or none of them? Is it the fire in the belly, a dream in the heart and a hazy thought of “Kuch karke dikhana hai” (Do something worthwhile and show the world something of real value)? Maybe it’s a bit of all this that urges entrepreneurs towards what we call for-profit entrepreneurship.</p><p>It is all about sustaining, scaling, making a profit, and becoming an enterprise worth talking about. Most look at an IPO as the final destination, while making a lot of money for the founders and investors. There’s another kind of entrepreneurship, however.</p><p></p><p>Social entrepreneurship has most ingredients needed for a for-profit enterprise, with the inclusion of another one – the entrepreneurs make an impact in the society where it matters the most -- the bottom of the pyramid, usually -- with their entrepreneurial solutions.</p><p>This is called for-profit social entrepreneurship. Here, sustainability and to sustain some levels of profitability is a must, and scalability (possibility to grow large) becomes imperative only when one wants to get funded by social impact angel or VC funds to impact at a larger scale at the bottom of the pyramid.</p><p></p><p>It is difficult to measure these social enterprises in the social impact pendulum framework; they swing from just-for-profit to for-profit social enterprise back and forth, to trying to become a for-profit social enterprise. This identity crisis is also the reason a number of them see their business models become unsustainable, and they collapse. It is a difficult engagement to become a for-profit socially-impacting enterprise because to make an impact at the bottom of the pyramid and earn base-level revenue, and then make it a sustainable enterprise, leave alone making it profitable, is a challenge.</p><p></p><p>A social enterprise can scale and sustain, but makes little profit, but a lot of impact. However, it may not be interesting for a social-impact VC fund in the long run since the fund money will turn into a grant money scenario for initial setting up, and no real profit can really be generated to provide basic returns. A social enterprise can generate revenue from the end client but since we are talking about the bottom of the pyramid, the client’s paying capacity and frequency for using the service capacity is too low for a paid service. For a social enterprise, sustainability may happen, but profitability isn’t easy.</p><p></p><p>If the social enterprise targets the bottom of the pyramid as the customer and provides service to that client base, there is a strong possibility that you may not be able to sustain as a social enterprise. But change the model a bit while still fitting the nomenclature of a social enterprise, and you become eligible for social impact VC funding. The other solution: Your product or service is sold to the general masses but in the process of service delivery or product manufacturing, you backward integrate a section of the bottom of the pyramid. That way, you alleviate their standard of living and buying capacity and, in a cyclical way, convert them into your direct customers while getting them one or two levels up from the bottom of the pyramid.</p><p></p><p>Anytime is the right time to create a social enterprise as long as it is profit making and sustainable. As long it is ethical and engages people from the bottom of the pyramid, which all profit enterprises do, but handles them ethically and compensates them properly, anytime is the best time to become a social entrepreneur.</p><p><em></em></p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

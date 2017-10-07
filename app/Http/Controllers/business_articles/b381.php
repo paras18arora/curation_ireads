@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Donald Trump, Oprah and Tony Robbins Have Made Millions Giving Interviews. You Can, Too.</h1>
+									<div class="pl pl-heroabove">
+																				<div id="objectplayer" data-ooy="gyam93MzE60kaDk7fBy0pWfmwvaZrpyw" data-autoplay="1" class="oovideo"></div>
+											</div>
+							
+								
+				
+				
+										
+					<p>Donald Trump, Oprah and Tony Robbins might be some of the most famous people to have made millions off of constantly being interviewed -- but according to <a>Entrepreneur Network partner and marketing expert Matt Dubiel</a>, you can too. </p><p>Speaking from his radio station, WCKG in Chicago, Dubiel explains on this video that this is a concept that has been used for nearly 100 years now by people who write books, teach courses or sell ideas.</p><p>"When you look at public speakers, one of the reasons why authors like to speak to big groups in auditoriums and college campuses is because it's one person -- you -- sharing your idea with hundreds of people," he says. "And so, the percentage of sales that you might make of your book or your product or your service or your idea -- the amount of people that you reach grows exponentially.</p><p>"That's why when you're being interviewed, it's even more powerful, because of instead of standing in front of a room of hundreds, you -- if you do it the right way -- will be heard by thousands."</p><p>Whatever form of media you are using for the initial live interview, that content can be re-purposed on the internet by the media outlet, and then "even more people will hear your message -- and you know what that means: More people can buy your book or your product or your service."</p><p>Click play to hear Dubiel outline his course on making millions with interviews, <a>also available online here</a>.</p><p><em>Watch more videos from Matt Dubiel on <a>his YouTube channel</a>.</em></p><p></p><p><em><a style="box-sizing: border-box; text-decoration: underline; outline: 0px; position: relative;">Entrepreneur Network</a></em> <em>is a <a style="box-sizing: border-box; outline: 0px;">premium video network</a> providing entertainment, education and inspiration from successful entrepreneurs and thought leaders. We provide expertise and opportunities to accelerate brand growth and effectively monetize video and audio content distributed across all digital platforms for the business genre.</em></p><p><em>EN is partnered with hundreds of top <a style="box-sizing: border-box; outline: 0px;">YouTube channels</a> in the business vertical and provides partners with distribution on <a style="box-sizing: border-box; outline: 0px;">Entrepreneur.com</a> as well as our apps on Amazon Prime, Roku and Apple TV.</em></p><p><em> to become a part of this growing video network.</em></p><p> </p>				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

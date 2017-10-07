@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How One Woman Reinvented Her Career After Nearly 30 Years by Becoming a Franchisee</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How One Woman Reinvented Her Career After Nearly 30 Years by Becoming a Franchisee" src="https://assets.entrepreneur.com/content/16x9/822/20160328182502-business-women-working-analyze-analizing-documents.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Linda Zager had worked for Motorola for 28 years before she left to start her business as an <a>Expense Reduction Analysts</a> franchisee. Offering cost-management strategies to businesses, she soon acquired clients from various companies in Chicago. When she discovered that the same techniques used for her business clients would be effective for nonprofits, she began working with Back Office Cooperative, a Chicago organization that frees up resources for nonprofits.  Zager is now also the executive director of The Back Office Cooperative and she has helped grow membership while reducing expenses. In changing her career, she’s changing the lives of others throughout the city.</p><p>Read on to see how she did it and what’s next.</p><p><img alt="" src="https://assets.entrepreneur.com/images/misc/1458948428_1.jpg" style="height:410px; width:610px" /></p><div class="courtesy">Image credit: Linda Zager</div><p>Linda Zager</p><p>Expense Reduction Analysts in Chicago, IL</p><p></p><p><br />I have owned my Expense Reduction Analysts practice since 2008.</p><p><br />Joining Expense Reduction Analysts’ franchise system provided me with the opportunity to own my own consulting practice with the backbone of an established, respected brand and the proven resources for franchisees to succeed. Due to the nature of our business, it also gave me access to a network of other analysts in the franchise system who are able to help advise on specific client projects.</p><p><br />I worked with Motorola from 1979 until 2007. During that time I held many different positions spanning disciplines in sales, finance, and credit and account management.</p><p>?<br />There were many things that attracted me to the opportunity. It combined key elements of a classic consulting firm, to which I could apply my professional skills sets, with a franchise model that I could grow and scale as my own business. It also gave me the freedom to choose my business focus in client acquisition and management, and because I can create my own schedule and workload, it allows me to maintain a flexible lifestyle. Lastly, due to ERA being a knowledge- and consultancy-based offering, there were very low overhead expenses and no need to invest in a brick-and-mortar type of retail space.</p><p></p><p><br />In total, I spent around $70,000 to get the business up and running. Fifty-five thousand dollars was paid towards the franchise fee, and the remaining $15,000 was spent on training costs.</p><p><br />Outside of my own personal research, I hired a franchise consultant who identified Expense Reduction Analysts as an ideal opportunity that fit well with my background and franchise criteria.</p><p><br />Initially, acquiring new business was an unexpected challenge. I quickly learned that selling a consulting service was much different than selling for Motorola. The same rules did not apply. Things really started to turn around for me after I learned how to be a trusted advisor for companies. As a result, I was able to gain the trust of my clients because they knew I had their best interest in mind and from there, securing new business was much easier.</p><p><br />Don’t ever underestimate what it takes to acquire new clients or business. This is the only way you can truly be successful.</p><p></p><p><br />Right now, I am in a unique situation within the nonprofit community in Chicago. As the executive director of The Back Office Cooperative.  I am able to apply the Expense Reduction Analysts business model to achieve this mission.</p><p>Looking ahead to the future, I want to increase my involvement with the nonprofit community both locally and in other parts of the country to make a nationwide impact. </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

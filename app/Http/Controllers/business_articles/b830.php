@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Funding Roundup: Five Startups Who Attracted Investors" Eye Yesterday</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Funding Roundup: Five Startups Who Attracted Investors' Eye Yesterday" src="https://assets.entrepreneur.com/content/16x9/822/20160407153601-allowance-crowdfunding-personal-credit-money.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Missed out your daily updates? Eager to know which investors has backed the startups? Entrepreneur India brings to you the latest update on the current funding scenario so that you don’t miss single news from the startup world.</p><p></p><p>An online investment firm Goalwise has secured $1 million (Rs. 6.8 cr) from a bunch of High Net-Worth Individuals (HNIs). The venture plans to utilize the funds to scale up their technological, analytical and operations infrastructure.</p><p>Goalwise, founded by Swapnil Bhaskar and Ankur Choudhary, both IIT Kanpur alumni and Savitri Bobde, St. Xavier's alumnus early this year, is the Bangalore-based startup that runs on its self-designed algorithms for investment advisory, mutual fund selection, as well as a goal tracking technology called GoalSense.</p><p>“It's like having an intelligent personal investment manager available online for free, Goalwise does not charge users for advisory and investment services. We earn brokerage from mutual fund companies on the investments made with them. This is usually in the range of 0.5 - 1.00 per cent per annum for equity mutual funds and 0.1-0.5 per cent for debt mutual funds. Through our extensive use of data, we have established a scientific, performance driven fund selection strategy. The selection process is not biased by the brokerage we get,” said Bhaskar.</p><p>This fin-tech startup will look at raising about $5 million in the next three to four months.</p><p></p><p>The Bengaluru-based company, AddressHealth has secured $1.5 million in Series A funding led by Gray Matters Capital with participation from existing investor, Unitus Seed Fund.</p><p>Operated under, Primary healthcare network the company runs school-based neighbourhood clinics and school health programs. The venture plans to use this investment to expand the model to other schools in Bangalore.</p><p>Founded in 2010 by Doctors Anand Lakshman and Anoop Radhakrishnan, the company has reached more than 1 lakh children through on-site services and screening programs to identify health issues and them with intervention.</p><p>Commenting the recent investment Bob Pattillo, CEO and Founder, Gray Matters Capital, said “With its market-based model for pediatric healthcare, AddressHealth has served more than 100,000 children already; what I believe to be a fraction of their future potential."</p><p></p><p>Aavishkaar Frontier Fund has invested $2 million in Bangladesh-based CloudWell Limited. It is the third transaction from its South and South-east Asia.</p><p>The company will utilize this investment to accelerate its growth and scale up its nationwide network.</p><p>Startup is a payment solution provider that enables agent-based last mile payment solutions to a host of service providers such as telecom operators, mobile financial services players and other billers under the brand name ‘PayWell’.</p><p></p><p>An online food-tech startup, Eatonomist has secured an undisclosed amount of funding in its seed round led by MCube Capital Advisors Private Limited. This Gurgaon-based startup plans to utilized this funds for marketing and building brand.</p><p>Started by Dhar and Nupur Khanna in November 2014, the startup is operated under Fitmeal Solutions Private Limited. It is an online food technology venture that delivers meals prepared at its kitchens.</p><p></p><p>A Delhi-based fashion discovery platform, Hoppingo has secured $ 89,000 from vCommission, a subsidiary of Adways VC India Private Limited. Operated under Survar Media Private limited, Startup offers around 800 e-stores across categories like mobile, laptop, tablet, television, wearable tech, computer peripherals and accessories, kitchen and home appliances.</p><p>Stay Tuned to Entrepreneur.com to know the latest update of Startup World.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>How the Best Entrepreneurs Manage Risk</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="How the Best Entrepreneurs Manage Risk" src="https://assets.entrepreneur.com/content/16x9/822/20160622183339-GettyImages-508067071.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>I interviewed Jere Simpson, founder and CEO of <a>Kiteware</a>, a software design company that counts the FBI, Homeland Security, The Pentagon, Bank of America, Samsung and Amazon among its clients. Like a lot of entrepreneurs, Simpson is always busy juggling multiple projects. I caught up with him upon the launch of <a>netpure</a>, a new venture that represents the next step in his entrepreneurial journey.</p><p>I quickly realized that there’s a lot to learn from Simpson. His success story is like a lot of other entrepreneurs. He started a B2B services company because it allowed him to start small -- first with himself as the head programmer -- then adding on more staff as he found more work. No factories or expensive equipment required. He was selling time for money.</p><p></p><p>Kitewire grew quickly, but would not scale beyond a certain size. Simpson knew that his employees had a value many times higher than their salary, but he couldn’t really give them the compensation that he wanted to in a time and materials market. In order to take his business to its next level of success, he needed to make a shift in his business approach.</p><p>The next step in Kitewire’s evolution was a savvy one. “We started listening in to our customers’ needs," Simpson said. "What did they need that people aren’t making, and that we had the experience to make? We thought that the products business would be a way better business to be in than selling labor.”</p><p>Kitewire began experimenting with the B2B market. They came up with a mobile security and mobile device management product, and started shopping the idea around to a selection of potential clients. “We thought that if we could just knock down one really big client, we could pay for the whole workforce, and anything we made past that would be extra profit” Simpson told me. They began working on this product while simultaneously pitching potential clients.</p><p></p><p>They found a client who showed interest and agreed to partially cover the expenses for the remainder of the development. In this way, Kitewire moved up a level in terms of risk management. They began to build capacity first, while also confirming the existence of a market for their product.</p><p><iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260777697&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false" width="100%"></iframe></p><p>After finding some success in the B2B market, Simpson took Kitewire to the next level of risk management with netpure -- a “build-it-and-they-will-come” model for the consumer market. With the Kitewire’s netpure child-safe internet solution, Simpson is hoping to reach a far bigger market -- a customer base numbering in the hundreds of thousands or more.</p><p>The journey of Kitewire is a great example of the way that business owners evolve over time in the ways that they manage risk. Simpson is learning how to manage risk better and better as he matures as a business manager. He is gaining the experience he needs to know when his company is ready to take the next step, and in which direction.</p><p></p><p>Risk is part of entrepreneurship. And the best entrepreneurs are the best risk managers. The trick is to look for or create opportunities with a comfortable balance between risk and reward. You may not bet your whole company on an untested product or service for a market that may not even exist, but you also shouldn’t cling too tightly to a model that is holding you back from any growth or innovation. What’s the next big leap in your entrepreneurial journey?</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

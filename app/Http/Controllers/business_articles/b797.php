@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>RBI Keeps Repo Rates Unchanged: How Does It Impact The Industry</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="RBI Keeps Repo Rates Unchanged: How Does It Impact The Industry" src="https://assets.entrepreneur.com/content/16x9/822/1413911135-prevent-expense-fraud.jpg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>The Reserve Bank of India kept a lid on key policy rates, citing concerns over rising inflation. At a bi-monthly monetary policy review of the current financial year, Raghuram Rajan RBI kept the repo rate unchanged at 6.5 per cent. Consequently the reverse repo rate will remain unchanged at 6.0 per cent. </p><p>Repo rate is the discount rate at which banks borrow from RBI. Reduction in repo rate will help banks to get money at a cheaper rate, while increase in repo rate will make bank borrowings from RBI more expensive.</p><p>In a reverse repo transaction, banks purchase government securities form RBI and lend money to the banking regulator, thus earning interest. Reverse repo rate is the rate at which RBI borrows money from banks.</p><p></p><p>The unchanged rate comes as a sign of dismay for new home buyers and the real-estate market.  Commenting on the impact on the housing market, Rajesh Prajapati, MD, Prajapati Constructions  said, “ The rate cut in the last monetary policy had put the market on a right path, as we saw some renewed interest for properties especially in Navi Mumbai and Raigad. We have to remember one thing, the government is putting thrust on affordable housing but the same will remain a mirage till the time the cost of funds remains higher.”</p><p>“The “Housing for All” is an ambitious project by the Government and RBI needs to be proactive in making this dream come true by reducing the interest rates and making housing affordable,” Prajapati added.</p><p></p><p>Talking about RBI’s decision, Jimeet Modi, CEO, SAMCO Securities said that the accommodative stance in spite of headwinds from inflation is a forward looking step in line with supporting the acceleration in the economy. “The inflationary pressure came from food related items which should get neutralized post the monsoon season opening the doors later for inevitable rate cut then. Slow pick up in loan demand is a cause of concern in the short term but it should subside soon, as the acceleration in the economy has been consumption driven which will later drive investment demands which will then lead to pick up in the long term credit demand cycle, Jimeet added.</p><p>RBI on Tuesday cited concerns slower growth in the United States in the first quarter, skepticism in labor market and rising crude prices.</p><p>“.Overall it does look like we are unlikely to see any further rate cuts in the next couple of monetary policy meetings, even though the inflation target of 5% stays the same for now. The overall tone of the statement seems somewhat favourable to the capital market. Quite interestingly Rajan was not concerned much about the surrender of payment bank licences by 3 licences, infact he said it was an indication of the liberal approach taken by the central bank,” V. Sivaramakrishnan, Finance Director at Venture Factory.</p><p>RBI further said that rising crude prices and implementation of 7th pay commission pose upside risk to inflation. It will soon review implementation of marginal cost lending rate framework by banks.</p><p>"Inflation is a little bit of a surprise for sure.  There is some room for banks to manage rates and would be interesting to see whether banks take up the initiative.  The upcoming monsoon and redemption of FX bonds will mean some bit of volatility in forex and money markets and may be the next policy is where the market will watch whether inflation seems manageable and therefore RBI softens its stance on rates too," Ashish Fafadia, CFO at Blume Venture Advisors</p><p>“The only positive takeaway could be seen as Governor Rajan stressing on the fact that this policy stance though retaining a hold outlook, continues to remain accommodative. Banks rallied post the policy in a market which remains inherently bullish and is looking more for reasons to rise than fall,” Nikhil Kamath, Co-Founder & Director, Zerodha, an online discount brokerage firm.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

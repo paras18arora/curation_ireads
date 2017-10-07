@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>Five Digital Marketing Lessons That You Can Apply In Your Business</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="Five Digital Marketing Lessons That You Can Apply In Your Business" src="https://assets.entrepreneur.com/content/16x9/822/20150318102123-shutterstock-182769413.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Countless innovations in social, mobile and engagement marketing strategies!.The year 2016 has seen the rise of the connected consumer. Kousik, head of marketing and B2C Business of VIA.com, writes about the digital marketing lessons that he implemented at his firm.</p><p></p><p>The rise of the mobile device is unstoppable. So what site operators need to do is to shift the way they view their website from a desktop centric to a mobile centric view. This will drive the digital marketing strategy for any company which wants to survive in the competitive times. Mobile marketing is massive already and forecast to exceed desktop Internet access in many developing countries. So every marketer needs to keep tabs on the opportunities of reaching their audiences via mobile and how to make their mobile sites and presences visible and accessible.</p><p></p><p>Traditional advertising has rightfully evolved into the world of content marketing. And yes, this is an age-old saying. But it holds true even now. Content is the King. Content drives the marketing machine and thus, should be the primary focus. If there is no content worth reading or seeing on the site, then you better not complain if people do not visit your site. As modern-day marketers focus on trying to understand their customers, the content should be directed at a targeted audience. Also, an integral part of content is syndicating it. SEO or search engine optimization is indispensable to the success and failure of website. However, the trick to good SEO execution is to seamlessly integrate it into the content on the site itself so that it doesn’t stand out.</p><p> </p><p></p><p>Video needs to play a starring role at all stages of the marketing and sales funnel in 2016. A recent study by Cisco Systems shows consumer video will account for 80 per cent of all internet traffic by 2019. Consumer viewing habits are moving away from TV and toward streaming video. The concept of digital video itself has evolved. It is no longer a viral content on YouTube, flashy homepage videos, video ads on Facebook, etc. Successful brands are now expanding their use of video throughout the entire customer journey to help them build better relationships, improve customer satisfaction and educate buyers. It now ranges from creative campaign videos that bring light to pain points to customer testimonials and personalized product demos. This will set the roadmap in 2016.</p><p> </p><p></p><p>You want to drive awareness and popularity for your brand? The answer is work with social influencers. In today’s context, they are raising a brand’s content strategy to the next level. They have the power to boost credibility and extend your content’s reach into new communities, as well as be critical partners in generating content. So rope in bloggers who are able to convince other people to create content, as their posts fly through the social media space; Twitter users who share, respond, simply generating content and Twitting replies and re-Tweets; Facebookers who share Facebook themes that are interesting, causing “likes”, comments and overall serious attention.</p><p></p><p>We all like that personal touch, and this is no less the case when it comes to digital marketing. Personalized content talks directly to your target audience and offers the exact solution he is looking for. We need to utilize social data and marketing technology to create highly personalized experiences for our consumers and potential clients. Content strategies that are data-driven are vital for online marketing efforts. This data can then be used in numerous ways, of course, but when it comes to getting real return on your marketing efforts, it is most useful for helping you get personal.</p><p><a name="_GoBack"></a> </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

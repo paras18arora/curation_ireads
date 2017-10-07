@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>4 Tips for Revving Up Revenue When You Need It Most</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="4 Tips for Revving Up Revenue When You Need It Most" src="https://assets.entrepreneur.com/content/16x9/822/1396655898-choosing-right-cashiering-system-bar.jpg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>Small business owners typically start a business because they have a specific passion or want to be their own boss. This vision is only the beginning of being an entrepreneur; the hard task is to generate a profit over time.</p><p>Critical to creating a profitable operation is to set a cash flow management plan. A business' ledger is more than just numbers -- it shows how the business is performing and impacts salaries and the ability to obtain a loan.</p><p>Here are key aspects to developing a clear cash management plan:</p><h2>1. Open the right accounts.</h2><p>The first step to gaining a good view of your business' assets, profitability and expenses is to maintain separate finances in a business checking account. Unlike a standard consumer account, small business banking often includes payment tools, deposit and payment information, enhanced security features so multiple individuals can access information at varying levels and fraud protections. Monitoring inflows and outflows of capital can help a business owner decide when to buy inventory, make hires or increase or decrease their own salary.</p><p></p><h2>2. Establish goals.</h2><p>As with most aspects of running a business, cash management goals should be synced to the stage of your company, whether start-up mode, growth phase or transition/retirement. Cash performance should align with short-term and long-term objectives, and fall into buckets based on use -- operating budget, short-term liquidity (needed within 30 days) or long-term liquidity (needed longer than 30 days). Once you've developed these goals, re-examine cash flow to see if any money could be placed in a business savings vehicle. A business money market account, for instance, can help maximize interest earnings on short-term cash, and can link to a checking account for quick withdrawals, while a Certificate of Deposit (CD), will offer a steady interest rate yield for one or more years.</p><h2>3. Get outside help.</h2><p>Most business owners benefit from having a bookkeeper or accountant maintain their operation's financial records. Thorough records provide insights into the revenue cycle, and help a lender make loan decisions when a small business owner applies for credit. If hiring an accountant is out of budget, consider using a software tool such as Xero or QuickBooks, along with your bank's online tracking tools, to gain similar information. In addition, upgrading your customer payment system to a product like Clover allows businesses to accept credit card or phone payments wherever they do business and can also give insights into daily sales, inventory levels and other operational items that impact revenue.</p><p></p><h2>4. Accelerate cash collections.</h2><p>Owning a business comes with an endless stream of expenses -- employee salaries, suppliers, loan payments -- that can pile up or result in account overdrafts. When this happens, the revenue cycle needs to accelerate using methods such as automated receivables; mobile check deposit (remote deposit capture); positive pay for checks or ACH, which speeds up clearing time by matching payment information to a list of known payers; or a 'smart safe' that electronically counts cash deposits and credits the business account prior to the physical cash reaching the bank. Be sure to speak with your financial institution to understand how each of these products work.</p><p></p><p>Cash flow management is key to operating a successful business. By correctly managing funds, setting clear goals and using the right tools, you can better position your company to grow and gain equity -- and eventually set aside more money for the future. </p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							

@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="abc.css"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><h1>When You Should Hire a Creative Agency, and How to Maximize Your Investment</h1>
+				
+					<img itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="When You Should Hire a Creative Agency, and How to Maximize Your Investment" src="https://assets.entrepreneur.com/content/16x9/822/20160607134253-winston-wolf-pulp-fiction.jpeg" rel="share" />
+
+					
+							
+								
+				
+				
+										
+					
+	
+	<p>I call myself (and <a>my company</a>) the <a>Winston Wolf</a> of digital. Why?</p><p>Companies come to me when they have problems. Just like John Travolta and Samuel L. Jackson in <em>Pulp Fiction</em>, they usually have a messy situation they’re dealing with, and more often than not it’s the result of working with another agency. So we help them.</p><p>Not all creative agencies are created equal. There are different agencies for different objectives. </p><p></p><p>There are agencies that can help brands come up with and run ad campaigns. But not all advertising agencies offer creative services. Media buying agencies make deals to place existing content on TV or online. PR agencies focus on publicity and news coverage. Promotional agencies can help brands create sweepstakes, coupons and other collateral. </p><p>Creative agencies come up with concepts and strategies to help brands develop creative voices and stand out via commercials, print ads, events, online engagement and more. If a creative agency is what you’re seeking, here are a few things to consider: </p><h2>1. It's a long-term investment.</h2><p>Think of working with an agency as a long-term investment. If you have a one-time project, like an event flyer, it’s probably best to find an independent vendor such as a graphic design freelancer. </p><h2>2. Know your company values, vision and mission</h2><p>It will be your job to help explain your company’s value, vision and mission to your agency partner. Make sure you can clearly articulate these items. </p><h2>3. Be clear with your objectives.</h2><p>You don’t have limitless funds, so you’ll want to focus on specific goals such as increasing sales, penetrating new markets and growing your social media reach. </p><h2>4. Identify the right agency.</h2><p>Figure out your objectives and identify the agency that will be best for your specific goals. If your most pressing need is a mobile-friendly website, it won’t make sense for you to work with an agency that specializes in social media marketing only. </p><p></p><h2>5. Figure out your budget.</h2><p>Determine your threshold beforehand so that you can clearly articulate your means to your potential partner. This will save you lots of back and forth. </p><p>Next, you’ll start looking for the right partner. Here are some things to look for in a partner: </p><ol><li>Ensure the agency has a track record of the kind of work you need. </li><li>Make sure the agency can execute your objectives. </li><li>Make sure the agency’s culture aligns with your own. </li></ol><p>Once you find the right partner, you’ll want to know the roles within the organization. For example: </p><ul><li>Account managers are typically responsible for the client/agency relationship. They facilitate communication between the agency’s team and the client (you). </li><li>Project managers typically plan the project timeline, make sure work gets done on time and budget, and work to resolve challenges as they arise. </li><li>Strategists research the market to develop unique insights and track trends. </li><li>Creatives are the writers, artists, designers and technologists who come up with ideas, and/or execute objectives. </li></ul><p>Of course, different agencies can have different roles. </p><p></p><p>Once you begin, if the idea or campaign isn’t as successful as you had hoped, don’t panic. Sometimes it takes some trial and error to get in the groove. Work with the agency’s strategy team to evaluate what worked and what didn’t. </p><p>Be bold in your ideas. Step out of your comfort zone. Make sure to track analytics to evaluate performance. And if your run into any issues that seem hopeless, know that there’s always a Winston Wolf just a phone call away.</p>
+
+	
+				
+				
+									<div class="entnative" data-type="article-footer-promo"></div>
+
+										
+					
+							
