@@ -16,21 +16,29 @@ class tutorialController extends Controller
         $skip=$token*10;
         $tutorials=new \ArrayObject();
         $data=array();
+        if(sizeof($pieces))
         $take=10/sizeof($pieces);
-        
-        for($i=0;$i<sizeof($pieces);$i++) {
+        else
+        $take=0;
+
+
+        for($j=0;$j<sizeof($pieces);$j++) {
+    
            $items=DB::table('tutorials')
-           ->where('tags', 'LIKE', '%'.$pieces[$i].' '.'%')
+           ->where('tags', 'LIKE', '%'.$pieces[$j].' '.'%')
            ->take($take)
            ->skip($skip)        
            ->get();
-           
+          
+       
+          
         $tutorials=$items;
-    
+        
        
         for($i=0;$i<sizeof($tutorials);$i++)
         {
 
+          
         	if(isset($tutorials[$i]->id))
      		$id1=$tutorials[$i]->id;
      	    else

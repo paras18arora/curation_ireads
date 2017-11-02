@@ -35,7 +35,7 @@
 @endsection
 @section('content')
 	<div class="jumbotron clearfix">
-		<p class="col-md-12"> results found @if(isset($req['q'])) for keyword '{{ $req['q'] }}' @endif {{$youtube_token}}</p>
+		<p class="col-md-12"> results found @if(isset($req['q'])) for keyword '{{ $req['q'] }}' @endif</p>
 	</div>
 	<div class="">
 		<div class="col-md-2 side">

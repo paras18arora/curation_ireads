@@ -23,7 +23,7 @@ class SearchController extends Controller
     }
 
     protected function display(Request $request){
-       $tags=array("python","java","c++","mysql","tutorials","arrays","loops","sessions","cookies","programming","computer","cake php","php","laravel","frameworks","tutorials","networks","compiler","login","signup","html","css","javascript","jquery","bootstrap","machine","learning","open source","xml","json","mvc","nodejs","entreprenuer","leader","php"); 
+       $tags=array("python","java","c++","mysql","tutorials","arrays","cookies","programming","computer","cake php","php","laravel","frameworks","tutorials","networks","compiler","login","signup","html","css","javascript","jquery","bootstrap","machine","learning","open source","xml","json","mvc","nodejs","entreprenuer","leader","php"); 
        $keyword=$request->q;
        $course_type=$request->course_type;
        $nexttoken=$request['nexttoken'];
@@ -35,19 +35,19 @@ class SearchController extends Controller
        if(!isset($request->filter_value))
        {
        $data=array();
-       $req = Request::create('/youtube/'.$keyword.'/'.$nextYoutubetoken, 'GET');
+       $req = Request::create('/youtube/'.urlencode($keyword).'/'.$nextYoutubetoken, 'GET');
        $instance = Route::dispatch($req)->getContent();
-       $req1 = Request::create('/googlebooks_search/'.$keyword.'/'.$nexttoken, 'GET');
+       $req1 = Request::create('/googlebooks_search/'.urlencode($keyword).'/'.$nexttoken, 'GET');
        $instance1 = Route::dispatch($req1)->getContent();
-       $req2 = Request::create('/searcharticle/'.$keyword.'/'.$nexttoken, 'GET');
+       $req2 = Request::create('/searcharticle/'.urlencode($keyword).'/'.$nexttoken, 'GET');
        $instance2 = Route::dispatch($req2)->getContent();
-       $req3 = Request::create('/tutorials/'.$keyword.'/'.$nexttoken, 'GET');
+       $req3 = Request::create('/tutorials/'.urlencode($keyword).'/'.$nexttoken, 'GET');
        $instance3 = Route::dispatch($req3)->getContent();
        $instance = json_decode($instance, true);
        $instance1 = json_decode($instance1, true);
        $instance2 = json_decode($instance2, true);
        $instance3 = json_decode($instance3, true);
-             
+
 
        $i=0;
 
@@ -56,7 +56,7 @@ if (is_array($instance1) || is_object($instance1))
   foreach ($instance1 as $key) 
        {
         foreach ($tags as $tag) {
-          if(stripos($key['title'],$tag) || stripos($key['description'],$tag) || strpos($key['title'],$tag)==0 || strpos($key['description'],$tag)==0)
+         if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
           {
       
         
@@ -72,7 +72,7 @@ if (is_array($instance1) || is_object($instance1))
        {
         foreach ($tags as $tag) {
          
-          if(strpos($key['title'],$tag) || strpos($key['description'],$tag) || strpos($key['title'],$tag)==0 || strpos($key['description'],$tag)==0)
+          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
           {
       
        
@@ -84,12 +84,12 @@ if (is_array($instance1) || is_object($instance1))
        }
      }
      
- if (is_array($instance1) || is_object($instance1))  
+ if (is_array($instance2) || is_object($instance2))  
 {
        foreach ($instance2 as $key)
         {
          foreach ($tags as $tag) {
-          if(stripos($key['title'],$tag) || stripos($key['description'],$tag) || strpos($key['title'],$tag)==0 || strpos($key['description'],$tag)==0)
+         if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
           {
       
         
@@ -99,8 +99,8 @@ if (is_array($instance1) || is_object($instance1))
      }
         }
       }
-        if (is_array($instance1) || is_object($instance1))  
-{
+    if (is_array($instance) || is_object($instance))  
+       {
        
 
        foreach ($instance as $key) 
@@ -109,7 +109,7 @@ if (is_array($instance1) || is_object($instance1))
         if($i==1)
           continue;
         foreach ($tags as $tag) {
-          if(stripos($key['title'],$tag) || stripos($key['description'],$tag) || strpos($key['title'],$tag)==0 || strpos($key['description'],$tag)==0)
+          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
           {
       
         
