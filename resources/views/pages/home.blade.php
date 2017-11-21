@@ -42,13 +42,13 @@
 	  	<div class="clearfix"></div>
 	  	<br><br>
 	  	<p>
-	  		<a class="btn home-btn" href="{{ route('category') }}" role="button">Browse Rooms</a>
-	  		<span>&nbsp;&nbsp;&nbsp;Or&nbsp;&nbsp;&nbsp;</span>
+	  		<!--<a class="btn home-btn" href="{{ route('category') }}" role="button">Browse Rooms</a>
+	  		<span>&nbsp;&nbsp;&nbsp;Or&nbsp;&nbsp;&nbsp;</span> -->
 	  		<a class="btn home-btn" href="{{ route('createcourse') }}" role="button">Create Course</a>
 	  	</p>
 	</div>
 	<div class="row nomargin-leftright carousel">
-		<div class="col-md-8" style="border-right:1px solid #ddd">
+		<!--<div class="col-md-8" style="border-right:1px solid #ddd">
 			<h3 class="text-center">Latest Rooms<span class="pull-right"><button class="btn btn-default btn-show-all">Show All</button></span></h3>
 			<hr class="margin-hr">
 			<div class="latest">
@@ -103,7 +103,8 @@
 			    <div class="item"><h2>Name</h2><h4>Author</h4><p>Hello helloooooo</p></div>
 			</div>
 		</div>
-		<div class="col-md-4 newspaper">
+		-->
+		<div class="col-md-12 newspaper">
 			<h3 class="text-center">Latest News</h3>
 			<hr class="margin-hr">
 			<ul class="list-group">

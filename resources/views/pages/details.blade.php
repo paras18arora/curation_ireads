@@ -26,20 +26,22 @@
 			</div>
 		</div>
 		<div class="clearfix text-center course-details">
-			<div class="col-md-3"><h4>Category</h4></div>
+			<!--<div class="col-md-3"><h4>Category</h4></div>
 			<div class="col-md-3"><h4>Course Type</h4></div>
 			<div class="col-md-2"><h4>Level</h4></div>
-			<div class="col-md-2"><h4>Free</h4></div>
-			<div class="col-md-2 goto no-padd-leftright"><a href="{{ route('play',['type' => 'article','id' => $id,'source' => $source,'type1' => $type1,'isbn' => $isbn,'videoid' => $videoid,'name' => str_slug('Course Name'),'link' => $link,'title' => $title,'imagesrc' => $imagesrc,'no_of_files'=> $no_of_files]) }}" class="btn btn-danger">Start course <i class="fa fa-angle-double-right"></i></a></div>
+			<div class="col-md-2"><h4>Free</h4></div>-->
+			<div class="col-md-2 col-md-offset-10 goto no-padd-leftright"><a href="{{ route('play',['type' => 'article','id' => $id,'source' => $source,'type1' => $type1,'isbn' => $isbn,'videoid' => $videoid,'name' => str_slug('Course Name'),'link' => $link,'title' => $title,'imagesrc' => $imagesrc,'no_of_files'=> $no_of_files]) }}" class="btn btn-danger">Start course <i class="fa fa-angle-double-right"></i></a></div>
 		</div>
 	</div>
 	<div class="col-md-8 about-div">
-		<ul class="navbar nav nav-pills nav-justified no-padd-leftright" role="tablist">
+		<!--<ul class="navbar nav nav-pills nav-justified no-padd-leftright" role="tablist">
 		  	<li role="presentation" class="active"><a href="#about-course" aria-controls="about-course" role="tab" data-toggle="tab">About Course</a></li>
 			<li role="presentation"><a href="#course-content" aria-controls="course-content" role="tab" data-toggle="tab">Course Content</a></li>
-		  <!-- 	<li role="presentation"><a href="#course-review" aria-controls="course-review" role="tab" data-toggle="tab">Course Review</a></li> -->
+		  	<li role="presentation"><a href="#course-review" aria-controls="course-review" role="tab" data-toggle="tab">Course Review</a></li> 
+		 
 		  	<li role="presentation"><a href="#write-review" aria-controls="write-review" role="tab" data-toggle="tab">Write a Review</a></li>
 		  	<li role="presentation"><a href="#discuss" aria-controls="discuss" role="tab" data-toggle="tab">Discussion Forum</a></li>
+		  	-->
 		</ul>
 		<hr style="margin:0px;margin-bottom: 20px">
 		<div class="tab-content col-md-12">

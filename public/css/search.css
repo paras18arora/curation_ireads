@@ -11,3 +11,5 @@ a.active{color:#bc3527;}
 .filter-tags{margin-bottom: 10px !important;padding:5px;}
 .filter-tags .label{background-color: #ccc;border: 1px solid #aaa;font-weight: 200 !important;letter-spacing: 0.02em;margin: 2px 2px 2px 0px;display: inline-block !important;color: #000;min-width: 50px;font-size: 14px;}
 .filter-tags .label:hover{text-decoration: line-through;}
+.left-float{float:left; display: inline;}
+.right-float{float:right; display: inline;}

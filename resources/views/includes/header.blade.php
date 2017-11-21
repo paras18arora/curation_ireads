@@ -15,9 +15,9 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="category">
-            <ul class="nav navbar-nav">
+            <!--<ul class="nav navbar-nav">
                 <li><a href="javascript:void(0)" id="browse-cat">Browse Rooms <span class="caret"></span></a></li>
-            </ul>
+            </ul>-->
             <form class="navbar-form navbar-left" method="post" action="{{ route('search') }}">
            <input type="hidden" name='nexttoken' value="0">
            <input type="hidden" name='paginatevalue' value="1">

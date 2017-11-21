@@ -11,11 +11,13 @@ function selected_page(val,x)
 	$(x).closest('form').submit();
 
 }
+
 function clearfilter(val)
 {
     document.getElementById("videoid").value="";
     document.getElementById("articleid").value="";
     document.getElementById("bookid").value="";
+    document.getElementById("createdarticleid").value="";
 	val.closest('form').submit();
 
 }

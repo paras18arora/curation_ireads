@@ -43,6 +43,15 @@ class tutorialController extends Controller
      		$id1=$tutorials[$i]->id;
      	    else
      		$id1="";
+     	    if(isset($tutorials[$i]->author)){
+     	    	$authors=array();
+     	    	array_push($authors, $tutorials[$i]->author);
+     	    }
+     		
+     	    else{
+               $authors=array();
+     	    }
+     		
      	    if(isset($tutorials[$i]->title))
      		$title=$tutorials[$i]->title;
      	    else
@@ -60,7 +69,7 @@ class tutorialController extends Controller
      	    else
      		$no_of_files="";
      		$source="created";
-     	$data1=array("id"=>$id1,"title"=>$title,"description"=>$description,"keywords"=>$keywords,"source"=>$source,"rating"=>$rating,"type"=>"article","no_of_files"=>$no_of_files,"imagesrc"=>'');
+     	$data1=array("id"=>$id1,"title"=>$title,"author"=>$authors,"description"=>$description,"keywords"=>$keywords,"source"=>$source,"rating"=>$rating,"type"=>"created_article","no_of_files"=>$no_of_files,"imagesrc"=>'');
      	array_push($data,$data1);
       $rating = $rating - 0.15;
         }

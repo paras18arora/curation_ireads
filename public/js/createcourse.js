@@ -27,6 +27,7 @@
           totalfiledata:totalfiledata,
           title:document.getElementById('title').value,
           description:document.getElementById('description').value,
+          author:document.getElementById('author').value,
           tags:$("#tags").tagsinput('items')
         }
         )

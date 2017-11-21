@@ -18,7 +18,6 @@ Route::post('/filter', [
    'uses' => 'filterController@search',
    'as' => 'filter'
 ]);
-
 Route::get('/', [
 	'uses' => 'HomeController@display',
 	'as' => 'home'

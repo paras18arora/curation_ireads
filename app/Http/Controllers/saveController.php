@@ -14,6 +14,7 @@ class saveController extends Controller
        $description=$request->description;
        $tutorial_tags="";
        $totalfiledata=$request->totalfiledata;
+       $author=$request->author;
        foreach ($tags as $key) {
          $tutorial_tags=$tutorial_tags.$key." ";
        }
@@ -21,7 +22,7 @@ class saveController extends Controller
        Log::info($tutorial_tags);
 
        $id1 = DB::table('tutorials')->insertGetId(
-        array('title' => $title, 'no_of_files' => count($totalfiledata) ,'tags' => $tutorial_tags,'description' => $description)
+        array('title' => $title, 'no_of_files' => count($totalfiledata) ,'tags' => $tutorial_tags,'description' => $description,'Author' => $author)
         );
        Log::info('insert');
 

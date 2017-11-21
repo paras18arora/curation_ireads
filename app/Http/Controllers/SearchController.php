@@ -32,6 +32,7 @@ class SearchController extends Controller
        $filter1=$request->filter1;
        $filter2=$request->filter2;
        $filter3=$request->filter3;
+       $filter4=$request->filter4;
        if(!isset($request->filter_value))
        {
        $data=array();
@@ -72,7 +73,7 @@ if (is_array($instance1) || is_object($instance1))
        {
         foreach ($tags as $tag) {
          
-          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
+          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false || stripos($key['keywords'],$tag)!=false)
           {
       
        
@@ -130,8 +131,12 @@ if (is_array($instance1) || is_object($instance1))
       return 0;
     
 });
+     if(sizeof($data)<10)
+     {
+      $data=[];
+     }
    
-     return view('pages.search')->with(['req' => $this->req,'data1' => $data,'data' => $data,'paginatevalue' => $paginatevalue,'youtube_token' => $token,'nexttoken'=>$nexttoken,'course_type' => $course_type,'filter1' => $filter1,'filter2' => $filter2,'filter3' => $filter3,'filter_value'=>'0']);
+     return view('pages.search')->with(['req' => $this->req,'data1' => $data,'data' => $data,'paginatevalue' => $paginatevalue,'youtube_token' => $token,'nexttoken'=>$nexttoken,'course_type' => $course_type,'filter1' => $filter1,'filter2' => $filter2,'filter3' => $filter3,'filter4' => $filter4,'filter_value'=>'0']);
    }
    else
    {
@@ -143,6 +148,7 @@ if (is_array($instance1) || is_object($instance1))
      $token=$request->nextYoutubetoken;
      $data=array();
      $Arr = json_decode($request->data, true); 
+
      if($request->filter1!="")
      {
       foreach ($Arr as $key) {
@@ -160,11 +166,18 @@ if (is_array($instance1) || is_object($instance1))
      if($request->filter3!="")
      {
       foreach ($Arr as $key) {
-        if($key['type']=="article")
+        if($key['type']=="article" || $key['type']=="business_article" || $key['type']=="created_article")
           array_push($data,$key);
       }
      }
-     if($request->filter1=="" && $request->filter2=="" && $request->filter3=="")
+     if($request->filter4!="")
+     {
+      foreach ($Arr as $key) {
+        if($key['type']=="created_article")
+          array_push($data,$key);
+      }
+     }
+     if($request->filter1=="" && $request->filter2=="" && $request->filter3=="" && $request->filter4=="")
      {
       foreach ($Arr as $key) {
           array_push($data,$key);
@@ -179,7 +192,7 @@ if (is_array($instance1) || is_object($instance1))
       return 0;
     
 });
-   return view('pages.search')->with(['req' => $this->req,'data1' => $data,'data' => $Arr,'paginatevalue' => $paginatevalue,'youtube_token' => $token,'nexttoken'=>$nexttoken,'course_type' => $course_type,'filter1' => $filter1,'filter2' => $filter2,'filter3' => $filter3,'filter_value'=>'1']);
+   return view('pages.search')->with(['req' => $this->req,'data1' => $data,'data' => $Arr,'paginatevalue' => $paginatevalue,'youtube_token' => $token,'nexttoken'=>$nexttoken,'course_type' => $course_type,'filter1' => $filter1,'filter2' => $filter2,'filter3' => $filter3,'filter4' => $filter4,'filter_value'=>'1']);
 }
    
 

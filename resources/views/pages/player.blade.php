@@ -11,7 +11,7 @@
 @endsection
 @section('content')
 	@php $post_type = $type1; @endphp
-	<div class="top player-bar">
+	<!--<div class="top player-bar">
 		<nav>
 		  	<ul class="pager pager-top">
 		    	<li class="previous menu"><a href="javascript:void(0)" onclick="openNav()"><i class="fa fa-bars fa-2x"></i></li>
@@ -19,12 +19,13 @@
 		  	</ul>
 		</nav>
 	</div>
+	-->
 	<div class="player wrapper">
 		@for($i = 0; $i < $totalfiles; $i++)
 	    <div class="item">
 	    	@if($post_type == 'video')
 	    		@include('pages.video')
-	    	@elseif($post_type == 'article' && $no_of_files!=0)
+	    	@elseif($post_type == 'created_article' && $no_of_files!=0)
 	    		@include('pages.tutorials')
 	    	@elseif($post_type == 'article' || $post_type == 'database_article' || $post_type == 'news')
 	    		@include('pages.image')
@@ -35,6 +36,7 @@
 	    </div>
 	    @endfor
 	</div>
+	@if($totalfiles>1)
 	<div class="bottom player-bar">
 		<nav>
 		  	<ul class="pager pager-bottom">
@@ -44,7 +46,8 @@
 		  	</ul>
 		</nav>
 	</div>
-	<div id="mySidenav" class="sidenav">
+	@endif
+	<!--<div id="mySidenav" class="sidenav">
 	  	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 	  	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	  		@for($i = 1; $i <= 5; $i++)
@@ -66,7 +69,7 @@
 	  	  	</div>
 	  	  	@endfor
 	  	</div>
-	</div>
+	</div>-->
 @endsection
 @section('footer')
 @endsection

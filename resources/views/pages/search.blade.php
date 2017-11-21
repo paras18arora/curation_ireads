@@ -4,10 +4,12 @@
 <meta name="csrf-token3" content="{!! Session::token() !!}">
 	<title>IndiaReads - Search</title>
 	<script type="text/javascript">
+	
 	$( document ).ready(function() {
     var video='<?php echo $filter1; ?>';
     var book='<?php echo $filter2; ?>';
     var article='<?php echo $filter3; ?>';
+    var created_article='<?php echo $filter4; ?>';
     $("li").removeClass("active");
     var paginatevalue='<?php echo $paginatevalue; ?>';
     if (paginatevalue==1)
@@ -17,13 +19,15 @@
     var nexttoken='<?php echo $nexttoken; ?>'
    
     $('.a'+paginatevalue).addClass('active');
-
     if(video=="video")
     $('#videoid').attr('checked', true);
     if(book=="book")
     $('#bookid').attr('checked', true);
     if(article=="article")
     $('#articleid').attr('checked', true);
+    if(created_article=="created_article")
+    $('#createdarticleid').attr('checked', true);
+
 });
 	</script>
 @endsection
@@ -39,7 +43,7 @@
 	</div>
 	<div class="">
 		<div class="col-md-2 side">
-			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+			<!--<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 				@foreach($category as $cat)
 			  	<div class="panel panel-default">
 			  	    <div class="panel-heading" role="tab" id="{{ str_slug($cat->category_name) }}">
@@ -62,6 +66,7 @@
 			  	    </div>
 		  	  	</div>
 		  	  	@endforeach
+		  	  	-->
 			</div>
 		</div>
 		@if(empty($data))
@@ -94,12 +99,15 @@
 						<div class="col-md-3 item-img"><img class="item-size" src="@if($key['type']=='video') {{$key['thumbnail1']}}  @elseif($key['type']=='article') @if($key['imagesrc']!='')https://cdn-images-1.medium.com/fit/t/400/400/{{$key['imagesrc']}} @else {{ URL::asset('img/article.jpg') }} @endif @elseif($key['type']=='book') {{$key['thumbnails']['thumbnail']}} @else {{ URL::asset('img/article.jpg') }} @endif" /></div>
 						<div class="col-md-9 item-content">
 							<h3>{{ $key['title'] }}</h3>
+							
 							<h4>
 								@if(isset($key['authors'][0])) 
 									{{$key['authors'][0]}} 
 								@endif
 							</h4>
 							<p>{{ substr($key['description'],0,200) }}...</p>
+							<p class="right-float">@if($key['type']=='database_article' || $key['type']=='created_article')article
+							@else{{$key['type']}}@endif</p>
 						</div>
 					</div>
 				</a>
@@ -111,7 +119,7 @@
 			<form id="detail" method="post" action="{{ route('course',['type' => $key['type'],'name' => str_slug($key['title'])]) }}">
 				<a onclick="$(this).closest('form').submit();">
 				<input type='hidden' name='_token' value='{!! Session::token() !!}'>
-				<input type='hidden' id="dataid" name='dataa' value='{{serialize($data)}}'>
+				<input type='hidden' id="dataid" name='dataa' value='{{json_encode($data)}}'>
 				<input type='hidden' name='videoid' value="@if($key['type']=='video') {{$key['VideoId']}} @else @endif">
 				<input type='hidden' name='isbn' value="@if($key['type']=='book') {{$key['isbn']}} @else @endif">
 				<input type="hidden" name="title" value="{{$key['title']}}">
@@ -136,6 +144,8 @@
 								@endif
 							</h4>
 							<p>{{ substr($key['description'],0,200) }}...</p>
+							<p class="right-float">@if($key['type']=='database_article' || $key['type']=='created_article')article
+							@else{{$key['type']}}@endif</p>
 						</div>
 					</div>
 				</a>
@@ -151,6 +161,7 @@
 			<input type='hidden' id="paginatevalue" name='paginatevalue' value=''>
            <input type='hidden' name='filter2' value='{{$filter2}}'>
            <input type='hidden' name='filter3' value='{{$filter3}}'>
+           <input type='hidden' name='filter4' value='{{$filter4}}'>
 			<input type='hidden' id="nexttoken" name='nexttoken' value=''>
   <ul class="pagination">
     <li class="page-item a7">
@@ -180,7 +191,7 @@
 			
 			<form id="filterform" method="post" action="{{ route('search',['q' => $req['q'],'filter_value' => '1','nextYoutubetoken' => $youtube_token, 'course_type' => 'book','nexttoken' => $nexttoken]) }}">
 			@if(!empty($req['course_type']))
-				<span style="float: right"><a onClick="clearfilter(this);" >Clear</a></span>
+				<span style="float: right;cursor: pointer;"><a onClick="clearfilter(this);" >Clear</a></span>
 			@endif
 			<hr style="margin: 0px">
 			<h6>Refine by Type</h6>
@@ -189,7 +200,7 @@
 			
 			
 			    
-			    <input type='hidden' id="dataid" name='data' value='{{serialize($data)}}'>
+			    <input type='hidden' id="dataid" name='data' value='{{json_encode($data)}}'>
 			    <input type='hidden' name='_token' value='{!! Session::token() !!}'>
                 <label><input id="videoid" type="checkbox" onChange="this.form.submit();"  name="filter1" value="video">Video</label>
                 </div>
@@ -198,6 +209,9 @@
                 </div>
                 <div class="checkbox">
                 <label><input id="articleid" type="checkbox" onChange="this.form.submit();"  name="filter3" value="article">Article</label>
+                </div>
+                <div class="checkbox">
+                <label><input id="createdarticleid" type="checkbox" onChange="this.form.submit();"  name="filter4" value="created_article">Created Content</label>
                 </div>
              
 			

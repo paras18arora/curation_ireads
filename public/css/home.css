@@ -11,7 +11,7 @@ body{padding-top: 0px}
 .item{height: 20rem;background: #8bc34a;padding: 1rem;text-align: center;color:#fff;}
 .btn-show-all{background:none !important;}
 .btn-show-all:hover{border:1px solid #bc3527;color:#bc3527;transition: all 0.25s ease-in-out;}
-.newspaper{max-height:100px;overflow:scroll;}
+.newspaper{max-height:500px;overflow-y:scroll;}
 .newspaper .list-group{border:0px solid #fff;box-shadow: none !important}
 .newspaper .list-group-item{border-radius: 0px;border:0px solid #fff;border-bottom:1px solid #ddd;}
 .owl-controls{position: absolute;top:40%;width:100%;}

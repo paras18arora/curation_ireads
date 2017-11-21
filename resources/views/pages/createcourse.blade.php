@@ -41,19 +41,22 @@
     <br>
     <button class="btn btn-info jumbo" onclick="addtutorial()">Add new tutorial</button>
     <button class="btn btn-info jumbo1" onclick="removetutorial()">Remove</button>
-    <button type="button" class="btn btn-info jumbo1" data-toggle="modal" data-target="#myModal">Save the tutorial</button>
+    <button type="button" class="btn btn-info jumbo1" data-toggle="modal" onclick= "submittutorial('{{ csrf_token() }}')">Save the tutorial</button>
     </div>
     </div>
-    <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal fade" id="myModal" data-backdrop="static" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
-          <h4 class="modal-title">Save tutorial</h4>
+          <h4 class="modal-title">Create Course</h4>
         </div>
         <div class="modal-body">
           <input type="text" class="form-control" name="title" id="title" placeholder="Enter title" />
+        </div>
+        <div class="modal-body">
+          <input type="text" class="form-control" name="author" id="author" placeholder="Author name..." />
         </div>
         <div class="modal-body">
           <input type="text" class="form-control" data-role="tagsinput" name="tags" id="tags" placeholder="Enter tags" />
@@ -62,8 +65,7 @@
           <textarea class="form-control" rows="4"  name="description" id="description" placeholder="description..."></textarea>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" onclick="submittutorial('{{ csrf_token() }}')" data-dismiss="modal">Save</button>
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Continue</button>
         </div>
       </div>
       
@@ -84,7 +86,11 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.6.0/js/froala_editor.pkgd.min.js"></script>
     <script type="text/javascript" src="{{ URL::asset('js/createcourse.js') }}"></script>
     <!-- Initialize the editor. -->
-    <script> $(function() { 
+    <script> 
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+    $(function() { 
     	
     	$('#article1').froalaEditor({
             heightMin: 300,

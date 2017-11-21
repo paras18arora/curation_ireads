@@ -40,7 +40,7 @@ class DetailsController extends Controller
     protected function play(Request $req){
         $type1=$req->type1;
        
-        if($type1=='article' && $req->no_of_files!=0)
+        if($type1=='created_article' && $req->no_of_files!=0)
         {
         $id=$req->id;
         $id=substr($id,0,-1);
