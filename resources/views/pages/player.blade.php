@@ -25,7 +25,7 @@
 	    <div class="item">
 	    	@if($post_type == 'video')
 	    		@include('pages.video')
-	    	@elseif($post_type == 'created_article' && $no_of_files!=0)
+	    	@elseif($post_type == 'created_article' )
 	    		@include('pages.tutorials')
 	    	@elseif($post_type == 'article' || $post_type == 'database_article' || $post_type == 'news')
 	    		@include('pages.image')

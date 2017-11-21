@@ -69,7 +69,7 @@
 		  	  	-->
 			</div>
 		</div>
-		@if(empty($data))
+		@if(empty($data) || empty($data1))
 			<h3 class="col-md-7 content" align="center">No Courses Found</h3>
 		@else
 		<div class="col-md-7 content">
@@ -122,6 +122,7 @@
 				<input type='hidden' id="dataid" name='dataa' value='{{json_encode($data)}}'>
 				<input type='hidden' name='videoid' value="@if($key['type']=='video') {{$key['VideoId']}} @else @endif">
 				<input type='hidden' name='isbn' value="@if($key['type']=='book') {{$key['isbn']}} @else @endif">
+				<input type='hidden' name='no_of_files' value="{{$key['no_of_files']}}">
 				<input type="hidden" name="title" value="{{$key['title']}}">
 				<input type="hidden" name="source" value="@if(isset($key['source'])){{$key['source']}} @else '' @endif">
 				<input type="hidden" name="id" value="@if(isset($key['id'])){{$key['id']}} @else '' @endif">
@@ -157,11 +158,11 @@
 			<?php $paginateaddress="/search?q=".$req['q']."&nextYoutubetoken=".$youtube_token."&course_type=".$course_type."&nexttoken="; ?>
 			<form method="post" action="{{ route('search',['q' => $req['q'],'filtervalue' => '1','nextYoutubetoken' => $youtube_token]) }}">
 			<input type='hidden' name='_token' value='{!! Session::token() !!}'>
-			<input type='hidden' name='filter1' value='{{$filter1}}'>
+			<input type='hidden' name='filter1' value=''>
 			<input type='hidden' id="paginatevalue" name='paginatevalue' value=''>
-           <input type='hidden' name='filter2' value='{{$filter2}}'>
-           <input type='hidden' name='filter3' value='{{$filter3}}'>
-           <input type='hidden' name='filter4' value='{{$filter4}}'>
+           <input type='hidden' name='filter2' value=''>
+           <input type='hidden' name='filter3' value=''>
+           <input type='hidden' name='filter4' value=''>
 			<input type='hidden' id="nexttoken" name='nexttoken' value=''>
   <ul class="pagination">
     <li class="page-item a7">

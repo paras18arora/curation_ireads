@@ -33,19 +33,19 @@ class tutorialController extends Controller
        
           
         $tutorials=$items;
-        
+      
        
         for($i=0;$i<sizeof($tutorials);$i++)
         {
 
-          
+            
         	if(isset($tutorials[$i]->id))
      		$id1=$tutorials[$i]->id;
      	    else
      		$id1="";
-     	    if(isset($tutorials[$i]->author)){
+     	    if(isset($tutorials[$i]->Author)){
      	    	$authors=array();
-     	    	array_push($authors, $tutorials[$i]->author);
+     	    	array_push($authors, $tutorials[$i]->Author);
      	    }
      		
      	    else{
@@ -69,7 +69,7 @@ class tutorialController extends Controller
      	    else
      		$no_of_files="";
      		$source="created";
-     	$data1=array("id"=>$id1,"title"=>$title,"author"=>$authors,"description"=>$description,"keywords"=>$keywords,"source"=>$source,"rating"=>$rating,"type"=>"created_article","no_of_files"=>$no_of_files,"imagesrc"=>'');
+     	$data1=array("id"=>$id1,"title"=>$title,"authors"=>$authors,"description"=>$description,"keywords"=>$keywords,"source"=>$source,"rating"=>$rating,"type"=>"created_article","no_of_files"=>$no_of_files,"imagesrc"=>'');
      	array_push($data,$data1);
       $rating = $rating - 0.15;
         }

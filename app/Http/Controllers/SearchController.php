@@ -57,7 +57,7 @@ if (is_array($instance1) || is_object($instance1))
   foreach ($instance1 as $key) 
        {
         foreach ($tags as $tag) {
-         if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
+         if(stripos($key['title'],$tag)!==false || stripos($key['description'],$tag)!==false)
           {
       
         
@@ -73,7 +73,7 @@ if (is_array($instance1) || is_object($instance1))
        {
         foreach ($tags as $tag) {
          
-          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false || stripos($key['keywords'],$tag)!=false)
+          if(stripos($key['title'],$tag)!==false || stripos($key['description'],$tag)!==false || stripos($key['keywords'],$tag)!==false)
           {
       
        
@@ -90,7 +90,7 @@ if (is_array($instance1) || is_object($instance1))
        foreach ($instance2 as $key)
         {
          foreach ($tags as $tag) {
-         if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
+         if(stripos($key['title'],$tag)!==false || stripos($key['description'],$tag)!==false)
           {
       
         
@@ -110,7 +110,7 @@ if (is_array($instance1) || is_object($instance1))
         if($i==1)
           continue;
         foreach ($tags as $tag) {
-          if(stripos($key['title'],$tag)!=false || stripos($key['description'],$tag)!=false)
+          if(stripos($key['title'],$tag)!==false || stripos($key['description'],$tag)!==false)
           {
       
         
@@ -135,7 +135,7 @@ if (is_array($instance1) || is_object($instance1))
      {
       $data=[];
      }
-   
+    
      return view('pages.search')->with(['req' => $this->req,'data1' => $data,'data' => $data,'paginatevalue' => $paginatevalue,'youtube_token' => $token,'nexttoken'=>$nexttoken,'course_type' => $course_type,'filter1' => $filter1,'filter2' => $filter2,'filter3' => $filter3,'filter4' => $filter4,'filter_value'=>'0']);
    }
    else
